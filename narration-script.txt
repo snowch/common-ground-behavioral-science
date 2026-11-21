@@ -1,0 +1,879 @@
+c01s01 Chapter 1: Define the action before choosing a fix
+Repair-café bookings have fallen. Leo proposes an inspiring message about community spirit. Maya notices that the new booking page asks for a printer, and its opening hours conflict with shift work. The team first needs to understand what people are trying to do.
+
+c01s02 Chapter 1: Make a first decision
+First, make a prediction about the café story.
+
+Which is the most useful next step in this café case?
+
+A. Send the message and use its opening rate as the main result.
+
+B. Investigate the booking steps and visitors’ constraints before selecting a change.
+
+C. Treat the printer requirement as the only cause without asking visitors.
+
+Choose an option before checking the feedback.
+
+c01s02-feedback-0 Chapter 1: feedback 1
+Opening a message would not show whether people can complete a useful booking.
+
+c01s02-feedback-1 Chapter 1: feedback 2
+This can distinguish several plausible barriers before committing to a solution.
+
+c01s02-feedback-2 Chapter 1: feedback 3
+The requirement is a plausible barrier, but other constraints may also matter.
+
+c01s03 Chapter 1: A behaviour is more specific than an ambition.
+Behavioural science brings psychology into conversation with economics, sociology and other fields. A target behaviour names an action and its circumstances. An outcome states why that action matters.
+
+For the café, completing a booking is an action; receiving a useful repair is a wider outcome. More clicks could leave that outcome unchanged if no appointments are available.
+
+c01s03b Chapter 1: A missed action can have several causes.
+COM-B organizes questions about capability, opportunity and motivation. It is a diagnostic framework, not a test that reveals a cause by itself.
+
+An unclear instruction may create a capability barrier. A printer requirement or unsuitable opening time may constrain opportunity. Competing priorities can affect motivation. These explanations can coexist and need evidence.
+
+c01s04 Chapter 1: Understanding a barrier needs more than a label.
+Behavioural diagnosis uses information about the actual process. Qualitative evidence can reveal barriers that a completion count hides. Triangulation compares those accounts with other evidence.
+
+Ask people about the booking route, inspect the form, and compare where attempts end. A survey saying motivation is low does not establish that an encouraging message will improve access.
+
+c01s05 Chapter 1: What does the evidence allow?
+The behaviour change wheel describes COM-B as a framework for intervention design. Its categories help organize an assessment; placing a problem in a category does not establish the cause or the effectiveness of a proposed solution.
+
+A course develops interpretation and design skills. It cannot remove a service’s staffing, transport or funding constraints.
+
+c01s06 Chapter 1: Apply the distinction
+Apply the idea to this new fictional case.
+
+A community service wants to improve access for residents working daytime shifts.
+
+Which target is sufficiently specific to investigate?
+
+A. Make the service more welcoming.
+
+B. Increase people’s motivation to participate.
+
+C. Adults seeking evening repairs complete a suitable booking through an accessible route.
+
+Choose an option and write your reasoning before checking the feedback.
+
+c01s06-feedback-0 Chapter 1: feedback 1
+Welcoming is an important ambition, but it needs a specified action and meaningful outcome.
+
+c01s06-feedback-1 Chapter 1: feedback 2
+A motivational explanation still needs evidence and an observable target.
+
+c01s06-feedback-2 Chapter 1: feedback 3
+This identifies people, an action and relevant conditions without assuming the cause.
+
+c01s07 Chapter 1: Explain it without the notes
+Try these questions without your notes.
+
+How does a target behaviour differ from an outcome?
+
+What can COM-B organize, and what can it not establish?
+
+Reveal the suggested answers after trying.
+
+c01s07-answers Chapter 1: recall answers
+A target behaviour specifies an action in context; an outcome states a result that matters.
+
+It organizes capability, opportunity and motivation hypotheses. Evidence is still needed to identify causes and evaluate changes.
+
+c01s08 Chapter 1: Take the idea into everyday life
+Choose a fictional service problem. Write a target behaviour, a meaningful outcome, and one capability, opportunity and motivation hypothesis. Do not label real people from a distance.
+
+Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.
+
+c02s01 Chapter 2: Friction is not always a small inconvenience
+Jo wants to book a repair but must print a form, find proof of purchase, and call during a short weekday window. The team describes the process as a few simple steps. Jo works those hours and has no printer. A reminder would leave those constraints in place.
+
+c02s02 Chapter 2: Make a first decision
+First, make a prediction about the café story.
+
+What should the team compare first?
+
+A. The purpose of each requirement and the costs it creates for different visitors.
+
+B. The visual length of the form as the complete measure of burden.
+
+C. Whether a warmer reminder can replace changing the booking route.
+
+Choose an option before checking the feedback.
+
+c02s02-feedback-0 Chapter 2: feedback 1
+This can identify unnecessary effort while preserving requirements with a justified purpose.
+
+c02s02-feedback-1 Chapter 2: feedback 2
+A short form can still require costly documents, devices or travel.
+
+c02s02-feedback-2 Chapter 2: feedback 3
+A reminder may help someone remember but cannot supply a printer or suitable opening time.
+
+c02s03 Chapter 2: Count the work from the participant’s side.
+Administrative burden concerns costs experienced in an interaction. Learning cost includes finding a rule; compliance cost includes completing the required steps.
+
+An instruction that looks brief to its author may require travel, documents and repeated calls. Map the journey from the participant’s position, including failed attempts. The number of screens alone does not measure the total burden.
+
+c02s03b Chapter 2: The same process can impose unequal costs.
+Psychological cost includes experiences such as stigma or an intrusive demand. Accessibility concerns whether different people can use the route. A distributional effect describes who carries the costs or receives the benefit.
+
+Jo’s printer constraint differs from someone else’s language or mobility needs. Ask about relevant conditions without assuming that everyone in a demographic group has the same experience.
+
+c02s04 Chapter 2: Simplifying a form does not create appointments.
+Friction can come from unnecessary steps. A structural constraint, such as limited evening transport, can require a different response. Service capacity limits how many repairs can actually be offered.
+
+Removing duplicate questions may help Jo complete the form. It does not add an evening appointment or a bus route. Compare proposed changes with the barrier they are meant to address.
+
+c02s05 Chapter 2: What does the evidence allow?
+Administrative-burden research distinguishes learning, compliance and psychological costs. These categories help investigate unequal access, but they do not imply that every requirement is unnecessary. Some requirements serve legitimate safety or eligibility purposes.
+
+Evaluate simplification alongside its consequences, service capacity and accessible alternatives. A shorter process is not sufficient evidence of a fairer outcome.
+
+c02s06 Chapter 2: Apply the distinction
+Apply the idea to this new fictional case.
+
+A redesigned form has higher completion, but evening appointments remain unavailable and some visitors still need a phone route.
+
+What conclusion is supported?
+
+A. The new layout has solved access because completion increased.
+
+B. The layout may reduce effort, but appointment availability and uneven access still need investigation.
+
+C. The layout should be discarded because it did not increase service capacity.
+
+Choose an option and write your reasoning before checking the feedback.
+
+c02s06-feedback-0 Chapter 2: feedback 1
+Completion alone does not establish useful access or show who remains excluded.
+
+c02s06-feedback-1 Chapter 2: feedback 2
+This separates a possible process improvement from the wider outcome and remaining constraints.
+
+c02s06-feedback-2 Chapter 2: feedback 3
+A change can reduce effort without solving every barrier; the benefit still needs evaluation.
+
+c02s07 Chapter 2: Explain it without the notes
+Try these questions without your notes.
+
+Name the three administrative-burden cost categories.
+
+Why can an easier process still produce unequal access?
+
+Reveal the suggested answers after trying.
+
+c02s07-answers Chapter 2: recall answers
+Learning costs concern understanding requirements; compliance costs concern meeting them; psychological costs include stress, stigma and loss of autonomy.
+
+People face different resources, needs and constraints. Capacity and accessible alternatives can remain unequal.
+
+c02s08 Chapter 2: Take the idea into everyday life
+Map a fictional booking journey. Identify one requirement’s purpose, its likely costs, an accessible alternative, and a material constraint that a form redesign would leave unchanged.
+
+Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.
+
+c03s01 Chapter 3: A reminder needs something feasible to remind
+Visitors sometimes forget appointments after booking. Leo wants a bright message every day. Maya asks whether the time is clear, whether visitors can reschedule, and whether transport is reliable. Forgetting is one possible explanation; it is not the only reason an appointment is missed.
+
+c03s02 Chapter 3: Make a first decision
+First, make a prediction about the café story.
+
+Which proposal best tests an attention explanation?
+
+A. Use daily bright messages and count how often they are opened.
+
+B. Remove the rescheduling route so the message has one clear instruction.
+
+C. Compare a useful, appropriately timed reminder with the existing approach and measure attendance.
+
+Choose an option before checking the feedback.
+
+c03s02-feedback-0 Chapter 3: feedback 1
+This bundles frequency and design, while openings do not establish attendance.
+
+c03s02-feedback-1 Chapter 3: feedback 2
+A narrower instruction could remove an important option for people whose plans change.
+
+c03s02-feedback-2 Chapter 3: feedback 3
+This tests a specific proposal while keeping attention and attendance distinct.
+
+c03s03 Chapter 3: A message competes with other demands.
+Limited attention means that relevant information may not come to mind when needed. Salience concerns what stands out; a reminder is a cue intended to bring an action back to mind.
+
+A clear appointment time near the moment of planning may help. A brightly coloured message can also be noticed without making the visit feasible. Distinguish noticing from understanding and acting.
+
+c03s03b Chapter 3: Use the channel and moment that fit the action.
+Timing matters because a cue can arrive before a person can act. Actionable information specifies the next step, including how to change a booking. Notification fatigue is a possible cost of repeated or unwanted messages.
+
+A visitor may prefer one useful reminder with a rescheduling link over daily messages. Check preferences and access to the channel rather than assuming that more contact is better.
+
+c03s04 Chapter 3: An opened message is not an attended appointment.
+A process measure, such as message delivery, can help explain implementation. A behavioural outcome records the action that matters. A mechanism hypothesis connects the two but still needs evidence.
+
+If openings rise while attendance is unchanged, the message may attract attention without resolving access. Also check whether the attendance measure is reliable and whether the service had room for more visitors.
+
+c03s05 Chapter 3: What does the evidence allow?
+Field experiments have found useful reminder effects in particular savings settings. Those findings do not establish that any reminder, channel or frequency will work for café attendance or another service.
+
+Test the proposed timing and content against a suitable comparison, using a meaningful outcome and respecting communication preferences.
+
+c03s06 Chapter 3: Apply the distinction
+Apply the idea to this new fictional case.
+
+A new reminder gets more openings, but the attendance rate is unchanged.
+
+What should the team investigate next?
+
+A. Whether recipients can understand and act on the message, including practical access.
+
+B. How to maximize openings as the sole goal.
+
+C. Whether an unchanged attendance rate proves that attention never matters.
+
+Choose an option and write your reasoning before checking the feedback.
+
+c03s06-feedback-0 Chapter 3: feedback 1
+This checks the next links in the proposed mechanism and alternative explanations.
+
+c03s06-feedback-1 Chapter 3: feedback 2
+Attention is useful only in relation to a meaningful outcome and acceptable costs.
+
+c03s06-feedback-2 Chapter 3: feedback 3
+One result for one message does not settle every attention intervention.
+
+c03s07 Chapter 3: Explain it without the notes
+Try these questions without your notes.
+
+Why does salience not guarantee action?
+
+How do process measures and behavioural outcomes differ?
+
+Reveal the suggested answers after trying.
+
+c03s07-answers Chapter 3: recall answers
+A message can stand out while the action remains unclear, unwanted or impractical.
+
+Process measures describe delivery or use; behavioural outcomes describe the specified action.
+
+c03s08 Chapter 3: Take the idea into everyday life
+Draft a fictional appointment reminder. Name the attention hypothesis, the feasible next step, an accessible alternative, and the outcome you would compare with the current approach.
+
+Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.
+
+c04s01 Chapter 4: The way a choice is presented can matter
+The café considers automatically renewing a membership. Leo expects the default to increase renewals. Maya asks whether people understand the charge and can leave easily. Another proposal describes the same repair contribution as either supporting a service or avoiding its loss. The team needs to examine both evidence and consent.
+
+c04s02 Chapter 4: Make a first decision
+First, make a prediction about the café story.
+
+What should the team establish before adopting automatic renewal?
+
+A. How clearly terms are understood, how easily people can leave, and what consequences follow.
+
+B. Whether renewal increases, treating every retained membership as a preferred choice.
+
+C. Whether a reassuring description can replace an accessible cancellation route.
+
+Choose an option before checking the feedback.
+
+c04s02-feedback-0 Chapter 4: feedback 1
+This evaluates informed choice and consequences as well as the service’s retention goal.
+
+c04s02-feedback-1 Chapter 4: feedback 2
+Retention can reflect inattention or effort as well as a positive preference.
+
+c04s02-feedback-2 Chapter 4: feedback 3
+Wording does not remove the need for meaningful control over a charge.
+
+c04s03 Chapter 4: Equivalent descriptions can guide attention differently.
+A framing effect concerns the description of a choice. A reference point supplies a comparison standard. Loss aversion describes a pattern in some models and settings; it is not a universal rule about every person.
+
+Calling a membership change a gain or a loss can highlight different comparisons. Changing the actual price or eligibility is a different intervention from changing the description.
+
+c04s03b Chapter 4: A default can have more than one explanation.
+A default option applies when someone does not actively select otherwise. Status quo bias can contribute to staying with an existing state, but inattention, switching effort and perceived endorsement can also matter. Active choice asks for an explicit decision.
+
+An automatic renewal could increase retention while leaving some people with an unwanted charge. Its uptake does not show that every retained member preferred it.
+
+c04s04 Chapter 4: A higher uptake rate is not the whole evaluation.
+Informed choice needs understandable information. A switching cost can make an unwanted option hard to escape. Welfare concerns the consequences for people, not simply the service’s preferred uptake rate.
+
+Show the price and renewal date clearly, offer an accessible cancellation route, and ask about unwanted charges. A default should not be treated as permission to hide information or manufacture agreement.
+
+c04s05 Chapter 4: What does the evidence allow?
+Research documents framing and default effects in specified settings, including retirement-saving decisions. Multiple mechanisms and contextual differences limit simple predictions about a new service.
+
+A model of loss aversion is not a licence to invent threats or obscure a price. Ethical evaluation includes understanding, accessible alternatives and unwanted consequences alongside uptake.
+
+c04s06 Chapter 4: Apply the distinction
+Apply the idea to this new fictional case.
+
+A service wants to test whether gain-oriented versus loss-oriented wording affects a voluntary contribution.
+
+What comparison isolates presentation most clearly?
+
+A. A low-price option with supportive wording versus a high-price option with loss wording.
+
+B. Two truthful descriptions with the same underlying price, options and conditions.
+
+C. A clear opt-in offer versus an automatic charge with less prominent terms.
+
+Choose an option and write your reasoning before checking the feedback.
+
+c04s06-feedback-0 Chapter 4: feedback 1
+Changing price and wording together prevents attribution to wording alone.
+
+c04s06-feedback-1 Chapter 4: feedback 2
+Holding the offer constant helps distinguish presentation from a change in substantive terms.
+
+c04s06-feedback-2 Chapter 4: feedback 3
+This changes several features and introduces a consent problem.
+
+c04s07 Chapter 4: Explain it without the notes
+Try these questions without your notes.
+
+Why can default uptake have several explanations?
+
+How does a framing change differ from a change in the offer?
+
+Reveal the suggested answers after trying.
+
+c04s07-answers Chapter 4: recall answers
+Preference, attention, effort and perceived endorsement can all contribute. Uptake alone does not distinguish them.
+
+A frame changes the description; a changed offer alters available terms such as price, eligibility or options.
+
+c04s08 Chapter 4: Take the idea into everyday life
+On paper, design an honest choice between two fictional service options. Identify the reference point, any default, information needed for understanding, and a low-effort way to change a choice.
+
+Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.
+
+c05s01 Chapter 5: A future intention meets a present situation
+Sam plans to volunteer next month but postpones choosing a shift. The form takes time now, while the hoped-for benefit is later. Jo also postpones, but their employer has not released a work schedule. The same visible delay may have different causes.
+
+c05s02 Chapter 5: Make a first decision
+First, make a prediction about the café story.
+
+What best distinguishes Sam’s and Jo’s possible barriers?
+
+A. Treat both delays as evidence of present bias.
+
+B. Ask each person what prevents booking and whether a feasible shift can currently be chosen.
+
+C. Require a deposit before investigating why booking is delayed.
+
+Choose an option before checking the feedback.
+
+c05s02-feedback-0 Chapter 5: feedback 1
+The same delay can arise from different processes and constraints.
+
+c05s02-feedback-1 Chapter 5: feedback 2
+This can distinguish immediate effort, missing information and other barriers.
+
+c05s02-feedback-2 Chapter 5: feedback 3
+A deposit adds a cost without establishing the source of delay.
+
+c05s03 Chapter 5: Delay can reflect more than one process.
+Present bias concerns disproportionate emphasis on immediacy; time inconsistency concerns a change in preferred plans as a decision approaches. A constraint can instead make action genuinely unavailable.
+
+Sam might value volunteering but avoid today’s form. Jo may be unable to select a shift without a work schedule. Observing delay alone cannot identify either person’s preferences or prove a self-control problem.
+
+c05s03b Chapter 5: A plan needs a usable cue and a feasible response.
+An implementation intention links a cue to a response: if a situation occurs, then take a specified action. Feasibility still matters.
+
+Sam might choose to book after receiving the next work schedule. That cue makes sense only if a suitable shift is available and the booking route works. An if-then sentence cannot supply transport, money or predictable working hours.
+
+c05s04 Chapter 5: Commitment can support a goal or impose a cost.
+A commitment device changes the conditions around a future choice. Voluntary participation and reversibility matter because circumstances can change.
+
+Sam may want a calendar booking and an easy way to reschedule. A large cancellation penalty could instead punish an unavoidable shift change. Evaluate the aid with the person’s interests in view, including who bears the risk of an unexpected problem.
+
+c05s05 Chapter 5: What does the evidence allow?
+Present-biased models explain some patterns of changing choice; they do not diagnose a person from a missed task. Research on implementation intentions examines specified plans, tasks and populations, with effects that depend on those conditions.
+
+A planning aid needs an existing goal, a feasible response and an acceptable burden. It cannot substitute for material resources or predictable access.
+
+c05s06 Chapter 5: Apply the distinction
+Apply the idea to this new fictional case.
+
+A visitor wants to volunteer but can choose a shift only after receiving a variable work schedule.
+
+Which planning aid best fits the case?
+
+A. A fee for any later change, including a changed work shift.
+
+B. A motivational pledge without a usable opportunity to book.
+
+C. An optional cue to check availability after the schedule arrives, with a straightforward rescheduling route.
+
+Choose an option and write your reasoning before checking the feedback.
+
+c05s06-feedback-0 Chapter 5: feedback 1
+This can penalize uncertainty outside the person’s control.
+
+c05s06-feedback-1 Chapter 5: feedback 2
+A pledge leaves the practical link between cue and feasible action unspecified.
+
+c05s06-feedback-2 Chapter 5: feedback 3
+This matches a relevant cue to a feasible response while allowing circumstances to change.
+
+c05s07 Chapter 5: Explain it without the notes
+Try these questions without your notes.
+
+Why is delay insufficient evidence of present bias?
+
+What makes an implementation intention more than a general aspiration?
+
+Reveal the suggested answers after trying.
+
+c05s07-answers Chapter 5: recall answers
+Delay can reflect immediate costs, unavailable information, competing priorities or other constraints.
+
+It links a specific cue to a specified response, and that response must be feasible.
+
+c05s08 Chapter 5: Take the idea into everyday life
+Write an optional if-then plan for a fictional intention. State the cue, the response, a constraint that could defeat it, and a fair way to revise the arrangement.
+
+Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.
+
+c06s01 Chapter 6: A social norm message needs a truthful comparison
+The café wants more people to return borrowed tools. Leo proposes a sign saying most visitors already return everything. The team has not measured that claim. Maya also asks whether publishing an average could encourage careful visitors to do less, and whether a clearer return shelf would help more.
+
+c06s02 Chapter 6: Make a first decision
+First, make a prediction about the café story.
+
+What should the team do before using Leo’s proposed sign?
+
+A. Use the majority claim because its desired direction is reasonable.
+
+B. Check the claim, the relevant comparison group, and practical barriers to returning tools.
+
+C. Publish the average alone and assume careful borrowers will maintain their behaviour.
+
+Choose an option before checking the feedback.
+
+c06s02-feedback-0 Chapter 6: feedback 1
+A desirable goal does not make an unmeasured majority claim truthful.
+
+c06s02-feedback-1 Chapter 6: feedback 2
+This examines the message’s factual basis, relevance and alternative barriers.
+
+c06s02-feedback-2 Chapter 6: feedback 3
+An average can have different implications for people with different baselines.
+
+c06s03 Chapter 6: What people do and what they approve are different.
+A descriptive norm concerns what people commonly do. An injunctive norm concerns approval. A reference group specifies whose behaviour or approval is relevant.
+
+A sign about other café visitors differs from a statement about national habits. Neither establishes what this visitor values. Before using a norm message, check that its claim is accurate and its comparison group makes sense.
+
+c06s03b Chapter 6: An average can point people in an unwanted direction.
+A boomerang effect moves behaviour opposite to the intended direction. A heterogeneous effect varies across people or settings. Baseline behaviour can help identify which comparisons might matter.
+
+A careful tool borrower who sees that the average return rate is lower than their own could infer that doing less is normal. That is a hypothesis to consider, not a prediction that every careful borrower will change.
+
+c06s04 Chapter 6: A truthful sign still needs an accessible action.
+Social context affects which comparisons are meaningful. Mechanism evidence helps distinguish social influence from other explanations. An unintended consequence can include exclusion or an unwanted change among people already doing well.
+
+A sign might work because it clarifies where tools belong rather than because visitors compare themselves with others. Check the shelf design and evaluate the action, not just agreement with the message.
+
+c06s05 Chapter 6: What does the evidence allow?
+An energy-use field experiment found that descriptive comparisons could have different effects depending on prior consumption, and that an approval cue changed those results in that setting. This supports attention to baselines and message content, not a universal recipe for every group.
+
+Do not invent a majority claim to obtain compliance. A truthful, relevant message can still require testing and monitoring for uneven or unwanted effects.
+
+c06s06 Chapter 6: Apply the distinction
+Apply the idea to this new fictional case.
+
+In a fictional pilot, average returns rise slightly but returns among previously careful borrowers fall. The groups are small.
+
+What does the combined result suggest?
+
+A. Use only the overall average because subgroup differences are distracting.
+
+B. The message is proven harmful for every careful visitor.
+
+C. Investigate baseline differences, uncertainty and possible boomerang effects before expanding the message.
+
+Choose an option and write your reasoning before checking the feedback.
+
+c06s06-feedback-0 Chapter 6: feedback 1
+An overall improvement can hide a potentially important unwanted change.
+
+c06s06-feedback-1 Chapter 6: feedback 2
+The result calls for investigation, not a universal judgment about each person.
+
+c06s06-feedback-2 Chapter 6: feedback 3
+This treats variation as evidence to examine and avoids premature expansion.
+
+c06s07 Chapter 6: Explain it without the notes
+Try these questions without your notes.
+
+How does a descriptive norm differ from an injunctive norm?
+
+Why should a norm message be considered alongside baseline behaviour?
+
+Reveal the suggested answers after trying.
+
+c06s07-answers Chapter 6: recall answers
+A descriptive norm concerns what people commonly do; an injunctive norm concerns perceived approval or disapproval.
+
+A comparison may imply different things to people whose earlier behaviour was above or below it, and effects may differ.
+
+c06s08 Chapter 6: Take the idea into everyday life
+Draft a norm message only for a fictional dataset. State the observation behind it, the reference group, a possible unintended response, and a practical alternative to a message.
+
+Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.
+
+c07s01 Chapter 7: An incentive can change more than the payoff
+The café proposes rewarding volunteers for the number of repairs completed. Sam worries that difficult cases will be avoided and repair quality may fall. Jo says modest reimbursement for travel would solve a different problem. The team needs to distinguish removing a cost from paying for a target count.
+
+c07s02 Chapter 7: Make a first decision
+First, make a prediction about the café story.
+
+Which evaluation best matches the café proposal?
+
+A. Compare repair count together with quality, case difficulty, access and costs.
+
+B. Use repair count alone because it is the rewarded outcome.
+
+C. Reject reimbursement because some performance incentives can change motivation.
+
+Choose an option before checking the feedback.
+
+c07s02-feedback-0 Chapter 7: feedback 1
+These measures can distinguish a meaningful benefit from displacement or recording changes.
+
+c07s02-feedback-1 Chapter 7: feedback 2
+The rewarded count is a proxy for useful repairs and can miss important consequences.
+
+c07s02-feedback-2 Chapter 7: feedback 3
+Repaying expenses and rewarding a performance target can address different barriers.
+
+c07s03 Chapter 7: Ask exactly what the arrangement rewards.
+An incentive changes the relative attractiveness of actions. Reimbursement repays a cost; opportunity cost concerns the alternative a person gives up. These can overlap in practice but answer different questions.
+
+Travel reimbursement may make a shift affordable. A payment for repair count rewards a particular result. Neither proposal should be evaluated by a general claim that money either solves motivation or damages it.
+
+c07s03b Chapter 7: The rewarded measure can displace the intended outcome.
+A proxy measure stands in for something harder to observe. A substitution effect can shift activity toward the rewarded action. Gaming improves the measured result without the intended benefit.
+
+Counting completed repairs may encourage quick cases, or change how a completion is recorded. Measure quality, difficult-case access and unintended costs alongside throughput. Not every rise in the count is gaming, so investigate rather than presume misconduct.
+
+c07s04 Chapter 7: Meaning and fairness can affect a response.
+Motivational crowding describes a possible change in other motivation. Acceptability concerns how people judge an arrangement, while distribution concerns who gains and who pays its costs.
+
+A payment can communicate recognition, control or a commercial expectation depending on the setting. Ask affected people, compare meaningful outcomes, and examine who can meet the rewarded target. Do not turn a possible crowding effect into a rule against paying people fairly.
+
+c07s05 Chapter 7: What does the evidence allow?
+Research reviews describe varied incentive effects across tasks, populations and arrangements. Effects on other motivation are possible, but they do not justify the blanket claim that payments backfire or that unpaid participation is preferable.
+
+Evaluate the specified arrangement over an appropriate period. Preserve fair compensation and examine quality, access, costs and effects beyond the rewarded measure.
+
+c07s06 Chapter 7: Apply the distinction
+Apply the idea to this new fictional case.
+
+A pilot reward increases completed-repair counts, but difficult repairs are now referred elsewhere more often.
+
+What is a proportionate interpretation?
+
+A. The payment has shown that volunteers care mainly about money.
+
+B. The count improved, but changes in case selection and quality need investigation.
+
+C. The change must be gaming, so comparison data are unnecessary.
+
+Choose an option and write your reasoning before checking the feedback.
+
+c07s06-feedback-0 Chapter 7: feedback 1
+A count does not reveal a unique motive or justify that conclusion about each person.
+
+c07s06-feedback-1 Chapter 7: feedback 2
+This treats the proxy as one piece of evidence and examines competing explanations.
+
+c07s06-feedback-2 Chapter 7: feedback 3
+A possible distortion needs evidence; it is not established by a count alone.
+
+c07s07 Chapter 7: Explain it without the notes
+Try these questions without your notes.
+
+How does reimbursement differ in purpose from a performance reward?
+
+Why can a proxy improve while the intended outcome worsens?
+
+Reveal the suggested answers after trying.
+
+c07s07-answers Chapter 7: recall answers
+Reimbursement repays a cost of participating; a performance reward makes a specified result more attractive.
+
+People may change case selection, recording or other actions that improve the indicator without improving the underlying benefit.
+
+c07s08 Chapter 7: Take the idea into everyday life
+Design a fictional incentive evaluation. Identify the rewarded action, a meaningful outcome, one possible substitution, and a fairness or access measure.
+
+Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.
+
+c08s01 Chapter 8: Build a proposal with a mechanism and alternatives
+The café has several suggestions: simplify booking, offer evening appointments, send a reminder, or make repair information easier to compare. Leo wants to choose the most fashionable nudge. Maya asks which barrier each proposal addresses, how it is supposed to work, and what evidence would count against it.
+
+c08s02 Chapter 8: Make a first decision
+First, make a prediction about the café story.
+
+How should the team select a proposal?
+
+A. Choose the option described as a nudge because it is likely to be inexpensive.
+
+B. Select the prototype with the most positive comments as proof of impact.
+
+C. Match proposals to investigated barriers and compare mechanisms, feasibility, outcomes and costs.
+
+Choose an option before checking the feedback.
+
+c08s02-feedback-0 Chapter 8: feedback 1
+A low delivery cost does not establish the cause, effectiveness or fairness of a change.
+
+c08s02-feedback-1 Chapter 8: feedback 2
+Comments can inform usability, but they do not supply the needed outcome comparison.
+
+c08s02-feedback-2 Chapter 8: feedback 3
+This turns a label into an inspectable proposal and keeps alternatives in view.
+
+c08s03 Chapter 8: A theory of change makes the links inspectable.
+A theory of change links a change to a proposed process and outcome. An assumption states a condition that link relies on. A counterfactual asks what would happen under an alternative condition.
+
+A reminder assumes that forgetting is relevant, the message is understood, and a feasible appointment exists. Compare it with the current approach and with a material response such as suitable opening hours.
+
+c08s03b Chapter 8: Design tools have different purposes.
+Choice architecture concerns how options are arranged. A nudge changes that environment while preserving options and avoiding a substantial change in economic incentives. A boost aims to develop decision-making competence. These are useful distinctions with debated boundaries.
+
+A clear comparison display may help a choice now; teaching a reusable comparison skill has a different purpose. Neither replaces a needed repair slot, and neither label guarantees effectiveness.
+
+c08s04 Chapter 8: A memorable checklist is not evidence of impact.
+A design framework can help generate ideas. A pilot or feasibility study addresses specified practical questions; a small positive result does not automatically establish effectiveness.
+
+Check whether staff can deliver the change, visitors can use it, and outcomes can be measured. Then use an appropriate evaluation. Keep a record of rejected alternatives so a convenient message does not crowd out a better response to the diagnosed barrier.
+
+c08s05 Chapter 8: What does the evidence allow?
+Choice-architecture reviews reach different conclusions depending on included studies and assumptions about publication bias. Large operational trials also show that published academic effects should not be transferred mechanically to a new service.
+
+A design framework or the word nudge does not establish a benefit. State the mechanism, alternatives, uncertainty and ethical conditions of the specific proposal.
+
+c08s06 Chapter 8: Apply the distinction
+Apply the idea to this new fictional case.
+
+Staff and visitors try a prototype with no comparison group. They identify unclear instructions and a delivery problem.
+
+What can this pilot most directly support?
+
+A. A conclusion about usability and implementation, with an outcome evaluation still needed.
+
+B. A conclusion that the intervention causes better attendance in other services.
+
+C. A conclusion that practical feedback is irrelevant until a large trial is complete.
+
+Choose an option and write your reasoning before checking the feedback.
+
+c08s06-feedback-0 Chapter 8: feedback 1
+The pilot’s design supports practical learning without automatically establishing impact.
+
+c08s06-feedback-1 Chapter 8: feedback 2
+Usability and staff feedback do not establish a causal effect or transfer to a new setting.
+
+c08s06-feedback-2 Chapter 8: feedback 3
+Practical evidence can improve a design even when causal effectiveness remains uncertain.
+
+c08s07 Chapter 8: Explain it without the notes
+Try these questions without your notes.
+
+What belongs in a theory of change?
+
+Why do labels such as nudge, boost or pilot not establish effectiveness?
+
+Reveal the suggested answers after trying.
+
+c08s07-answers Chapter 8: recall answers
+The proposed action, mechanism and outcome, key assumptions, alternatives and evidence that could challenge the links.
+
+They describe an approach or purpose. Effectiveness still depends on a specified implementation, comparison and outcome evidence.
+
+c08s08 Chapter 8: Take the idea into everyday life
+On paper, compare two responses to a fictional barrier, including one material or service change. Write a theory of change for each and one observation that would challenge it.
+
+Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.
+
+c09s01 Chapter 9: Compare changes with what would have happened
+Attendance improved after the café introduced a reminder. The weather also improved and more evening slots became available. Leo attributes the entire rise to the message. Maya proposes a fair comparison, with outcomes and analysis decided before seeing which version looks better.
+
+c09s02 Chapter 9: Make a first decision
+First, make a prediction about the café story.
+
+What is the central problem with Leo’s claim?
+
+A. Attendance is not a useful outcome because it is behavioural.
+
+B. Other changes occurred at the same time, so the message’s contribution is not isolated.
+
+C. A comparison is unnecessary if everyone received the same message.
+
+Choose an option before checking the feedback.
+
+c09s02-feedback-0 Chapter 9: feedback 1
+Attendance can be useful if it is defined, reliably measured and linked to the service goal.
+
+c09s02-feedback-1 Chapter 9: feedback 2
+Weather and slot availability are plausible alternative explanations for the observed change.
+
+c09s02-feedback-2 Chapter 9: feedback 3
+Receiving the message does not reveal what attendance would otherwise have been.
+
+c09s03 Chapter 9: Before-and-after is not the only possible comparison.
+A causal effect compares an intervention with a specified alternative. Random assignment uses chance to allocate an assignment unit, such as a person or a workshop.
+
+A simultaneous comparison can help distinguish the reminder from changes in weather or available slots. If people share messages within a workshop, consider whether assigning workshops is more appropriate. Random assignment and random sampling are different procedures.
+
+c09s03b Chapter 9: Keep the denominator that matches the question.
+Intention-to-treat analysis compares people in their assigned conditions, including those who did not open a message. A percentage point is a difference between percentages. Attrition concerns missing outcome observations.
+
+In an illustrative comparison, attendance of sixty percent versus fifty percent is ten percentage points higher. Comparing only people who opened the message can select different people and break the original comparison.
+
+c09s04 Chapter 9: A point estimate is not the whole result.
+A confidence interval describes uncertainty under statistical assumptions. A wide interval may leave both little benefit and a substantial average benefit compatible with the data. It is not a guarantee about a specific individual. Preregistration records important decisions before results are inspected. Interference occurs when one unit’s treatment affects another’s outcome.
+
+Specify the outcome, comparison, timing, missing-data approach and analysis before testing many versions. Check implementation, spillovers and uncertainty. A favourable estimate alone does not establish a reliable or transferable benefit.
+
+c09s05 Chapter 9: What does the evidence allow?
+Randomized evaluations can support causal inference when assignment, measurement and analysis are appropriate. They do not automatically solve interference, missing outcomes, selective reporting or limited applicability to other settings.
+
+These fictional exercises teach interpretation. Real field research needs suitable expertise, permissions, participant protections and governance; an educational course does not provide that authorization.
+
+c09s06 Chapter 9: Apply the distinction
+Apply the idea to this new fictional case.
+
+A fictional trial randomly assigns eligible visitors to two reminder approaches. Some messages are not opened and some attendance records are missing.
+
+Which comparison best preserves the intended randomized question?
+
+A. Message openers in the new condition versus non-openers in the old condition.
+
+B. Only people who completed the most convenient follow-up measure.
+
+C. All assigned people in each condition, with missing outcomes investigated and handled transparently.
+
+Choose an option and write your reasoning before checking the feedback.
+
+c09s06-feedback-0 Chapter 9: feedback 1
+Opening is a later behaviour that can select people with different characteristics.
+
+c09s06-feedback-1 Chapter 9: feedback 2
+Convenient observation can introduce a different selection problem.
+
+c09s06-feedback-2 Chapter 9: feedback 3
+This preserves assignment as the comparison basis while treating missing data as an unresolved issue to examine.
+
+c09s07 Chapter 9: Explain it without the notes
+Try these questions without your notes.
+
+How does random assignment differ from random sampling?
+
+Why should the analysis not simply compare message openers with non-openers?
+
+Reveal the suggested answers after trying.
+
+c09s07-answers Chapter 9: recall answers
+Assignment allocates units to conditions; sampling selects units from a population. They address different questions.
+
+Opening is not randomly assigned and can reflect differences between people, so that comparison can lose the benefit of the original assignment.
+
+c09s08 Chapter 9: Take the idea into everyday life
+Draft an evaluation plan for a fictional service change. Specify the comparator, assignment unit, meaningful outcome, denominator, missing-data concern and a possible spillover. Do not conduct a real experiment from this exercise.
+
+Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.
+
+c10s01 Chapter 10: A useful result still needs an ethical decision
+A booking pilot increases attendance on average. Some visitors report unwanted messages; people without reliable internet still struggle. The café wants to expand the change across several services. Maya asks whose outcome improved, who bore the costs, and whether the same conditions will hold elsewhere.
+
+c10s02 Chapter 10: Make a first decision
+First, make a prediction about the café story.
+
+What should the café do before expanding the pilot?
+
+A. Review benefits, uneven access, unwanted contact, implementation and conditions at the new sites.
+
+B. Use the average attendance increase as sufficient evidence for every visitor and service.
+
+C. Collect all available personal data in case it becomes useful later.
+
+Choose an option before checking the feedback.
+
+c10s02-feedback-0 Chapter 10: feedback 1
+This treats effectiveness, fairness, autonomy and transfer as distinct questions needing evidence.
+
+c10s02-feedback-1 Chapter 10: feedback 2
+An average for one comparison does not establish universal benefit or applicability.
+
+c10s02-feedback-2 Chapter 10: feedback 3
+More data can create unjustified privacy costs without improving the decision.
+
+c10s03 Chapter 10: An average can hide different consequences.
+An average treatment effect summarizes a defined comparison, not a benefit for every person. Equity asks about fair opportunities and distribution. Opportunity cost concerns what another use of the resources could achieve.
+
+An attendance gain could coexist with unwanted contacts or exclusion of people needing a phone route. Examine these consequences and compare feasible alternatives, including a service-capacity change. A dashboard average cannot make the value judgment on its own.
+
+c10s03b Chapter 10: Protect choice throughout the process.
+Autonomy concerns meaningful control over choices. Transparency makes relevant purposes and conditions understandable. Data minimization limits collection to a justified need.
+
+Use an accessible way to stop reminders and avoid collecting detailed personal information just because a system permits it. Where consent or review is required, obtain it before implementation. A benign goal does not excuse misleading claims or an obstructive exit.
+
+c10s04 Chapter 10: Scaling is another claim to investigate.
+External validity concerns applicability beyond the studied conditions. Implementation fidelity concerns how a change is delivered. Monitoring tracks specified benefits and harms over time.
+
+A new site may differ in staffing, language, trust or available services. Plan adaptation and a suitable further evaluation, with criteria for pausing or stopping. Keep null and unwanted results visible so later decisions are not based only on success stories.
+
+c10s05 Chapter 10: What does the evidence allow?
+Large operational trials show that effects and their interpretation depend on setting, implementation and the evidence available for comparison. Debate about choice-architecture meta-analysis also highlights how publication and analytic assumptions can affect broad claims.
+
+Neither a positive average nor a behavioural label settles welfare, fairness or consent. State the decision criteria, relevant uncertainty, alternatives and conditions for further review.
+
+c10s06 Chapter 10: Apply the distinction
+Apply the idea to this new fictional case.
+
+A pilot improved average attendance, but a new site lacks an accessible alternative and some participants found the messages intrusive.
+
+Which recommendation is best supported?
+
+A. Expand immediately because a behavioural intervention already passed one test.
+
+B. Adapt the route, address the unwanted effects, and evaluate under the new conditions with stopping criteria.
+
+C. Discard the attendance evidence because ethical concerns make outcome data irrelevant.
+
+Choose an option and write your reasoning before checking the feedback.
+
+c10s06-feedback-0 Chapter 10: feedback 1
+The new site and the observed harms create further questions for the decision.
+
+c10s06-feedback-1 Chapter 10: feedback 2
+This uses the evidence while protecting people and testing applicability.
+
+c10s06-feedback-2 Chapter 10: feedback 3
+Ethical judgment needs outcome evidence as well as rights, costs and distribution.
+
+c10s07 Chapter 10: Explain it without the notes
+Try these questions without your notes.
+
+Why does a positive average not settle whether to expand a change?
+
+What should a responsible expansion plan include?
+
+Reveal the suggested answers after trying.
+
+c10s07-answers Chapter 10: recall answers
+It can hide uneven benefits, burdens and harms, and it does not establish applicability elsewhere or resolve value judgments.
+
+The intended outcome, relevant differences, practical delivery, participant protections, monitoring, further evaluation and conditions for pausing or stopping.
+
+c10s08 Chapter 10: Take the idea into everyday life
+Review your fictional proposal using benefit, equity, autonomy, privacy and uncertainty. Write one condition for adaptation, one for further evaluation, and one for stopping.
+
+Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.

@@ -1,0 +1,962 @@
+[
+  {
+    "id": "c01s01",
+    "step": "Chapter 1: Define the action before choosing a fix",
+    "text": "Repair-café bookings have fallen. Leo proposes an inspiring message about community spirit. Maya notices that the new booking page asks for a printer, and its opening hours conflict with shift work. The team first needs to understand what people are trying to do.",
+    "say": "Repair-café bookings have fallen. Leo proposes an inspiring message about community spirit. [Maya](/mˈaɪə/) notices that the new booking page asks for a printer, and its opening hours conflict with shift work. The team first needs to understand what people are trying to do."
+  },
+  {
+    "id": "c01s02",
+    "step": "Chapter 1: Make a first decision",
+    "text": "First, make a prediction about the café story.\n\nWhich is the most useful next step in this café case?\n\nA. Send the message and use its opening rate as the main result.\n\nB. Investigate the booking steps and visitors’ constraints before selecting a change.\n\nC. Treat the printer requirement as the only cause without asking visitors.\n\nChoose an option before checking the feedback.",
+    "say": "First, make a prediction about the café story. [pause 0.65] Which is the most useful next step in this café case? [pause 0.65] A. Send the message and use its opening rate as the main result. [pause 0.65] B. Investigate the booking steps and visitors’ constraints before selecting a change. [pause 0.65] C. Treat the printer requirement as the only cause without asking visitors. [pause 0.65] Choose an option before checking the feedback."
+  },
+  {
+    "id": "c01s02-feedback-0",
+    "step": "Chapter 1: feedback 1",
+    "text": "Opening a message would not show whether people can complete a useful booking.",
+    "say": "Opening a message would not show whether people can complete a useful booking."
+  },
+  {
+    "id": "c01s02-feedback-1",
+    "step": "Chapter 1: feedback 2",
+    "text": "This can distinguish several plausible barriers before committing to a solution.",
+    "say": "This can distinguish several plausible barriers before committing to a solution."
+  },
+  {
+    "id": "c01s02-feedback-2",
+    "step": "Chapter 1: feedback 3",
+    "text": "The requirement is a plausible barrier, but other constraints may also matter.",
+    "say": "The requirement is a plausible barrier, but other constraints may also matter."
+  },
+  {
+    "id": "c01s03",
+    "step": "Chapter 1: A behaviour is more specific than an ambition.",
+    "text": "Behavioural science brings psychology into conversation with economics, sociology and other fields. A target behaviour names an action and its circumstances. An outcome states why that action matters.\n\nFor the café, completing a booking is an action; receiving a useful repair is a wider outcome. More clicks could leave that outcome unchanged if no appointments are available.",
+    "say": "Behavioural science brings psychology into conversation with economics, sociology and other fields. A target behaviour names an action and its circumstances. An outcome states why that action matters. [pause 0.65] For the café, completing a booking is an action; receiving a useful repair is a wider outcome. More clicks could leave that outcome unchanged if no appointments are available."
+  },
+  {
+    "id": "c01s03b",
+    "step": "Chapter 1: A missed action can have several causes.",
+    "text": "COM-B organizes questions about capability, opportunity and motivation. It is a diagnostic framework, not a test that reveals a cause by itself.\n\nAn unclear instruction may create a capability barrier. A printer requirement or unsuitable opening time may constrain opportunity. Competing priorities can affect motivation. These explanations can coexist and need evidence.",
+    "say": "[COM-B](/kˈɑːmbˈiː/) organizes questions about capability, opportunity and motivation. It is a diagnostic framework, not a test that reveals a cause by itself. [pause 0.65] An unclear instruction may create a capability barrier. A printer requirement or unsuitable opening time may constrain opportunity. Competing priorities can affect motivation. These explanations can coexist and need evidence."
+  },
+  {
+    "id": "c01s04",
+    "step": "Chapter 1: Understanding a barrier needs more than a label.",
+    "text": "Behavioural diagnosis uses information about the actual process. Qualitative evidence can reveal barriers that a completion count hides. Triangulation compares those accounts with other evidence.\n\nAsk people about the booking route, inspect the form, and compare where attempts end. A survey saying motivation is low does not establish that an encouraging message will improve access.",
+    "say": "Behavioural diagnosis uses information about the actual process. Qualitative evidence can reveal barriers that a completion count hides. Triangulation compares those accounts with other evidence. [pause 0.65] Ask people about the booking route, inspect the form, and compare where attempts end. A survey saying motivation is low does not establish that an encouraging message will improve access."
+  },
+  {
+    "id": "c01s05",
+    "step": "Chapter 1: What does the evidence allow?",
+    "text": "The behaviour change wheel describes COM-B as a framework for intervention design. Its categories help organize an assessment; placing a problem in a category does not establish the cause or the effectiveness of a proposed solution.\n\nA course develops interpretation and design skills. It cannot remove a service’s staffing, transport or funding constraints.",
+    "say": "The behaviour change wheel describes [COM-B](/kˈɑːmbˈiː/) as a framework for intervention design. Its categories help organize an assessment; placing a problem in a category does not establish the cause or the effectiveness of a proposed solution. [pause 0.65] A course develops interpretation and design skills. It cannot remove a service’s staffing, transport or funding constraints."
+  },
+  {
+    "id": "c01s06",
+    "step": "Chapter 1: Apply the distinction",
+    "text": "Apply the idea to this new fictional case.\n\nA community service wants to improve access for residents working daytime shifts.\n\nWhich target is sufficiently specific to investigate?\n\nA. Make the service more welcoming.\n\nB. Increase people’s motivation to participate.\n\nC. Adults seeking evening repairs complete a suitable booking through an accessible route.\n\nChoose an option and write your reasoning before checking the feedback.",
+    "say": "Apply the idea to this new fictional case. [pause 0.65] A community service wants to improve access for residents working daytime shifts. [pause 0.65] Which target is sufficiently specific to investigate? [pause 0.65] A. Make the service more welcoming. [pause 0.65] B. Increase people’s motivation to participate. [pause 0.65] C. Adults seeking evening repairs complete a suitable booking through an accessible route. [pause 0.65] Choose an option and write your reasoning before checking the feedback. [pause 1.0]"
+  },
+  {
+    "id": "c01s06-feedback-0",
+    "step": "Chapter 1: feedback 1",
+    "text": "Welcoming is an important ambition, but it needs a specified action and meaningful outcome.",
+    "say": "Welcoming is an important ambition, but it needs a specified action and meaningful outcome. [pause 1.0]"
+  },
+  {
+    "id": "c01s06-feedback-1",
+    "step": "Chapter 1: feedback 2",
+    "text": "A motivational explanation still needs evidence and an observable target.",
+    "say": "A motivational explanation still needs evidence and an observable target. [pause 1.0]"
+  },
+  {
+    "id": "c01s06-feedback-2",
+    "step": "Chapter 1: feedback 3",
+    "text": "This identifies people, an action and relevant conditions without assuming the cause.",
+    "say": "This identifies people, an action and relevant conditions without assuming the cause. [pause 1.0]"
+  },
+  {
+    "id": "c01s07",
+    "step": "Chapter 1: Explain it without the notes",
+    "text": "Try these questions without your notes.\n\nHow does a target behaviour differ from an outcome?\n\nWhat can COM-B organize, and what can it not establish?\n\nReveal the suggested answers after trying.",
+    "say": "Try these questions without your notes. [pause 0.65] How does a target behaviour differ from an outcome? [pause 0.65] What can [COM-B](/kˈɑːmbˈiː/) organize, and what can it not establish? [pause 0.65] Reveal the suggested answers after trying. [pause 1.0]"
+  },
+  {
+    "id": "c01s07-answers",
+    "step": "Chapter 1: recall answers",
+    "text": "A target behaviour specifies an action in context; an outcome states a result that matters.\n\nIt organizes capability, opportunity and motivation hypotheses. Evidence is still needed to identify causes and evaluate changes.",
+    "say": "A target behaviour specifies an action in context; an outcome states a result that matters. [pause 0.65] It organizes capability, opportunity and motivation hypotheses. Evidence is still needed to identify causes and evaluate changes. [pause 1.0]"
+  },
+  {
+    "id": "c01s08",
+    "step": "Chapter 1: Take the idea into everyday life",
+    "text": "Choose a fictional service problem. Write a target behaviour, a meaningful outcome, and one capability, opportunity and motivation hypothesis. Do not label real people from a distance.\n\nReturn tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.",
+    "say": "Choose a fictional service problem. Write a target behaviour, a meaningful outcome, and one capability, opportunity and motivation hypothesis. Do not label real people from a distance. [pause 0.65] Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes."
+  },
+  {
+    "id": "c02s01",
+    "step": "Chapter 2: Friction is not always a small inconvenience",
+    "text": "Jo wants to book a repair but must print a form, find proof of purchase, and call during a short weekday window. The team describes the process as a few simple steps. Jo works those hours and has no printer. A reminder would leave those constraints in place.",
+    "say": "Jo wants to book a repair but must print a form, find proof of purchase, and call during a short weekday window. The team describes the process as a few simple steps. Jo works those hours and has no printer. A reminder would leave those constraints in place."
+  },
+  {
+    "id": "c02s02",
+    "step": "Chapter 2: Make a first decision",
+    "text": "First, make a prediction about the café story.\n\nWhat should the team compare first?\n\nA. The purpose of each requirement and the costs it creates for different visitors.\n\nB. The visual length of the form as the complete measure of burden.\n\nC. Whether a warmer reminder can replace changing the booking route.\n\nChoose an option before checking the feedback.",
+    "say": "First, make a prediction about the café story. [pause 0.65] What should the team compare first? [pause 0.65] A. The purpose of each requirement and the costs it creates for different visitors. [pause 0.65] B. The visual length of the form as the complete measure of burden. [pause 0.65] C. Whether a warmer reminder can replace changing the booking route. [pause 0.65] Choose an option before checking the feedback."
+  },
+  {
+    "id": "c02s02-feedback-0",
+    "step": "Chapter 2: feedback 1",
+    "text": "This can identify unnecessary effort while preserving requirements with a justified purpose.",
+    "say": "This can identify unnecessary effort while preserving requirements with a justified purpose."
+  },
+  {
+    "id": "c02s02-feedback-1",
+    "step": "Chapter 2: feedback 2",
+    "text": "A short form can still require costly documents, devices or travel.",
+    "say": "A short form can still require costly documents, devices or travel."
+  },
+  {
+    "id": "c02s02-feedback-2",
+    "step": "Chapter 2: feedback 3",
+    "text": "A reminder may help someone remember but cannot supply a printer or suitable opening time.",
+    "say": "A reminder may help someone remember but cannot supply a printer or suitable opening time."
+  },
+  {
+    "id": "c02s03",
+    "step": "Chapter 2: Count the work from the participant’s side.",
+    "text": "Administrative burden concerns costs experienced in an interaction. Learning cost includes finding a rule; compliance cost includes completing the required steps.\n\nAn instruction that looks brief to its author may require travel, documents and repeated calls. Map the journey from the participant’s position, including failed attempts. The number of screens alone does not measure the total burden.",
+    "say": "Administrative burden concerns costs experienced in an interaction. Learning cost includes finding a rule; compliance cost includes completing the required steps. [pause 0.65] An instruction that looks brief to its author may require travel, documents and repeated calls. Map the journey from the participant’s position, including failed attempts. The number of screens alone does not measure the total burden."
+  },
+  {
+    "id": "c02s03b",
+    "step": "Chapter 2: The same process can impose unequal costs.",
+    "text": "Psychological cost includes experiences such as stigma or an intrusive demand. Accessibility concerns whether different people can use the route. A distributional effect describes who carries the costs or receives the benefit.\n\nJo’s printer constraint differs from someone else’s language or mobility needs. Ask about relevant conditions without assuming that everyone in a demographic group has the same experience.",
+    "say": "Psychological cost includes experiences such as stigma or an intrusive demand. Accessibility concerns whether different people can use the route. A distributional effect describes who carries the costs or receives the benefit. [pause 0.65] Jo’s printer constraint differs from someone else’s language or mobility needs. Ask about relevant conditions without assuming that everyone in a demographic group has the same experience."
+  },
+  {
+    "id": "c02s04",
+    "step": "Chapter 2: Simplifying a form does not create appointments.",
+    "text": "Friction can come from unnecessary steps. A structural constraint, such as limited evening transport, can require a different response. Service capacity limits how many repairs can actually be offered.\n\nRemoving duplicate questions may help Jo complete the form. It does not add an evening appointment or a bus route. Compare proposed changes with the barrier they are meant to address.",
+    "say": "Friction can come from unnecessary steps. A structural constraint, such as limited evening transport, can require a different response. Service capacity limits how many repairs can actually be offered. [pause 0.65] Removing duplicate questions may help Jo complete the form. It does not add an evening appointment or a bus route. Compare proposed changes with the barrier they are meant to address."
+  },
+  {
+    "id": "c02s05",
+    "step": "Chapter 2: What does the evidence allow?",
+    "text": "Administrative-burden research distinguishes learning, compliance and psychological costs. These categories help investigate unequal access, but they do not imply that every requirement is unnecessary. Some requirements serve legitimate safety or eligibility purposes.\n\nEvaluate simplification alongside its consequences, service capacity and accessible alternatives. A shorter process is not sufficient evidence of a fairer outcome.",
+    "say": "Administrative-burden research distinguishes learning, compliance and psychological costs. These categories help investigate unequal access, but they do not imply that every requirement is unnecessary. Some requirements serve legitimate safety or eligibility purposes. [pause 0.65] Evaluate simplification alongside its consequences, service capacity and accessible alternatives. A shorter process is not sufficient evidence of a fairer outcome."
+  },
+  {
+    "id": "c02s06",
+    "step": "Chapter 2: Apply the distinction",
+    "text": "Apply the idea to this new fictional case.\n\nA redesigned form has higher completion, but evening appointments remain unavailable and some visitors still need a phone route.\n\nWhat conclusion is supported?\n\nA. The new layout has solved access because completion increased.\n\nB. The layout may reduce effort, but appointment availability and uneven access still need investigation.\n\nC. The layout should be discarded because it did not increase service capacity.\n\nChoose an option and write your reasoning before checking the feedback.",
+    "say": "Apply the idea to this new fictional case. [pause 0.65] A redesigned form has higher completion, but evening appointments remain unavailable and some visitors still need a phone route. [pause 0.65] What conclusion is supported? [pause 0.65] A. The new layout has solved access because completion increased. [pause 0.65] B. The layout may reduce effort, but appointment availability and uneven access still need investigation. [pause 0.65] C. The layout should be discarded because it did not increase service capacity. [pause 0.65] Choose an option and write your reasoning before checking the feedback. [pause 1.0]"
+  },
+  {
+    "id": "c02s06-feedback-0",
+    "step": "Chapter 2: feedback 1",
+    "text": "Completion alone does not establish useful access or show who remains excluded.",
+    "say": "Completion alone does not establish useful access or show who remains excluded. [pause 1.0]"
+  },
+  {
+    "id": "c02s06-feedback-1",
+    "step": "Chapter 2: feedback 2",
+    "text": "This separates a possible process improvement from the wider outcome and remaining constraints.",
+    "say": "This separates a possible process improvement from the wider outcome and remaining constraints. [pause 1.0]"
+  },
+  {
+    "id": "c02s06-feedback-2",
+    "step": "Chapter 2: feedback 3",
+    "text": "A change can reduce effort without solving every barrier; the benefit still needs evaluation.",
+    "say": "A change can reduce effort without solving every barrier; the benefit still needs evaluation. [pause 1.0]"
+  },
+  {
+    "id": "c02s07",
+    "step": "Chapter 2: Explain it without the notes",
+    "text": "Try these questions without your notes.\n\nName the three administrative-burden cost categories.\n\nWhy can an easier process still produce unequal access?\n\nReveal the suggested answers after trying.",
+    "say": "Try these questions without your notes. [pause 0.65] Name the three administrative-burden cost categories. [pause 0.65] Why can an easier process still produce unequal access? [pause 0.65] Reveal the suggested answers after trying. [pause 1.0]"
+  },
+  {
+    "id": "c02s07-answers",
+    "step": "Chapter 2: recall answers",
+    "text": "Learning costs concern understanding requirements; compliance costs concern meeting them; psychological costs include stress, stigma and loss of autonomy.\n\nPeople face different resources, needs and constraints. Capacity and accessible alternatives can remain unequal.",
+    "say": "Learning costs concern understanding requirements; compliance costs concern meeting them; psychological costs include stress, stigma and loss of autonomy. [pause 0.65] People face different resources, needs and constraints. Capacity and accessible alternatives can remain unequal. [pause 1.0]"
+  },
+  {
+    "id": "c02s08",
+    "step": "Chapter 2: Take the idea into everyday life",
+    "text": "Map a fictional booking journey. Identify one requirement’s purpose, its likely costs, an accessible alternative, and a material constraint that a form redesign would leave unchanged.\n\nReturn tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.",
+    "say": "Map a fictional booking journey. Identify one requirement’s purpose, its likely costs, an accessible alternative, and a material constraint that a form redesign would leave unchanged. [pause 0.65] Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes."
+  },
+  {
+    "id": "c03s01",
+    "step": "Chapter 3: A reminder needs something feasible to remind",
+    "text": "Visitors sometimes forget appointments after booking. Leo wants a bright message every day. Maya asks whether the time is clear, whether visitors can reschedule, and whether transport is reliable. Forgetting is one possible explanation; it is not the only reason an appointment is missed.",
+    "say": "Visitors sometimes forget appointments after booking. Leo wants a bright message every day. [Maya](/mˈaɪə/) asks whether the time is clear, whether visitors can reschedule, and whether transport is reliable. Forgetting is one possible explanation; it is not the only reason an appointment is missed."
+  },
+  {
+    "id": "c03s02",
+    "step": "Chapter 3: Make a first decision",
+    "text": "First, make a prediction about the café story.\n\nWhich proposal best tests an attention explanation?\n\nA. Use daily bright messages and count how often they are opened.\n\nB. Remove the rescheduling route so the message has one clear instruction.\n\nC. Compare a useful, appropriately timed reminder with the existing approach and measure attendance.\n\nChoose an option before checking the feedback.",
+    "say": "First, make a prediction about the café story. [pause 0.65] Which proposal best tests an attention explanation? [pause 0.65] A. Use daily bright messages and count how often they are opened. [pause 0.65] B. Remove the rescheduling route so the message has one clear instruction. [pause 0.65] C. Compare a useful, appropriately timed reminder with the existing approach and measure attendance. [pause 0.65] Choose an option before checking the feedback."
+  },
+  {
+    "id": "c03s02-feedback-0",
+    "step": "Chapter 3: feedback 1",
+    "text": "This bundles frequency and design, while openings do not establish attendance.",
+    "say": "This bundles frequency and design, while openings do not establish attendance."
+  },
+  {
+    "id": "c03s02-feedback-1",
+    "step": "Chapter 3: feedback 2",
+    "text": "A narrower instruction could remove an important option for people whose plans change.",
+    "say": "A narrower instruction could remove an important option for people whose plans change."
+  },
+  {
+    "id": "c03s02-feedback-2",
+    "step": "Chapter 3: feedback 3",
+    "text": "This tests a specific proposal while keeping attention and attendance distinct.",
+    "say": "This tests a specific proposal while keeping attention and attendance distinct."
+  },
+  {
+    "id": "c03s03",
+    "step": "Chapter 3: A message competes with other demands.",
+    "text": "Limited attention means that relevant information may not come to mind when needed. Salience concerns what stands out; a reminder is a cue intended to bring an action back to mind.\n\nA clear appointment time near the moment of planning may help. A brightly coloured message can also be noticed without making the visit feasible. Distinguish noticing from understanding and acting.",
+    "say": "Limited attention means that relevant information may not come to mind when needed. Salience concerns what stands out; a reminder is a cue intended to bring an action back to mind. [pause 0.65] A clear appointment time near the moment of planning may help. A brightly coloured message can also be noticed without making the visit feasible. Distinguish noticing from understanding and acting."
+  },
+  {
+    "id": "c03s03b",
+    "step": "Chapter 3: Use the channel and moment that fit the action.",
+    "text": "Timing matters because a cue can arrive before a person can act. Actionable information specifies the next step, including how to change a booking. Notification fatigue is a possible cost of repeated or unwanted messages.\n\nA visitor may prefer one useful reminder with a rescheduling link over daily messages. Check preferences and access to the channel rather than assuming that more contact is better.",
+    "say": "Timing matters because a cue can arrive before a person can act. Actionable information specifies the next step, including how to change a booking. Notification fatigue is a possible cost of repeated or unwanted messages. [pause 0.65] A visitor may prefer one useful reminder with a rescheduling link over daily messages. Check preferences and access to the channel rather than assuming that more contact is better."
+  },
+  {
+    "id": "c03s04",
+    "step": "Chapter 3: An opened message is not an attended appointment.",
+    "text": "A process measure, such as message delivery, can help explain implementation. A behavioural outcome records the action that matters. A mechanism hypothesis connects the two but still needs evidence.\n\nIf openings rise while attendance is unchanged, the message may attract attention without resolving access. Also check whether the attendance measure is reliable and whether the service had room for more visitors.",
+    "say": "A process measure, such as message delivery, can help explain implementation. A behavioural outcome records the action that matters. A mechanism hypothesis connects the two but still needs evidence. [pause 0.65] If openings rise while attendance is unchanged, the message may attract attention without resolving access. Also check whether the attendance measure is reliable and whether the service had room for more visitors."
+  },
+  {
+    "id": "c03s05",
+    "step": "Chapter 3: What does the evidence allow?",
+    "text": "Field experiments have found useful reminder effects in particular savings settings. Those findings do not establish that any reminder, channel or frequency will work for café attendance or another service.\n\nTest the proposed timing and content against a suitable comparison, using a meaningful outcome and respecting communication preferences.",
+    "say": "Field experiments have found useful reminder effects in particular savings settings. Those findings do not establish that any reminder, channel or frequency will work for café attendance or another service. [pause 0.65] Test the proposed timing and content against a suitable comparison, using a meaningful outcome and respecting communication preferences."
+  },
+  {
+    "id": "c03s06",
+    "step": "Chapter 3: Apply the distinction",
+    "text": "Apply the idea to this new fictional case.\n\nA new reminder gets more openings, but the attendance rate is unchanged.\n\nWhat should the team investigate next?\n\nA. Whether recipients can understand and act on the message, including practical access.\n\nB. How to maximize openings as the sole goal.\n\nC. Whether an unchanged attendance rate proves that attention never matters.\n\nChoose an option and write your reasoning before checking the feedback.",
+    "say": "Apply the idea to this new fictional case. [pause 0.65] A new reminder gets more openings, but the attendance rate is unchanged. [pause 0.65] What should the team investigate next? [pause 0.65] A. Whether recipients can understand and act on the message, including practical access. [pause 0.65] B. How to maximize openings as the sole goal. [pause 0.65] C. Whether an unchanged attendance rate proves that attention never matters. [pause 0.65] Choose an option and write your reasoning before checking the feedback. [pause 1.0]"
+  },
+  {
+    "id": "c03s06-feedback-0",
+    "step": "Chapter 3: feedback 1",
+    "text": "This checks the next links in the proposed mechanism and alternative explanations.",
+    "say": "This checks the next links in the proposed mechanism and alternative explanations. [pause 1.0]"
+  },
+  {
+    "id": "c03s06-feedback-1",
+    "step": "Chapter 3: feedback 2",
+    "text": "Attention is useful only in relation to a meaningful outcome and acceptable costs.",
+    "say": "Attention is useful only in relation to a meaningful outcome and acceptable costs. [pause 1.0]"
+  },
+  {
+    "id": "c03s06-feedback-2",
+    "step": "Chapter 3: feedback 3",
+    "text": "One result for one message does not settle every attention intervention.",
+    "say": "One result for one message does not settle every attention intervention. [pause 1.0]"
+  },
+  {
+    "id": "c03s07",
+    "step": "Chapter 3: Explain it without the notes",
+    "text": "Try these questions without your notes.\n\nWhy does salience not guarantee action?\n\nHow do process measures and behavioural outcomes differ?\n\nReveal the suggested answers after trying.",
+    "say": "Try these questions without your notes. [pause 0.65] Why does salience not guarantee action? [pause 0.65] How do process measures and behavioural outcomes differ? [pause 0.65] Reveal the suggested answers after trying. [pause 1.0]"
+  },
+  {
+    "id": "c03s07-answers",
+    "step": "Chapter 3: recall answers",
+    "text": "A message can stand out while the action remains unclear, unwanted or impractical.\n\nProcess measures describe delivery or use; behavioural outcomes describe the specified action.",
+    "say": "A message can stand out while the action remains unclear, unwanted or impractical. [pause 0.65] Process measures describe delivery or use; behavioural outcomes describe the specified action. [pause 1.0]"
+  },
+  {
+    "id": "c03s08",
+    "step": "Chapter 3: Take the idea into everyday life",
+    "text": "Draft a fictional appointment reminder. Name the attention hypothesis, the feasible next step, an accessible alternative, and the outcome you would compare with the current approach.\n\nReturn tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.",
+    "say": "Draft a fictional appointment reminder. Name the attention hypothesis, the feasible next step, an accessible alternative, and the outcome you would compare with the current approach. [pause 0.65] Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes."
+  },
+  {
+    "id": "c04s01",
+    "step": "Chapter 4: The way a choice is presented can matter",
+    "text": "The café considers automatically renewing a membership. Leo expects the default to increase renewals. Maya asks whether people understand the charge and can leave easily. Another proposal describes the same repair contribution as either supporting a service or avoiding its loss. The team needs to examine both evidence and consent.",
+    "say": "The café considers automatically renewing a membership. Leo expects the default to increase renewals. [Maya](/mˈaɪə/) asks whether people understand the charge and can leave easily. Another proposal describes the same repair contribution as either supporting a service or avoiding its loss. The team needs to examine both evidence and consent."
+  },
+  {
+    "id": "c04s02",
+    "step": "Chapter 4: Make a first decision",
+    "text": "First, make a prediction about the café story.\n\nWhat should the team establish before adopting automatic renewal?\n\nA. How clearly terms are understood, how easily people can leave, and what consequences follow.\n\nB. Whether renewal increases, treating every retained membership as a preferred choice.\n\nC. Whether a reassuring description can replace an accessible cancellation route.\n\nChoose an option before checking the feedback.",
+    "say": "First, make a prediction about the café story. [pause 0.65] What should the team establish before adopting automatic renewal? [pause 0.65] A. How clearly terms are understood, how easily people can leave, and what consequences follow. [pause 0.65] B. Whether renewal increases, treating every retained membership as a preferred choice. [pause 0.65] C. Whether a reassuring description can replace an accessible cancellation route. [pause 0.65] Choose an option before checking the feedback."
+  },
+  {
+    "id": "c04s02-feedback-0",
+    "step": "Chapter 4: feedback 1",
+    "text": "This evaluates informed choice and consequences as well as the service’s retention goal.",
+    "say": "This evaluates informed choice and consequences as well as the service’s retention goal."
+  },
+  {
+    "id": "c04s02-feedback-1",
+    "step": "Chapter 4: feedback 2",
+    "text": "Retention can reflect inattention or effort as well as a positive preference.",
+    "say": "Retention can reflect inattention or effort as well as a positive preference."
+  },
+  {
+    "id": "c04s02-feedback-2",
+    "step": "Chapter 4: feedback 3",
+    "text": "Wording does not remove the need for meaningful control over a charge.",
+    "say": "Wording does not remove the need for meaningful control over a charge."
+  },
+  {
+    "id": "c04s03",
+    "step": "Chapter 4: Equivalent descriptions can guide attention differently.",
+    "text": "A framing effect concerns the description of a choice. A reference point supplies a comparison standard. Loss aversion describes a pattern in some models and settings; it is not a universal rule about every person.\n\nCalling a membership change a gain or a loss can highlight different comparisons. Changing the actual price or eligibility is a different intervention from changing the description.",
+    "say": "A framing effect concerns the description of a choice. A reference point supplies a comparison standard. Loss aversion describes a pattern in some models and settings; it is not a universal rule about every person. [pause 0.65] Calling a membership change a gain or a loss can highlight different comparisons. Changing the actual price or eligibility is a different intervention from changing the description."
+  },
+  {
+    "id": "c04s03b",
+    "step": "Chapter 4: A default can have more than one explanation.",
+    "text": "A default option applies when someone does not actively select otherwise. Status quo bias can contribute to staying with an existing state, but inattention, switching effort and perceived endorsement can also matter. Active choice asks for an explicit decision.\n\nAn automatic renewal could increase retention while leaving some people with an unwanted charge. Its uptake does not show that every retained member preferred it.",
+    "say": "A default option applies when someone does not actively select otherwise. Status quo bias can contribute to staying with an existing state, but inattention, switching effort and perceived endorsement can also matter. Active choice asks for an explicit decision. [pause 0.65] An automatic renewal could increase retention while leaving some people with an unwanted charge. Its uptake does not show that every retained member preferred it."
+  },
+  {
+    "id": "c04s04",
+    "step": "Chapter 4: A higher uptake rate is not the whole evaluation.",
+    "text": "Informed choice needs understandable information. A switching cost can make an unwanted option hard to escape. Welfare concerns the consequences for people, not simply the service’s preferred uptake rate.\n\nShow the price and renewal date clearly, offer an accessible cancellation route, and ask about unwanted charges. A default should not be treated as permission to hide information or manufacture agreement.",
+    "say": "Informed choice needs understandable information. A switching cost can make an unwanted option hard to escape. Welfare concerns the consequences for people, not simply the service’s preferred uptake rate. [pause 0.65] Show the price and renewal date clearly, offer an accessible cancellation route, and ask about unwanted charges. A default should not be treated as permission to hide information or manufacture agreement."
+  },
+  {
+    "id": "c04s05",
+    "step": "Chapter 4: What does the evidence allow?",
+    "text": "Research documents framing and default effects in specified settings, including retirement-saving decisions. Multiple mechanisms and contextual differences limit simple predictions about a new service.\n\nA model of loss aversion is not a licence to invent threats or obscure a price. Ethical evaluation includes understanding, accessible alternatives and unwanted consequences alongside uptake.",
+    "say": "Research documents framing and default effects in specified settings, including retirement-saving decisions. Multiple mechanisms and contextual differences limit simple predictions about a new service. [pause 0.65] A model of loss aversion is not a licence to invent threats or obscure a price. Ethical evaluation includes understanding, accessible alternatives and unwanted consequences alongside uptake."
+  },
+  {
+    "id": "c04s06",
+    "step": "Chapter 4: Apply the distinction",
+    "text": "Apply the idea to this new fictional case.\n\nA service wants to test whether gain-oriented versus loss-oriented wording affects a voluntary contribution.\n\nWhat comparison isolates presentation most clearly?\n\nA. A low-price option with supportive wording versus a high-price option with loss wording.\n\nB. Two truthful descriptions with the same underlying price, options and conditions.\n\nC. A clear opt-in offer versus an automatic charge with less prominent terms.\n\nChoose an option and write your reasoning before checking the feedback.",
+    "say": "Apply the idea to this new fictional case. [pause 0.65] A service wants to test whether gain-oriented versus loss-oriented wording affects a voluntary contribution. [pause 0.65] What comparison isolates presentation most clearly? [pause 0.65] A. A low-price option with supportive wording versus a high-price option with loss wording. [pause 0.65] B. Two truthful descriptions with the same underlying price, options and conditions. [pause 0.65] C. A clear opt-in offer versus an automatic charge with less prominent terms. [pause 0.65] Choose an option and write your reasoning before checking the feedback. [pause 1.0]"
+  },
+  {
+    "id": "c04s06-feedback-0",
+    "step": "Chapter 4: feedback 1",
+    "text": "Changing price and wording together prevents attribution to wording alone.",
+    "say": "Changing price and wording together prevents attribution to wording alone. [pause 1.0]"
+  },
+  {
+    "id": "c04s06-feedback-1",
+    "step": "Chapter 4: feedback 2",
+    "text": "Holding the offer constant helps distinguish presentation from a change in substantive terms.",
+    "say": "Holding the offer constant helps distinguish presentation from a change in substantive terms. [pause 1.0]"
+  },
+  {
+    "id": "c04s06-feedback-2",
+    "step": "Chapter 4: feedback 3",
+    "text": "This changes several features and introduces a consent problem.",
+    "say": "This changes several features and introduces a consent problem. [pause 1.0]"
+  },
+  {
+    "id": "c04s07",
+    "step": "Chapter 4: Explain it without the notes",
+    "text": "Try these questions without your notes.\n\nWhy can default uptake have several explanations?\n\nHow does a framing change differ from a change in the offer?\n\nReveal the suggested answers after trying.",
+    "say": "Try these questions without your notes. [pause 0.65] Why can default uptake have several explanations? [pause 0.65] How does a framing change differ from a change in the offer? [pause 0.65] Reveal the suggested answers after trying. [pause 1.0]"
+  },
+  {
+    "id": "c04s07-answers",
+    "step": "Chapter 4: recall answers",
+    "text": "Preference, attention, effort and perceived endorsement can all contribute. Uptake alone does not distinguish them.\n\nA frame changes the description; a changed offer alters available terms such as price, eligibility or options.",
+    "say": "Preference, attention, effort and perceived endorsement can all contribute. Uptake alone does not distinguish them. [pause 0.65] A frame changes the description; a changed offer alters available terms such as price, eligibility or options. [pause 1.0]"
+  },
+  {
+    "id": "c04s08",
+    "step": "Chapter 4: Take the idea into everyday life",
+    "text": "On paper, design an honest choice between two fictional service options. Identify the reference point, any default, information needed for understanding, and a low-effort way to change a choice.\n\nReturn tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.",
+    "say": "On paper, design an honest choice between two fictional service options. Identify the reference point, any default, information needed for understanding, and a low-effort way to change a choice. [pause 0.65] Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes."
+  },
+  {
+    "id": "c05s01",
+    "step": "Chapter 5: A future intention meets a present situation",
+    "text": "Sam plans to volunteer next month but postpones choosing a shift. The form takes time now, while the hoped-for benefit is later. Jo also postpones, but their employer has not released a work schedule. The same visible delay may have different causes.",
+    "say": "Sam plans to volunteer next month but postpones choosing a shift. The form takes time now, while the hoped-for benefit is later. Jo also postpones, but their employer has not released a work schedule. The same visible delay may have different causes."
+  },
+  {
+    "id": "c05s02",
+    "step": "Chapter 5: Make a first decision",
+    "text": "First, make a prediction about the café story.\n\nWhat best distinguishes Sam’s and Jo’s possible barriers?\n\nA. Treat both delays as evidence of present bias.\n\nB. Ask each person what prevents booking and whether a feasible shift can currently be chosen.\n\nC. Require a deposit before investigating why booking is delayed.\n\nChoose an option before checking the feedback.",
+    "say": "First, make a prediction about the café story. [pause 0.65] What best distinguishes Sam’s and Jo’s possible barriers? [pause 0.65] A. Treat both delays as evidence of present bias. [pause 0.65] B. Ask each person what prevents booking and whether a feasible shift can currently be chosen. [pause 0.65] C. Require a deposit before investigating why booking is delayed. [pause 0.65] Choose an option before checking the feedback."
+  },
+  {
+    "id": "c05s02-feedback-0",
+    "step": "Chapter 5: feedback 1",
+    "text": "The same delay can arise from different processes and constraints.",
+    "say": "The same delay can arise from different processes and constraints."
+  },
+  {
+    "id": "c05s02-feedback-1",
+    "step": "Chapter 5: feedback 2",
+    "text": "This can distinguish immediate effort, missing information and other barriers.",
+    "say": "This can distinguish immediate effort, missing information and other barriers."
+  },
+  {
+    "id": "c05s02-feedback-2",
+    "step": "Chapter 5: feedback 3",
+    "text": "A deposit adds a cost without establishing the source of delay.",
+    "say": "A deposit adds a cost without establishing the source of delay."
+  },
+  {
+    "id": "c05s03",
+    "step": "Chapter 5: Delay can reflect more than one process.",
+    "text": "Present bias concerns disproportionate emphasis on immediacy; time inconsistency concerns a change in preferred plans as a decision approaches. A constraint can instead make action genuinely unavailable.\n\nSam might value volunteering but avoid today’s form. Jo may be unable to select a shift without a work schedule. Observing delay alone cannot identify either person’s preferences or prove a self-control problem.",
+    "say": "Present bias concerns disproportionate emphasis on immediacy; time inconsistency concerns a change in preferred plans as a decision approaches. A constraint can instead make action genuinely unavailable. [pause 0.65] Sam might value volunteering but avoid today’s form. Jo may be unable to select a shift without a work schedule. Observing delay alone cannot identify either person’s preferences or prove a self-control problem."
+  },
+  {
+    "id": "c05s03b",
+    "step": "Chapter 5: A plan needs a usable cue and a feasible response.",
+    "text": "An implementation intention links a cue to a response: if a situation occurs, then take a specified action. Feasibility still matters.\n\nSam might choose to book after receiving the next work schedule. That cue makes sense only if a suitable shift is available and the booking route works. An if-then sentence cannot supply transport, money or predictable working hours.",
+    "say": "An implementation intention links a cue to a response: if a situation occurs, then take a specified action. Feasibility still matters. [pause 0.65] Sam might choose to book after receiving the next work schedule. That cue makes sense only if a suitable shift is available and the booking route works. An if-then sentence cannot supply transport, money or predictable working hours."
+  },
+  {
+    "id": "c05s04",
+    "step": "Chapter 5: Commitment can support a goal or impose a cost.",
+    "text": "A commitment device changes the conditions around a future choice. Voluntary participation and reversibility matter because circumstances can change.\n\nSam may want a calendar booking and an easy way to reschedule. A large cancellation penalty could instead punish an unavoidable shift change. Evaluate the aid with the person’s interests in view, including who bears the risk of an unexpected problem.",
+    "say": "A commitment device changes the conditions around a future choice. Voluntary participation and reversibility matter because circumstances can change. [pause 0.65] Sam may want a calendar booking and an easy way to reschedule. A large cancellation penalty could instead punish an unavoidable shift change. Evaluate the aid with the person’s interests in view, including who bears the risk of an unexpected problem."
+  },
+  {
+    "id": "c05s05",
+    "step": "Chapter 5: What does the evidence allow?",
+    "text": "Present-biased models explain some patterns of changing choice; they do not diagnose a person from a missed task. Research on implementation intentions examines specified plans, tasks and populations, with effects that depend on those conditions.\n\nA planning aid needs an existing goal, a feasible response and an acceptable burden. It cannot substitute for material resources or predictable access.",
+    "say": "Present-biased models explain some patterns of changing choice; they do not diagnose a person from a missed task. Research on implementation intentions examines specified plans, tasks and populations, with effects that depend on those conditions. [pause 0.65] A planning aid needs an existing goal, a feasible response and an acceptable burden. It cannot substitute for material resources or predictable access."
+  },
+  {
+    "id": "c05s06",
+    "step": "Chapter 5: Apply the distinction",
+    "text": "Apply the idea to this new fictional case.\n\nA visitor wants to volunteer but can choose a shift only after receiving a variable work schedule.\n\nWhich planning aid best fits the case?\n\nA. A fee for any later change, including a changed work shift.\n\nB. A motivational pledge without a usable opportunity to book.\n\nC. An optional cue to check availability after the schedule arrives, with a straightforward rescheduling route.\n\nChoose an option and write your reasoning before checking the feedback.",
+    "say": "Apply the idea to this new fictional case. [pause 0.65] A visitor wants to volunteer but can choose a shift only after receiving a variable work schedule. [pause 0.65] Which planning aid best fits the case? [pause 0.65] A. A fee for any later change, including a changed work shift. [pause 0.65] B. A motivational pledge without a usable opportunity to book. [pause 0.65] C. An optional cue to check availability after the schedule arrives, with a straightforward rescheduling route. [pause 0.65] Choose an option and write your reasoning before checking the feedback. [pause 1.0]"
+  },
+  {
+    "id": "c05s06-feedback-0",
+    "step": "Chapter 5: feedback 1",
+    "text": "This can penalize uncertainty outside the person’s control.",
+    "say": "This can penalize uncertainty outside the person’s control. [pause 1.0]"
+  },
+  {
+    "id": "c05s06-feedback-1",
+    "step": "Chapter 5: feedback 2",
+    "text": "A pledge leaves the practical link between cue and feasible action unspecified.",
+    "say": "A pledge leaves the practical link between cue and feasible action unspecified. [pause 1.0]"
+  },
+  {
+    "id": "c05s06-feedback-2",
+    "step": "Chapter 5: feedback 3",
+    "text": "This matches a relevant cue to a feasible response while allowing circumstances to change.",
+    "say": "This matches a relevant cue to a feasible response while allowing circumstances to change. [pause 1.0]"
+  },
+  {
+    "id": "c05s07",
+    "step": "Chapter 5: Explain it without the notes",
+    "text": "Try these questions without your notes.\n\nWhy is delay insufficient evidence of present bias?\n\nWhat makes an implementation intention more than a general aspiration?\n\nReveal the suggested answers after trying.",
+    "say": "Try these questions without your notes. [pause 0.65] Why is delay insufficient evidence of present bias? [pause 0.65] What makes an implementation intention more than a general aspiration? [pause 0.65] Reveal the suggested answers after trying. [pause 1.0]"
+  },
+  {
+    "id": "c05s07-answers",
+    "step": "Chapter 5: recall answers",
+    "text": "Delay can reflect immediate costs, unavailable information, competing priorities or other constraints.\n\nIt links a specific cue to a specified response, and that response must be feasible.",
+    "say": "Delay can reflect immediate costs, unavailable information, competing priorities or other constraints. [pause 0.65] It links a specific cue to a specified response, and that response must be feasible. [pause 1.0]"
+  },
+  {
+    "id": "c05s08",
+    "step": "Chapter 5: Take the idea into everyday life",
+    "text": "Write an optional if-then plan for a fictional intention. State the cue, the response, a constraint that could defeat it, and a fair way to revise the arrangement.\n\nReturn tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.",
+    "say": "Write an optional if-then plan for a fictional intention. State the cue, the response, a constraint that could defeat it, and a fair way to revise the arrangement. [pause 0.65] Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes."
+  },
+  {
+    "id": "c06s01",
+    "step": "Chapter 6: A social norm message needs a truthful comparison",
+    "text": "The café wants more people to return borrowed tools. Leo proposes a sign saying most visitors already return everything. The team has not measured that claim. Maya also asks whether publishing an average could encourage careful visitors to do less, and whether a clearer return shelf would help more.",
+    "say": "The café wants more people to return borrowed tools. Leo proposes a sign saying most visitors already return everything. The team has not measured that claim. [Maya](/mˈaɪə/) also asks whether publishing an average could encourage careful visitors to do less, and whether a clearer return shelf would help more."
+  },
+  {
+    "id": "c06s02",
+    "step": "Chapter 6: Make a first decision",
+    "text": "First, make a prediction about the café story.\n\nWhat should the team do before using Leo’s proposed sign?\n\nA. Use the majority claim because its desired direction is reasonable.\n\nB. Check the claim, the relevant comparison group, and practical barriers to returning tools.\n\nC. Publish the average alone and assume careful borrowers will maintain their behaviour.\n\nChoose an option before checking the feedback.",
+    "say": "First, make a prediction about the café story. [pause 0.65] What should the team do before using Leo’s proposed sign? [pause 0.65] A. Use the majority claim because its desired direction is reasonable. [pause 0.65] B. Check the claim, the relevant comparison group, and practical barriers to returning tools. [pause 0.65] C. Publish the average alone and assume careful borrowers will maintain their behaviour. [pause 0.65] Choose an option before checking the feedback."
+  },
+  {
+    "id": "c06s02-feedback-0",
+    "step": "Chapter 6: feedback 1",
+    "text": "A desirable goal does not make an unmeasured majority claim truthful.",
+    "say": "A desirable goal does not make an unmeasured majority claim truthful."
+  },
+  {
+    "id": "c06s02-feedback-1",
+    "step": "Chapter 6: feedback 2",
+    "text": "This examines the message’s factual basis, relevance and alternative barriers.",
+    "say": "This examines the message’s factual basis, relevance and alternative barriers."
+  },
+  {
+    "id": "c06s02-feedback-2",
+    "step": "Chapter 6: feedback 3",
+    "text": "An average can have different implications for people with different baselines.",
+    "say": "An average can have different implications for people with different baselines."
+  },
+  {
+    "id": "c06s03",
+    "step": "Chapter 6: What people do and what they approve are different.",
+    "text": "A descriptive norm concerns what people commonly do. An injunctive norm concerns approval. A reference group specifies whose behaviour or approval is relevant.\n\nA sign about other café visitors differs from a statement about national habits. Neither establishes what this visitor values. Before using a norm message, check that its claim is accurate and its comparison group makes sense.",
+    "say": "A descriptive norm concerns what people commonly do. An injunctive norm concerns approval. A reference group specifies whose behaviour or approval is relevant. [pause 0.65] A sign about other café visitors differs from a statement about national habits. Neither establishes what this visitor values. Before using a norm message, check that its claim is accurate and its comparison group makes sense."
+  },
+  {
+    "id": "c06s03b",
+    "step": "Chapter 6: An average can point people in an unwanted direction.",
+    "text": "A boomerang effect moves behaviour opposite to the intended direction. A heterogeneous effect varies across people or settings. Baseline behaviour can help identify which comparisons might matter.\n\nA careful tool borrower who sees that the average return rate is lower than their own could infer that doing less is normal. That is a hypothesis to consider, not a prediction that every careful borrower will change.",
+    "say": "A boomerang effect moves behaviour opposite to the intended direction. A heterogeneous effect varies across people or settings. Baseline behaviour can help identify which comparisons might matter. [pause 0.65] A careful tool borrower who sees that the average return rate is lower than their own could infer that doing less is normal. That is a hypothesis to consider, not a prediction that every careful borrower will change."
+  },
+  {
+    "id": "c06s04",
+    "step": "Chapter 6: A truthful sign still needs an accessible action.",
+    "text": "Social context affects which comparisons are meaningful. Mechanism evidence helps distinguish social influence from other explanations. An unintended consequence can include exclusion or an unwanted change among people already doing well.\n\nA sign might work because it clarifies where tools belong rather than because visitors compare themselves with others. Check the shelf design and evaluate the action, not just agreement with the message.",
+    "say": "Social context affects which comparisons are meaningful. Mechanism evidence helps distinguish social influence from other explanations. An unintended consequence can include exclusion or an unwanted change among people already doing well. [pause 0.65] A sign might work because it clarifies where tools belong rather than because visitors compare themselves with others. Check the shelf design and evaluate the action, not just agreement with the message."
+  },
+  {
+    "id": "c06s05",
+    "step": "Chapter 6: What does the evidence allow?",
+    "text": "An energy-use field experiment found that descriptive comparisons could have different effects depending on prior consumption, and that an approval cue changed those results in that setting. This supports attention to baselines and message content, not a universal recipe for every group.\n\nDo not invent a majority claim to obtain compliance. A truthful, relevant message can still require testing and monitoring for uneven or unwanted effects.",
+    "say": "An energy-use field experiment found that descriptive comparisons could have different effects depending on prior consumption, and that an approval cue changed those results in that setting. This supports attention to baselines and message content, not a universal recipe for every group. [pause 0.65] Do not invent a majority claim to obtain compliance. A truthful, relevant message can still require testing and monitoring for uneven or unwanted effects."
+  },
+  {
+    "id": "c06s06",
+    "step": "Chapter 6: Apply the distinction",
+    "text": "Apply the idea to this new fictional case.\n\nIn a fictional pilot, average returns rise slightly but returns among previously careful borrowers fall. The groups are small.\n\nWhat does the combined result suggest?\n\nA. Use only the overall average because subgroup differences are distracting.\n\nB. The message is proven harmful for every careful visitor.\n\nC. Investigate baseline differences, uncertainty and possible boomerang effects before expanding the message.\n\nChoose an option and write your reasoning before checking the feedback.",
+    "say": "Apply the idea to this new fictional case. [pause 0.65] In a fictional pilot, average returns rise slightly but returns among previously careful borrowers fall. The groups are small. [pause 0.65] What does the combined result suggest? [pause 0.65] A. Use only the overall average because subgroup differences are distracting. [pause 0.65] B. The message is proven harmful for every careful visitor. [pause 0.65] C. Investigate baseline differences, uncertainty and possible boomerang effects before expanding the message. [pause 0.65] Choose an option and write your reasoning before checking the feedback. [pause 1.0]"
+  },
+  {
+    "id": "c06s06-feedback-0",
+    "step": "Chapter 6: feedback 1",
+    "text": "An overall improvement can hide a potentially important unwanted change.",
+    "say": "An overall improvement can hide a potentially important unwanted change. [pause 1.0]"
+  },
+  {
+    "id": "c06s06-feedback-1",
+    "step": "Chapter 6: feedback 2",
+    "text": "The result calls for investigation, not a universal judgment about each person.",
+    "say": "The result calls for investigation, not a universal judgment about each person. [pause 1.0]"
+  },
+  {
+    "id": "c06s06-feedback-2",
+    "step": "Chapter 6: feedback 3",
+    "text": "This treats variation as evidence to examine and avoids premature expansion.",
+    "say": "This treats variation as evidence to examine and avoids premature expansion. [pause 1.0]"
+  },
+  {
+    "id": "c06s07",
+    "step": "Chapter 6: Explain it without the notes",
+    "text": "Try these questions without your notes.\n\nHow does a descriptive norm differ from an injunctive norm?\n\nWhy should a norm message be considered alongside baseline behaviour?\n\nReveal the suggested answers after trying.",
+    "say": "Try these questions without your notes. [pause 0.65] How does a descriptive norm differ from an injunctive norm? [pause 0.65] Why should a norm message be considered alongside baseline behaviour? [pause 0.65] Reveal the suggested answers after trying. [pause 1.0]"
+  },
+  {
+    "id": "c06s07-answers",
+    "step": "Chapter 6: recall answers",
+    "text": "A descriptive norm concerns what people commonly do; an injunctive norm concerns perceived approval or disapproval.\n\nA comparison may imply different things to people whose earlier behaviour was above or below it, and effects may differ.",
+    "say": "A descriptive norm concerns what people commonly do; an injunctive norm concerns perceived approval or disapproval. [pause 0.65] A comparison may imply different things to people whose earlier behaviour was above or below it, and effects may differ. [pause 1.0]"
+  },
+  {
+    "id": "c06s08",
+    "step": "Chapter 6: Take the idea into everyday life",
+    "text": "Draft a norm message only for a fictional dataset. State the observation behind it, the reference group, a possible unintended response, and a practical alternative to a message.\n\nReturn tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.",
+    "say": "Draft a norm message only for a fictional dataset. State the observation behind it, the reference group, a possible unintended response, and a practical alternative to a message. [pause 0.65] Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes."
+  },
+  {
+    "id": "c07s01",
+    "step": "Chapter 7: An incentive can change more than the payoff",
+    "text": "The café proposes rewarding volunteers for the number of repairs completed. Sam worries that difficult cases will be avoided and repair quality may fall. Jo says modest reimbursement for travel would solve a different problem. The team needs to distinguish removing a cost from paying for a target count.",
+    "say": "The café proposes rewarding volunteers for the number of repairs completed. Sam worries that difficult cases will be avoided and repair quality may fall. Jo says modest reimbursement for travel would solve a different problem. The team needs to distinguish removing a cost from paying for a target count."
+  },
+  {
+    "id": "c07s02",
+    "step": "Chapter 7: Make a first decision",
+    "text": "First, make a prediction about the café story.\n\nWhich evaluation best matches the café proposal?\n\nA. Compare repair count together with quality, case difficulty, access and costs.\n\nB. Use repair count alone because it is the rewarded outcome.\n\nC. Reject reimbursement because some performance incentives can change motivation.\n\nChoose an option before checking the feedback.",
+    "say": "First, make a prediction about the café story. [pause 0.65] Which evaluation best matches the café proposal? [pause 0.65] A. Compare repair count together with quality, case difficulty, access and costs. [pause 0.65] B. Use repair count alone because it is the rewarded outcome. [pause 0.65] C. Reject reimbursement because some performance incentives can change motivation. [pause 0.65] Choose an option before checking the feedback."
+  },
+  {
+    "id": "c07s02-feedback-0",
+    "step": "Chapter 7: feedback 1",
+    "text": "These measures can distinguish a meaningful benefit from displacement or recording changes.",
+    "say": "These measures can distinguish a meaningful benefit from displacement or recording changes."
+  },
+  {
+    "id": "c07s02-feedback-1",
+    "step": "Chapter 7: feedback 2",
+    "text": "The rewarded count is a proxy for useful repairs and can miss important consequences.",
+    "say": "The rewarded count is a proxy for useful repairs and can miss important consequences."
+  },
+  {
+    "id": "c07s02-feedback-2",
+    "step": "Chapter 7: feedback 3",
+    "text": "Repaying expenses and rewarding a performance target can address different barriers.",
+    "say": "Repaying expenses and rewarding a performance target can address different barriers."
+  },
+  {
+    "id": "c07s03",
+    "step": "Chapter 7: Ask exactly what the arrangement rewards.",
+    "text": "An incentive changes the relative attractiveness of actions. Reimbursement repays a cost; opportunity cost concerns the alternative a person gives up. These can overlap in practice but answer different questions.\n\nTravel reimbursement may make a shift affordable. A payment for repair count rewards a particular result. Neither proposal should be evaluated by a general claim that money either solves motivation or damages it.",
+    "say": "An incentive changes the relative attractiveness of actions. Reimbursement repays a cost; opportunity cost concerns the alternative a person gives up. These can overlap in practice but answer different questions. [pause 0.65] Travel reimbursement may make a shift affordable. A payment for repair count rewards a particular result. Neither proposal should be evaluated by a general claim that money either solves motivation or damages it."
+  },
+  {
+    "id": "c07s03b",
+    "step": "Chapter 7: The rewarded measure can displace the intended outcome.",
+    "text": "A proxy measure stands in for something harder to observe. A substitution effect can shift activity toward the rewarded action. Gaming improves the measured result without the intended benefit.\n\nCounting completed repairs may encourage quick cases, or change how a completion is recorded. Measure quality, difficult-case access and unintended costs alongside throughput. Not every rise in the count is gaming, so investigate rather than presume misconduct.",
+    "say": "A proxy measure stands in for something harder to observe. A substitution effect can shift activity toward the rewarded action. Gaming improves the measured result without the intended benefit. [pause 0.65] Counting completed repairs may encourage quick cases, or change how a completion is recorded. Measure quality, difficult-case access and unintended costs alongside throughput. Not every rise in the count is gaming, so investigate rather than presume misconduct."
+  },
+  {
+    "id": "c07s04",
+    "step": "Chapter 7: Meaning and fairness can affect a response.",
+    "text": "Motivational crowding describes a possible change in other motivation. Acceptability concerns how people judge an arrangement, while distribution concerns who gains and who pays its costs.\n\nA payment can communicate recognition, control or a commercial expectation depending on the setting. Ask affected people, compare meaningful outcomes, and examine who can meet the rewarded target. Do not turn a possible crowding effect into a rule against paying people fairly.",
+    "say": "Motivational crowding describes a possible change in other motivation. Acceptability concerns how people judge an arrangement, while distribution concerns who gains and who pays its costs. [pause 0.65] A payment can communicate recognition, control or a commercial expectation depending on the setting. Ask affected people, compare meaningful outcomes, and examine who can meet the rewarded target. Do not turn a possible crowding effect into a rule against paying people fairly."
+  },
+  {
+    "id": "c07s05",
+    "step": "Chapter 7: What does the evidence allow?",
+    "text": "Research reviews describe varied incentive effects across tasks, populations and arrangements. Effects on other motivation are possible, but they do not justify the blanket claim that payments backfire or that unpaid participation is preferable.\n\nEvaluate the specified arrangement over an appropriate period. Preserve fair compensation and examine quality, access, costs and effects beyond the rewarded measure.",
+    "say": "Research reviews describe varied incentive effects across tasks, populations and arrangements. Effects on other motivation are possible, but they do not justify the blanket claim that payments backfire or that unpaid participation is preferable. [pause 0.65] Evaluate the specified arrangement over an appropriate period. Preserve fair compensation and examine quality, access, costs and effects beyond the rewarded measure."
+  },
+  {
+    "id": "c07s06",
+    "step": "Chapter 7: Apply the distinction",
+    "text": "Apply the idea to this new fictional case.\n\nA pilot reward increases completed-repair counts, but difficult repairs are now referred elsewhere more often.\n\nWhat is a proportionate interpretation?\n\nA. The payment has shown that volunteers care mainly about money.\n\nB. The count improved, but changes in case selection and quality need investigation.\n\nC. The change must be gaming, so comparison data are unnecessary.\n\nChoose an option and write your reasoning before checking the feedback.",
+    "say": "Apply the idea to this new fictional case. [pause 0.65] A pilot reward increases completed-repair counts, but difficult repairs are now referred elsewhere more often. [pause 0.65] What is a proportionate interpretation? [pause 0.65] A. The payment has shown that volunteers care mainly about money. [pause 0.65] B. The count improved, but changes in case selection and quality need investigation. [pause 0.65] C. The change must be gaming, so comparison data are unnecessary. [pause 0.65] Choose an option and write your reasoning before checking the feedback. [pause 1.0]"
+  },
+  {
+    "id": "c07s06-feedback-0",
+    "step": "Chapter 7: feedback 1",
+    "text": "A count does not reveal a unique motive or justify that conclusion about each person.",
+    "say": "A count does not reveal a unique motive or justify that conclusion about each person. [pause 1.0]"
+  },
+  {
+    "id": "c07s06-feedback-1",
+    "step": "Chapter 7: feedback 2",
+    "text": "This treats the proxy as one piece of evidence and examines competing explanations.",
+    "say": "This treats the proxy as one piece of evidence and examines competing explanations. [pause 1.0]"
+  },
+  {
+    "id": "c07s06-feedback-2",
+    "step": "Chapter 7: feedback 3",
+    "text": "A possible distortion needs evidence; it is not established by a count alone.",
+    "say": "A possible distortion needs evidence; it is not established by a count alone. [pause 1.0]"
+  },
+  {
+    "id": "c07s07",
+    "step": "Chapter 7: Explain it without the notes",
+    "text": "Try these questions without your notes.\n\nHow does reimbursement differ in purpose from a performance reward?\n\nWhy can a proxy improve while the intended outcome worsens?\n\nReveal the suggested answers after trying.",
+    "say": "Try these questions without your notes. [pause 0.65] How does reimbursement differ in purpose from a performance reward? [pause 0.65] Why can a proxy improve while the intended outcome worsens? [pause 0.65] Reveal the suggested answers after trying. [pause 1.0]"
+  },
+  {
+    "id": "c07s07-answers",
+    "step": "Chapter 7: recall answers",
+    "text": "Reimbursement repays a cost of participating; a performance reward makes a specified result more attractive.\n\nPeople may change case selection, recording or other actions that improve the indicator without improving the underlying benefit.",
+    "say": "Reimbursement repays a cost of participating; a performance reward makes a specified result more attractive. [pause 0.65] People may change case selection, recording or other actions that improve the indicator without improving the underlying benefit. [pause 1.0]"
+  },
+  {
+    "id": "c07s08",
+    "step": "Chapter 7: Take the idea into everyday life",
+    "text": "Design a fictional incentive evaluation. Identify the rewarded action, a meaningful outcome, one possible substitution, and a fairness or access measure.\n\nReturn tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.",
+    "say": "Design a fictional incentive evaluation. Identify the rewarded action, a meaningful outcome, one possible substitution, and a fairness or access measure. [pause 0.65] Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes."
+  },
+  {
+    "id": "c08s01",
+    "step": "Chapter 8: Build a proposal with a mechanism and alternatives",
+    "text": "The café has several suggestions: simplify booking, offer evening appointments, send a reminder, or make repair information easier to compare. Leo wants to choose the most fashionable nudge. Maya asks which barrier each proposal addresses, how it is supposed to work, and what evidence would count against it.",
+    "say": "The café has several suggestions: simplify booking, offer evening appointments, send a reminder, or make repair information easier to compare. Leo wants to choose the most fashionable nudge. [Maya](/mˈaɪə/) asks which barrier each proposal addresses, how it is supposed to work, and what evidence would count against it."
+  },
+  {
+    "id": "c08s02",
+    "step": "Chapter 8: Make a first decision",
+    "text": "First, make a prediction about the café story.\n\nHow should the team select a proposal?\n\nA. Choose the option described as a nudge because it is likely to be inexpensive.\n\nB. Select the prototype with the most positive comments as proof of impact.\n\nC. Match proposals to investigated barriers and compare mechanisms, feasibility, outcomes and costs.\n\nChoose an option before checking the feedback.",
+    "say": "First, make a prediction about the café story. [pause 0.65] How should the team select a proposal? [pause 0.65] A. Choose the option described as a nudge because it is likely to be inexpensive. [pause 0.65] B. Select the prototype with the most positive comments as proof of impact. [pause 0.65] C. Match proposals to investigated barriers and compare mechanisms, feasibility, outcomes and costs. [pause 0.65] Choose an option before checking the feedback."
+  },
+  {
+    "id": "c08s02-feedback-0",
+    "step": "Chapter 8: feedback 1",
+    "text": "A low delivery cost does not establish the cause, effectiveness or fairness of a change.",
+    "say": "A low delivery cost does not establish the cause, effectiveness or fairness of a change."
+  },
+  {
+    "id": "c08s02-feedback-1",
+    "step": "Chapter 8: feedback 2",
+    "text": "Comments can inform usability, but they do not supply the needed outcome comparison.",
+    "say": "Comments can inform usability, but they do not supply the needed outcome comparison."
+  },
+  {
+    "id": "c08s02-feedback-2",
+    "step": "Chapter 8: feedback 3",
+    "text": "This turns a label into an inspectable proposal and keeps alternatives in view.",
+    "say": "This turns a label into an inspectable proposal and keeps alternatives in view."
+  },
+  {
+    "id": "c08s03",
+    "step": "Chapter 8: A theory of change makes the links inspectable.",
+    "text": "A theory of change links a change to a proposed process and outcome. An assumption states a condition that link relies on. A counterfactual asks what would happen under an alternative condition.\n\nA reminder assumes that forgetting is relevant, the message is understood, and a feasible appointment exists. Compare it with the current approach and with a material response such as suitable opening hours.",
+    "say": "A theory of change links a change to a proposed process and outcome. An assumption states a condition that link relies on. A counterfactual asks what would happen under an alternative condition. [pause 0.65] A reminder assumes that forgetting is relevant, the message is understood, and a feasible appointment exists. Compare it with the current approach and with a material response such as suitable opening hours."
+  },
+  {
+    "id": "c08s03b",
+    "step": "Chapter 8: Design tools have different purposes.",
+    "text": "Choice architecture concerns how options are arranged. A nudge changes that environment while preserving options and avoiding a substantial change in economic incentives. A boost aims to develop decision-making competence. These are useful distinctions with debated boundaries.\n\nA clear comparison display may help a choice now; teaching a reusable comparison skill has a different purpose. Neither replaces a needed repair slot, and neither label guarantees effectiveness.",
+    "say": "Choice architecture concerns how options are arranged. A nudge changes that environment while preserving options and avoiding a substantial change in economic incentives. A boost aims to develop decision-making competence. These are useful distinctions with debated boundaries. [pause 0.65] A clear comparison display may help a choice now; teaching a reusable comparison skill has a different purpose. Neither replaces a needed repair slot, and neither label guarantees effectiveness."
+  },
+  {
+    "id": "c08s04",
+    "step": "Chapter 8: A memorable checklist is not evidence of impact.",
+    "text": "A design framework can help generate ideas. A pilot or feasibility study addresses specified practical questions; a small positive result does not automatically establish effectiveness.\n\nCheck whether staff can deliver the change, visitors can use it, and outcomes can be measured. Then use an appropriate evaluation. Keep a record of rejected alternatives so a convenient message does not crowd out a better response to the diagnosed barrier.",
+    "say": "A design framework can help generate ideas. A pilot or feasibility study addresses specified practical questions; a small positive result does not automatically establish effectiveness. [pause 0.65] Check whether staff can deliver the change, visitors can use it, and outcomes can be measured. Then use an appropriate evaluation. Keep a record of rejected alternatives so a convenient message does not crowd out a better response to the diagnosed barrier."
+  },
+  {
+    "id": "c08s05",
+    "step": "Chapter 8: What does the evidence allow?",
+    "text": "Choice-architecture reviews reach different conclusions depending on included studies and assumptions about publication bias. Large operational trials also show that published academic effects should not be transferred mechanically to a new service.\n\nA design framework or the word nudge does not establish a benefit. State the mechanism, alternatives, uncertainty and ethical conditions of the specific proposal.",
+    "say": "Choice-architecture reviews reach different conclusions depending on included studies and assumptions about publication bias. Large operational trials also show that published academic effects should not be transferred mechanically to a new service. [pause 0.65] A design framework or the word nudge does not establish a benefit. State the mechanism, alternatives, uncertainty and ethical conditions of the specific proposal."
+  },
+  {
+    "id": "c08s06",
+    "step": "Chapter 8: Apply the distinction",
+    "text": "Apply the idea to this new fictional case.\n\nStaff and visitors try a prototype with no comparison group. They identify unclear instructions and a delivery problem.\n\nWhat can this pilot most directly support?\n\nA. A conclusion about usability and implementation, with an outcome evaluation still needed.\n\nB. A conclusion that the intervention causes better attendance in other services.\n\nC. A conclusion that practical feedback is irrelevant until a large trial is complete.\n\nChoose an option and write your reasoning before checking the feedback.",
+    "say": "Apply the idea to this new fictional case. [pause 0.65] Staff and visitors try a prototype with no comparison group. They identify unclear instructions and a delivery problem. [pause 0.65] What can this pilot most directly support? [pause 0.65] A. A conclusion about usability and implementation, with an outcome evaluation still needed. [pause 0.65] B. A conclusion that the intervention causes better attendance in other services. [pause 0.65] C. A conclusion that practical feedback is irrelevant until a large trial is complete. [pause 0.65] Choose an option and write your reasoning before checking the feedback. [pause 1.0]"
+  },
+  {
+    "id": "c08s06-feedback-0",
+    "step": "Chapter 8: feedback 1",
+    "text": "The pilot’s design supports practical learning without automatically establishing impact.",
+    "say": "The pilot’s design supports practical learning without automatically establishing impact. [pause 1.0]"
+  },
+  {
+    "id": "c08s06-feedback-1",
+    "step": "Chapter 8: feedback 2",
+    "text": "Usability and staff feedback do not establish a causal effect or transfer to a new setting.",
+    "say": "Usability and staff feedback do not establish a causal effect or transfer to a new setting. [pause 1.0]"
+  },
+  {
+    "id": "c08s06-feedback-2",
+    "step": "Chapter 8: feedback 3",
+    "text": "Practical evidence can improve a design even when causal effectiveness remains uncertain.",
+    "say": "Practical evidence can improve a design even when causal effectiveness remains uncertain. [pause 1.0]"
+  },
+  {
+    "id": "c08s07",
+    "step": "Chapter 8: Explain it without the notes",
+    "text": "Try these questions without your notes.\n\nWhat belongs in a theory of change?\n\nWhy do labels such as nudge, boost or pilot not establish effectiveness?\n\nReveal the suggested answers after trying.",
+    "say": "Try these questions without your notes. [pause 0.65] What belongs in a theory of change? [pause 0.65] Why do labels such as nudge, boost or pilot not establish effectiveness? [pause 0.65] Reveal the suggested answers after trying. [pause 1.0]"
+  },
+  {
+    "id": "c08s07-answers",
+    "step": "Chapter 8: recall answers",
+    "text": "The proposed action, mechanism and outcome, key assumptions, alternatives and evidence that could challenge the links.\n\nThey describe an approach or purpose. Effectiveness still depends on a specified implementation, comparison and outcome evidence.",
+    "say": "The proposed action, mechanism and outcome, key assumptions, alternatives and evidence that could challenge the links. [pause 0.65] They describe an approach or purpose. Effectiveness still depends on a specified implementation, comparison and outcome evidence. [pause 1.0]"
+  },
+  {
+    "id": "c08s08",
+    "step": "Chapter 8: Take the idea into everyday life",
+    "text": "On paper, compare two responses to a fictional barrier, including one material or service change. Write a theory of change for each and one observation that would challenge it.\n\nReturn tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.",
+    "say": "On paper, compare two responses to a fictional barrier, including one material or service change. Write a theory of change for each and one observation that would challenge it. [pause 0.65] Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes."
+  },
+  {
+    "id": "c09s01",
+    "step": "Chapter 9: Compare changes with what would have happened",
+    "text": "Attendance improved after the café introduced a reminder. The weather also improved and more evening slots became available. Leo attributes the entire rise to the message. Maya proposes a fair comparison, with outcomes and analysis decided before seeing which version looks better.",
+    "say": "Attendance improved after the café introduced a reminder. The weather also improved and more evening slots became available. Leo attributes the entire rise to the message. [Maya](/mˈaɪə/) proposes a fair comparison, with outcomes and analysis decided before seeing which version looks better."
+  },
+  {
+    "id": "c09s02",
+    "step": "Chapter 9: Make a first decision",
+    "text": "First, make a prediction about the café story.\n\nWhat is the central problem with Leo’s claim?\n\nA. Attendance is not a useful outcome because it is behavioural.\n\nB. Other changes occurred at the same time, so the message’s contribution is not isolated.\n\nC. A comparison is unnecessary if everyone received the same message.\n\nChoose an option before checking the feedback.",
+    "say": "First, make a prediction about the café story. [pause 0.65] What is the central problem with Leo’s claim? [pause 0.65] A. Attendance is not a useful outcome because it is behavioural. [pause 0.65] B. Other changes occurred at the same time, so the message’s contribution is not isolated. [pause 0.65] C. A comparison is unnecessary if everyone received the same message. [pause 0.65] Choose an option before checking the feedback."
+  },
+  {
+    "id": "c09s02-feedback-0",
+    "step": "Chapter 9: feedback 1",
+    "text": "Attendance can be useful if it is defined, reliably measured and linked to the service goal.",
+    "say": "Attendance can be useful if it is defined, reliably measured and linked to the service goal."
+  },
+  {
+    "id": "c09s02-feedback-1",
+    "step": "Chapter 9: feedback 2",
+    "text": "Weather and slot availability are plausible alternative explanations for the observed change.",
+    "say": "Weather and slot availability are plausible alternative explanations for the observed change."
+  },
+  {
+    "id": "c09s02-feedback-2",
+    "step": "Chapter 9: feedback 3",
+    "text": "Receiving the message does not reveal what attendance would otherwise have been.",
+    "say": "Receiving the message does not reveal what attendance would otherwise have been."
+  },
+  {
+    "id": "c09s03",
+    "step": "Chapter 9: Before-and-after is not the only possible comparison.",
+    "text": "A causal effect compares an intervention with a specified alternative. Random assignment uses chance to allocate an assignment unit, such as a person or a workshop.\n\nA simultaneous comparison can help distinguish the reminder from changes in weather or available slots. If people share messages within a workshop, consider whether assigning workshops is more appropriate. Random assignment and random sampling are different procedures.",
+    "say": "A causal effect compares an intervention with a specified alternative. Random assignment uses chance to allocate an assignment unit, such as a person or a workshop. [pause 0.65] A simultaneous comparison can help distinguish the reminder from changes in weather or available slots. If people share messages within a workshop, consider whether assigning workshops is more appropriate. Random assignment and random sampling are different procedures."
+  },
+  {
+    "id": "c09s03b",
+    "step": "Chapter 9: Keep the denominator that matches the question.",
+    "text": "Intention-to-treat analysis compares people in their assigned conditions, including those who did not open a message. A percentage point is a difference between percentages. Attrition concerns missing outcome observations.\n\nIn an illustrative comparison, attendance of sixty percent versus fifty percent is ten percentage points higher. Comparing only people who opened the message can select different people and break the original comparison.",
+    "say": "Intention-to-treat analysis compares people in their assigned conditions, including those who did not open a message. A percentage point is a difference between percentages. Attrition concerns missing outcome observations. [pause 0.65] In an illustrative comparison, attendance of sixty percent versus fifty percent is ten percentage points higher. Comparing only people who opened the message can select different people and break the original comparison."
+  },
+  {
+    "id": "c09s04",
+    "step": "Chapter 9: A point estimate is not the whole result.",
+    "text": "A confidence interval describes uncertainty under statistical assumptions. A wide interval may leave both little benefit and a substantial average benefit compatible with the data. It is not a guarantee about a specific individual. Preregistration records important decisions before results are inspected. Interference occurs when one unit’s treatment affects another’s outcome.\n\nSpecify the outcome, comparison, timing, missing-data approach and analysis before testing many versions. Check implementation, spillovers and uncertainty. A favourable estimate alone does not establish a reliable or transferable benefit.",
+    "say": "A confidence interval describes uncertainty under statistical assumptions. A wide interval may leave both little benefit and a substantial average benefit compatible with the data. It is not a guarantee about a specific individual. Preregistration records important decisions before results are inspected. Interference occurs when one unit’s treatment affects another’s outcome. [pause 0.65] Specify the outcome, comparison, timing, missing-data approach and analysis before testing many versions. Check implementation, spillovers and uncertainty. A favourable estimate alone does not establish a reliable or transferable benefit."
+  },
+  {
+    "id": "c09s05",
+    "step": "Chapter 9: What does the evidence allow?",
+    "text": "Randomized evaluations can support causal inference when assignment, measurement and analysis are appropriate. They do not automatically solve interference, missing outcomes, selective reporting or limited applicability to other settings.\n\nThese fictional exercises teach interpretation. Real field research needs suitable expertise, permissions, participant protections and governance; an educational course does not provide that authorization.",
+    "say": "Randomized evaluations can support causal inference when assignment, measurement and analysis are appropriate. They do not automatically solve interference, missing outcomes, selective reporting or limited applicability to other settings. [pause 0.65] These fictional exercises teach interpretation. Real field research needs suitable expertise, permissions, participant protections and governance; an educational course does not provide that authorization."
+  },
+  {
+    "id": "c09s06",
+    "step": "Chapter 9: Apply the distinction",
+    "text": "Apply the idea to this new fictional case.\n\nA fictional trial randomly assigns eligible visitors to two reminder approaches. Some messages are not opened and some attendance records are missing.\n\nWhich comparison best preserves the intended randomized question?\n\nA. Message openers in the new condition versus non-openers in the old condition.\n\nB. Only people who completed the most convenient follow-up measure.\n\nC. All assigned people in each condition, with missing outcomes investigated and handled transparently.\n\nChoose an option and write your reasoning before checking the feedback.",
+    "say": "Apply the idea to this new fictional case. [pause 0.65] A fictional trial randomly assigns eligible visitors to two reminder approaches. Some messages are not opened and some attendance records are missing. [pause 0.65] Which comparison best preserves the intended randomized question? [pause 0.65] A. Message openers in the new condition versus non-openers in the old condition. [pause 0.65] B. Only people who completed the most convenient follow-up measure. [pause 0.65] C. All assigned people in each condition, with missing outcomes investigated and handled transparently. [pause 0.65] Choose an option and write your reasoning before checking the feedback. [pause 1.0]"
+  },
+  {
+    "id": "c09s06-feedback-0",
+    "step": "Chapter 9: feedback 1",
+    "text": "Opening is a later behaviour that can select people with different characteristics.",
+    "say": "Opening is a later behaviour that can select people with different characteristics. [pause 1.0]"
+  },
+  {
+    "id": "c09s06-feedback-1",
+    "step": "Chapter 9: feedback 2",
+    "text": "Convenient observation can introduce a different selection problem.",
+    "say": "Convenient observation can introduce a different selection problem. [pause 1.0]"
+  },
+  {
+    "id": "c09s06-feedback-2",
+    "step": "Chapter 9: feedback 3",
+    "text": "This preserves assignment as the comparison basis while treating missing data as an unresolved issue to examine.",
+    "say": "This preserves assignment as the comparison basis while treating missing data as an unresolved issue to examine. [pause 1.0]"
+  },
+  {
+    "id": "c09s07",
+    "step": "Chapter 9: Explain it without the notes",
+    "text": "Try these questions without your notes.\n\nHow does random assignment differ from random sampling?\n\nWhy should the analysis not simply compare message openers with non-openers?\n\nReveal the suggested answers after trying.",
+    "say": "Try these questions without your notes. [pause 0.65] How does random assignment differ from random sampling? [pause 0.65] Why should the analysis not simply compare message openers with non-openers? [pause 0.65] Reveal the suggested answers after trying. [pause 1.0]"
+  },
+  {
+    "id": "c09s07-answers",
+    "step": "Chapter 9: recall answers",
+    "text": "Assignment allocates units to conditions; sampling selects units from a population. They address different questions.\n\nOpening is not randomly assigned and can reflect differences between people, so that comparison can lose the benefit of the original assignment.",
+    "say": "Assignment allocates units to conditions; sampling selects units from a population. They address different questions. [pause 0.65] Opening is not randomly assigned and can reflect differences between people, so that comparison can lose the benefit of the original assignment. [pause 1.0]"
+  },
+  {
+    "id": "c09s08",
+    "step": "Chapter 9: Take the idea into everyday life",
+    "text": "Draft an evaluation plan for a fictional service change. Specify the comparator, assignment unit, meaningful outcome, denominator, missing-data concern and a possible spillover. Do not conduct a real experiment from this exercise.\n\nReturn tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.",
+    "say": "Draft an evaluation plan for a fictional service change. Specify the comparator, assignment unit, meaningful outcome, denominator, missing-data concern and a possible spillover. Do not conduct a real experiment from this exercise. [pause 0.65] Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes."
+  },
+  {
+    "id": "c10s01",
+    "step": "Chapter 10: A useful result still needs an ethical decision",
+    "text": "A booking pilot increases attendance on average. Some visitors report unwanted messages; people without reliable internet still struggle. The café wants to expand the change across several services. Maya asks whose outcome improved, who bore the costs, and whether the same conditions will hold elsewhere.",
+    "say": "A booking pilot increases attendance on average. Some visitors report unwanted messages; people without reliable internet still struggle. The café wants to expand the change across several services. [Maya](/mˈaɪə/) asks whose outcome improved, who bore the costs, and whether the same conditions will hold elsewhere."
+  },
+  {
+    "id": "c10s02",
+    "step": "Chapter 10: Make a first decision",
+    "text": "First, make a prediction about the café story.\n\nWhat should the café do before expanding the pilot?\n\nA. Review benefits, uneven access, unwanted contact, implementation and conditions at the new sites.\n\nB. Use the average attendance increase as sufficient evidence for every visitor and service.\n\nC. Collect all available personal data in case it becomes useful later.\n\nChoose an option before checking the feedback.",
+    "say": "First, make a prediction about the café story. [pause 0.65] What should the café do before expanding the pilot? [pause 0.65] A. Review benefits, uneven access, unwanted contact, implementation and conditions at the new sites. [pause 0.65] B. Use the average attendance increase as sufficient evidence for every visitor and service. [pause 0.65] C. Collect all available personal data in case it becomes useful later. [pause 0.65] Choose an option before checking the feedback."
+  },
+  {
+    "id": "c10s02-feedback-0",
+    "step": "Chapter 10: feedback 1",
+    "text": "This treats effectiveness, fairness, autonomy and transfer as distinct questions needing evidence.",
+    "say": "This treats effectiveness, fairness, autonomy and transfer as distinct questions needing evidence."
+  },
+  {
+    "id": "c10s02-feedback-1",
+    "step": "Chapter 10: feedback 2",
+    "text": "An average for one comparison does not establish universal benefit or applicability.",
+    "say": "An average for one comparison does not establish universal benefit or applicability."
+  },
+  {
+    "id": "c10s02-feedback-2",
+    "step": "Chapter 10: feedback 3",
+    "text": "More data can create unjustified privacy costs without improving the decision.",
+    "say": "More data can create unjustified privacy costs without improving the decision."
+  },
+  {
+    "id": "c10s03",
+    "step": "Chapter 10: An average can hide different consequences.",
+    "text": "An average treatment effect summarizes a defined comparison, not a benefit for every person. Equity asks about fair opportunities and distribution. Opportunity cost concerns what another use of the resources could achieve.\n\nAn attendance gain could coexist with unwanted contacts or exclusion of people needing a phone route. Examine these consequences and compare feasible alternatives, including a service-capacity change. A dashboard average cannot make the value judgment on its own.",
+    "say": "An average treatment effect summarizes a defined comparison, not a benefit for every person. Equity asks about fair opportunities and distribution. Opportunity cost concerns what another use of the resources could achieve. [pause 0.65] An attendance gain could coexist with unwanted contacts or exclusion of people needing a phone route. Examine these consequences and compare feasible alternatives, including a service-capacity change. A dashboard average cannot make the value judgment on its own."
+  },
+  {
+    "id": "c10s03b",
+    "step": "Chapter 10: Protect choice throughout the process.",
+    "text": "Autonomy concerns meaningful control over choices. Transparency makes relevant purposes and conditions understandable. Data minimization limits collection to a justified need.\n\nUse an accessible way to stop reminders and avoid collecting detailed personal information just because a system permits it. Where consent or review is required, obtain it before implementation. A benign goal does not excuse misleading claims or an obstructive exit.",
+    "say": "Autonomy concerns meaningful control over choices. Transparency makes relevant purposes and conditions understandable. Data minimization limits collection to a justified need. [pause 0.65] Use an accessible way to stop reminders and avoid collecting detailed personal information just because a system permits it. Where consent or review is required, obtain it before implementation. A benign goal does not excuse misleading claims or an obstructive exit."
+  },
+  {
+    "id": "c10s04",
+    "step": "Chapter 10: Scaling is another claim to investigate.",
+    "text": "External validity concerns applicability beyond the studied conditions. Implementation fidelity concerns how a change is delivered. Monitoring tracks specified benefits and harms over time.\n\nA new site may differ in staffing, language, trust or available services. Plan adaptation and a suitable further evaluation, with criteria for pausing or stopping. Keep null and unwanted results visible so later decisions are not based only on success stories.",
+    "say": "External validity concerns applicability beyond the studied conditions. Implementation fidelity concerns how a change is delivered. Monitoring tracks specified benefits and harms over time. [pause 0.65] A new site may differ in staffing, language, trust or available services. Plan adaptation and a suitable further evaluation, with criteria for pausing or stopping. Keep null and unwanted results visible so later decisions are not based only on success stories."
+  },
+  {
+    "id": "c10s05",
+    "step": "Chapter 10: What does the evidence allow?",
+    "text": "Large operational trials show that effects and their interpretation depend on setting, implementation and the evidence available for comparison. Debate about choice-architecture meta-analysis also highlights how publication and analytic assumptions can affect broad claims.\n\nNeither a positive average nor a behavioural label settles welfare, fairness or consent. State the decision criteria, relevant uncertainty, alternatives and conditions for further review.",
+    "say": "Large operational trials show that effects and their interpretation depend on setting, implementation and the evidence available for comparison. Debate about choice-architecture meta-analysis also highlights how publication and analytic assumptions can affect broad claims. [pause 0.65] Neither a positive average nor a behavioural label settles welfare, fairness or consent. State the decision criteria, relevant uncertainty, alternatives and conditions for further review."
+  },
+  {
+    "id": "c10s06",
+    "step": "Chapter 10: Apply the distinction",
+    "text": "Apply the idea to this new fictional case.\n\nA pilot improved average attendance, but a new site lacks an accessible alternative and some participants found the messages intrusive.\n\nWhich recommendation is best supported?\n\nA. Expand immediately because a behavioural intervention already passed one test.\n\nB. Adapt the route, address the unwanted effects, and evaluate under the new conditions with stopping criteria.\n\nC. Discard the attendance evidence because ethical concerns make outcome data irrelevant.\n\nChoose an option and write your reasoning before checking the feedback.",
+    "say": "Apply the idea to this new fictional case. [pause 0.65] A pilot improved average attendance, but a new site lacks an accessible alternative and some participants found the messages intrusive. [pause 0.65] Which recommendation is best supported? [pause 0.65] A. Expand immediately because a behavioural intervention already passed one test. [pause 0.65] B. Adapt the route, address the unwanted effects, and evaluate under the new conditions with stopping criteria. [pause 0.65] C. Discard the attendance evidence because ethical concerns make outcome data irrelevant. [pause 0.65] Choose an option and write your reasoning before checking the feedback. [pause 1.0]"
+  },
+  {
+    "id": "c10s06-feedback-0",
+    "step": "Chapter 10: feedback 1",
+    "text": "The new site and the observed harms create further questions for the decision.",
+    "say": "The new site and the observed harms create further questions for the decision. [pause 1.0]"
+  },
+  {
+    "id": "c10s06-feedback-1",
+    "step": "Chapter 10: feedback 2",
+    "text": "This uses the evidence while protecting people and testing applicability.",
+    "say": "This uses the evidence while protecting people and testing applicability. [pause 1.0]"
+  },
+  {
+    "id": "c10s06-feedback-2",
+    "step": "Chapter 10: feedback 3",
+    "text": "Ethical judgment needs outcome evidence as well as rights, costs and distribution.",
+    "say": "Ethical judgment needs outcome evidence as well as rights, costs and distribution. [pause 1.0]"
+  },
+  {
+    "id": "c10s07",
+    "step": "Chapter 10: Explain it without the notes",
+    "text": "Try these questions without your notes.\n\nWhy does a positive average not settle whether to expand a change?\n\nWhat should a responsible expansion plan include?\n\nReveal the suggested answers after trying.",
+    "say": "Try these questions without your notes. [pause 0.65] Why does a positive average not settle whether to expand a change? [pause 0.65] What should a responsible expansion plan include? [pause 0.65] Reveal the suggested answers after trying. [pause 1.0]"
+  },
+  {
+    "id": "c10s07-answers",
+    "step": "Chapter 10: recall answers",
+    "text": "It can hide uneven benefits, burdens and harms, and it does not establish applicability elsewhere or resolve value judgments.\n\nThe intended outcome, relevant differences, practical delivery, participant protections, monitoring, further evaluation and conditions for pausing or stopping.",
+    "say": "It can hide uneven benefits, burdens and harms, and it does not establish applicability elsewhere or resolve value judgments. [pause 0.65] The intended outcome, relevant differences, practical delivery, participant protections, monitoring, further evaluation and conditions for pausing or stopping. [pause 1.0]"
+  },
+  {
+    "id": "c10s08",
+    "step": "Chapter 10: Take the idea into everyday life",
+    "text": "Review your fictional proposal using benefit, equity, autonomy, privacy and uncertainty. Write one condition for adaptation, one for further evaluation, and one for stopping.\n\nReturn tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes.",
+    "say": "Review your fictional proposal using benefit, equity, autonomy, privacy and uncertainty. Write one condition for adaptation, one for further evaluation, and one for stopping. [pause 0.65] Return tomorrow or in a week with an unfamiliar example. Compare your reasoning with the notes."
+  }
+]

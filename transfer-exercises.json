@@ -1,0 +1,172 @@
+{
+  "1": {
+    "prompt": "Which target is sufficiently specific to investigate?",
+    "options": [
+      "Make the service more welcoming.",
+      "Increase people’s motivation to participate.",
+      "Adults seeking evening repairs complete a suitable booking through an accessible route."
+    ],
+    "correct": 2,
+    "feedback": [
+      "Welcoming is an important ambition, but it needs a specified action and meaningful outcome.",
+      "A motivational explanation still needs evidence and an observable target.",
+      "This identifies people, an action and relevant conditions without assuming the cause."
+    ],
+    "context": "A community service wants to improve access for residents working daytime shifts.",
+    "reasoningPrompt": "Explain your choice. Which evidence supports it, what alternative remains, and what would change your conclusion?",
+    "revision": "behavioral-science-v1"
+  },
+  "2": {
+    "prompt": "What conclusion is supported?",
+    "options": [
+      "The new layout has solved access because completion increased.",
+      "The layout may reduce effort, but appointment availability and uneven access still need investigation.",
+      "The layout should be discarded because it did not increase service capacity."
+    ],
+    "correct": 1,
+    "feedback": [
+      "Completion alone does not establish useful access or show who remains excluded.",
+      "This separates a possible process improvement from the wider outcome and remaining constraints.",
+      "A change can reduce effort without solving every barrier; the benefit still needs evaluation."
+    ],
+    "context": "A redesigned form has higher completion, but evening appointments remain unavailable and some visitors still need a phone route.",
+    "reasoningPrompt": "Explain your choice. Which evidence supports it, what alternative remains, and what would change your conclusion?",
+    "revision": "behavioral-science-v1"
+  },
+  "3": {
+    "prompt": "What should the team investigate next?",
+    "options": [
+      "Whether recipients can understand and act on the message, including practical access.",
+      "How to maximize openings as the sole goal.",
+      "Whether an unchanged attendance rate proves that attention never matters."
+    ],
+    "correct": 0,
+    "feedback": [
+      "This checks the next links in the proposed mechanism and alternative explanations.",
+      "Attention is useful only in relation to a meaningful outcome and acceptable costs.",
+      "One result for one message does not settle every attention intervention."
+    ],
+    "context": "A new reminder gets more openings, but the attendance rate is unchanged.",
+    "reasoningPrompt": "Explain your choice. Which evidence supports it, what alternative remains, and what would change your conclusion?",
+    "revision": "behavioral-science-v1"
+  },
+  "4": {
+    "prompt": "What comparison isolates presentation most clearly?",
+    "options": [
+      "A low-price option with supportive wording versus a high-price option with loss wording.",
+      "Two truthful descriptions with the same underlying price, options and conditions.",
+      "A clear opt-in offer versus an automatic charge with less prominent terms."
+    ],
+    "correct": 1,
+    "feedback": [
+      "Changing price and wording together prevents attribution to wording alone.",
+      "Holding the offer constant helps distinguish presentation from a change in substantive terms.",
+      "This changes several features and introduces a consent problem."
+    ],
+    "context": "A service wants to test whether gain-oriented versus loss-oriented wording affects a voluntary contribution.",
+    "reasoningPrompt": "Explain your choice. Which evidence supports it, what alternative remains, and what would change your conclusion?",
+    "revision": "behavioral-science-v1"
+  },
+  "5": {
+    "prompt": "Which planning aid best fits the case?",
+    "options": [
+      "A fee for any later change, including a changed work shift.",
+      "A motivational pledge without a usable opportunity to book.",
+      "An optional cue to check availability after the schedule arrives, with a straightforward rescheduling route."
+    ],
+    "correct": 2,
+    "feedback": [
+      "This can penalize uncertainty outside the person’s control.",
+      "A pledge leaves the practical link between cue and feasible action unspecified.",
+      "This matches a relevant cue to a feasible response while allowing circumstances to change."
+    ],
+    "context": "A visitor wants to volunteer but can choose a shift only after receiving a variable work schedule.",
+    "reasoningPrompt": "Explain your choice. Which evidence supports it, what alternative remains, and what would change your conclusion?",
+    "revision": "behavioral-science-v1"
+  },
+  "6": {
+    "prompt": "What does the combined result suggest?",
+    "options": [
+      "Use only the overall average because subgroup differences are distracting.",
+      "The message is proven harmful for every careful visitor.",
+      "Investigate baseline differences, uncertainty and possible boomerang effects before expanding the message."
+    ],
+    "correct": 2,
+    "feedback": [
+      "An overall improvement can hide a potentially important unwanted change.",
+      "The result calls for investigation, not a universal judgment about each person.",
+      "This treats variation as evidence to examine and avoids premature expansion."
+    ],
+    "context": "In a fictional pilot, average returns rise slightly but returns among previously careful borrowers fall. The groups are small.",
+    "reasoningPrompt": "Explain your choice. Which evidence supports it, what alternative remains, and what would change your conclusion?",
+    "revision": "behavioral-science-v1"
+  },
+  "7": {
+    "prompt": "What is a proportionate interpretation?",
+    "options": [
+      "The payment has shown that volunteers care mainly about money.",
+      "The count improved, but changes in case selection and quality need investigation.",
+      "The change must be gaming, so comparison data are unnecessary."
+    ],
+    "correct": 1,
+    "feedback": [
+      "A count does not reveal a unique motive or justify that conclusion about each person.",
+      "This treats the proxy as one piece of evidence and examines competing explanations.",
+      "A possible distortion needs evidence; it is not established by a count alone."
+    ],
+    "context": "A pilot reward increases completed-repair counts, but difficult repairs are now referred elsewhere more often.",
+    "reasoningPrompt": "Explain your choice. Which evidence supports it, what alternative remains, and what would change your conclusion?",
+    "revision": "behavioral-science-v1"
+  },
+  "8": {
+    "prompt": "What can this pilot most directly support?",
+    "options": [
+      "A conclusion about usability and implementation, with an outcome evaluation still needed.",
+      "A conclusion that the intervention causes better attendance in other services.",
+      "A conclusion that practical feedback is irrelevant until a large trial is complete."
+    ],
+    "correct": 0,
+    "feedback": [
+      "The pilot’s design supports practical learning without automatically establishing impact.",
+      "Usability and staff feedback do not establish a causal effect or transfer to a new setting.",
+      "Practical evidence can improve a design even when causal effectiveness remains uncertain."
+    ],
+    "context": "Staff and visitors try a prototype with no comparison group. They identify unclear instructions and a delivery problem.",
+    "reasoningPrompt": "Explain your choice. Which evidence supports it, what alternative remains, and what would change your conclusion?",
+    "revision": "behavioral-science-v1"
+  },
+  "9": {
+    "prompt": "Which comparison best preserves the intended randomized question?",
+    "options": [
+      "Message openers in the new condition versus non-openers in the old condition.",
+      "Only people who completed the most convenient follow-up measure.",
+      "All assigned people in each condition, with missing outcomes investigated and handled transparently."
+    ],
+    "correct": 2,
+    "feedback": [
+      "Opening is a later behaviour that can select people with different characteristics.",
+      "Convenient observation can introduce a different selection problem.",
+      "This preserves assignment as the comparison basis while treating missing data as an unresolved issue to examine."
+    ],
+    "context": "A fictional trial randomly assigns eligible visitors to two reminder approaches. Some messages are not opened and some attendance records are missing.",
+    "reasoningPrompt": "Explain your choice. Which evidence supports it, what alternative remains, and what would change your conclusion?",
+    "revision": "behavioral-science-v1"
+  },
+  "10": {
+    "prompt": "Which recommendation is best supported?",
+    "options": [
+      "Expand immediately because a behavioural intervention already passed one test.",
+      "Adapt the route, address the unwanted effects, and evaluate under the new conditions with stopping criteria.",
+      "Discard the attendance evidence because ethical concerns make outcome data irrelevant."
+    ],
+    "correct": 1,
+    "feedback": [
+      "The new site and the observed harms create further questions for the decision.",
+      "This uses the evidence while protecting people and testing applicability.",
+      "Ethical judgment needs outcome evidence as well as rights, costs and distribution."
+    ],
+    "context": "A pilot improved average attendance, but a new site lacks an accessible alternative and some participants found the messages intrusive.",
+    "reasoningPrompt": "Explain your choice. Which evidence supports it, what alternative remains, and what would change your conclusion?",
+    "revision": "behavioral-science-v1"
+  }
+}

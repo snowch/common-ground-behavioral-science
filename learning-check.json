@@ -1,0 +1,82 @@
+{
+  "title": "Try a new case",
+  "caseTitle": "A new route to the repair café",
+  "subtitle": "A written capstone: design, evidence and responsible change",
+  "intro": "Try this fictional case without your notes. Allow twenty to thirty minutes. Write somewhere private; this page does not collect or grade your answers. Compare with the suggested reasoning after your attempt.",
+  "paragraphs": [
+    "The council asks the café to improve access to repairs for residents working variable shifts. The current booking route has six screens, asks for a printer, and offers most appointments during working hours. Some visitors use a phone route. The team proposes a shorter form and an appointment reminder.",
+    "A draft message says most residents already use the service, but no evidence supports that majority claim. A sponsor offers a reward for the number of completed repairs. Volunteers worry that difficult cases will be passed elsewhere and that more bookings will exceed capacity.",
+    "In a fictional randomized pilot, two hundred eligible residents are assigned to the new route and two hundred to the current route. Ninety assigned to the new route attend, compared with seventy assigned to the current route. Attendance is recorded for all assigned residents, whether or not they opened a message. The pilot does not separate the shorter form from the reminder.",
+    "Some visitors report unwanted contact, and residents without reliable internet still struggle. The council wants to expand the approach to another site with different opening hours and staffing. These are invented teaching facts, not findings from a real evaluation."
+  ],
+  "tasks": [
+    {
+      "title": "Specify the problem",
+      "chapters": [
+        1,
+        2,
+        3
+      ],
+      "prompt": "Define a target behaviour and a meaningful outcome. Give at least two competing barriers and an observation that could help distinguish them.",
+      "answer": "Specify completing a feasible repair booking and attending a useful appointment among the relevant residents. Investigate understanding of the form, printer access, hours, transport, staff capacity and whether a cue is needed. Compare journey observations, visitors’ accounts and process data rather than treating low motivation as established."
+    },
+    {
+      "title": "Compare responses",
+      "chapters": [
+        4,
+        5,
+        8
+      ],
+      "prompt": "Write a theory of change for two different responses, including one service or material change. State an assumption and a comparison for each.",
+      "answer": "A simpler form may reduce effort if the requirements are the barrier; compare with the current route while tracking useful access. Suitable appointment hours may address an opportunity constraint; compare a feasible service arrangement rather than assuming a reminder supplies availability. Keep terms clear and any planning aid voluntary. A combined pilot cannot isolate which component caused a difference."
+    },
+    {
+      "title": "Examine norms and incentives",
+      "chapters": [
+        6,
+        7
+      ],
+      "prompt": "Assess the majority message and the repair-count reward. Propose better evidence and outcomes.",
+      "answer": "Do not use an unverified majority claim. Establish truth and a relevant reference group, and consider different baselines and unwanted responses. For the reward, distinguish useful repairs from the proxy count. Examine quality, difficult-case access, volunteer costs and the distribution of benefits. Travel reimbursement might address a different barrier."
+    },
+    {
+      "title": "Interpret the comparison",
+      "chapters": [
+        9
+      ],
+      "prompt": "Calculate the attendance rates and difference. Explain the comparison basis, a remaining uncertainty and a claim the pilot cannot establish.",
+      "answer": "Ninety of two hundred is forty-five percent; seventy of two hundred is thirty-five percent. The difference is ten percentage points. Comparing all assigned residents preserves the intention-to-treat question. Check assignment, delivery, uncertainty, interference and the meaning of attendance. The combined intervention does not isolate the form’s effect from the reminder’s, and the pilot does not establish universal benefit or applicability to another site."
+    },
+    {
+      "title": "Make a responsible recommendation",
+      "chapters": [
+        10
+      ],
+      "prompt": "Recommend adaptation, further evaluation, expansion or stopping. Address access, unwanted contact, privacy and conditions at the next site.",
+      "answer": "Use the observed attendance difference alongside uncertainty and costs. Address unwanted contact, accessible alternatives and capacity before expansion. Collect only justified data, protect meaningful choice, and involve affected people. Examine differences in hours and staffing, plan appropriate evaluation and monitoring, and define conditions for pausing or stopping. A positive average does not settle equity or welfare."
+    }
+  ],
+  "rubric": [
+    {
+      "title": "Accurate distinctions",
+      "strong": "Explains the relevant concepts and separates observations from interpretations.",
+      "developing": "Adds labels without explaining how the evidence supports them."
+    },
+    {
+      "title": "Evidence and alternatives",
+      "strong": "Considers competing explanations and a comparison that could distinguish them.",
+      "developing": "Treats a plausible account, score or correlation as a settled cause."
+    },
+    {
+      "title": "Proportionate application",
+      "strong": "States limitations, respects the people involved and explains what would change the recommendation.",
+      "developing": "Overgeneralizes to individuals or makes a recommendation beyond the evidence."
+    },
+    {
+      "title": "A testable and ethical proposal",
+      "strong": "Links a feasible change to a proposed mechanism, comparator and meaningful outcome; addresses rights, costs, access and stopping criteria.",
+      "developing": "Selects an appealing intervention without specifying how it could be tested or who could bear its costs."
+    }
+  ],
+  "followup": "Return tomorrow or in a week with an unfamiliar example. Compare the quality of your explanation, not just your confidence. This self-check does not certify professional competence or establish general mastery."
+}

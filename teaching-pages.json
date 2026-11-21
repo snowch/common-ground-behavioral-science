@@ -1,0 +1,1823 @@
+{
+  "1": [
+    {
+      "id": "c01s03",
+      "kind": "concept",
+      "title": "A behaviour is more specific than an ambition.",
+      "points": [
+        "Behavioural science: interdisciplinary study of behaviour and its conditions",
+        "Target behaviour: a specified action by specified people in a context",
+        "Outcome: a result used to judge a proposed change"
+      ],
+      "text": "Behavioural science brings psychology into conversation with economics, sociology and other fields. A target behaviour names an action and its circumstances. An outcome states why that action matters.\n\nFor the café, completing a booking is an action; receiving a useful repair is a wider outcome. More clicks could leave that outcome unchanged if no appointments are available.",
+      "stage": "Explanation",
+      "visual": "c01s03",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Given a change proposal, specify an observable behaviour and distinguish capability, opportunity and motivation as competing explanations."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "The behaviour change wheel describes COM-B as a framework for intervention design. Its categories help organize an assessment; placing a problem in a category does not establish the cause or the effectiveness of a proposed solution.\n\nA course develops interpretation and design skills. It cannot remove a service’s staffing, transport or funding constraints."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. A fictional service example; a click is not the whole public benefit."
+          }
+        ],
+        "sources": [
+          {
+            "title": "Michie, van Stralen, West (2011): The behaviour change wheel: A new method for characterising and designing behaviour change interventions",
+            "url": "https://doi.org/10.1186/1748-5908-6-42",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "OECD: Behavioural Insights Toolkit and Ethical Framework (BASIC)",
+            "url": "https://doi.org/10.1787/9ea76a8f-en",
+            "kind": "Public-sector design and ethics guidance; not a trial establishing effectiveness."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c01s03b",
+      "kind": "concept",
+      "title": "A missed action can have several causes.",
+      "points": [
+        "Capability: physical and psychological capacity to act",
+        "Opportunity: external conditions that make an action possible",
+        "Motivation: processes that energize and direct action",
+        "COM-B: framework relating capability, opportunity, motivation and behaviour"
+      ],
+      "text": "COM-B organizes questions about capability, opportunity and motivation. It is a diagnostic framework, not a test that reveals a cause by itself.\n\nAn unclear instruction may create a capability barrier. A printer requirement or unsuitable opening time may constrain opportunity. Competing priorities can affect motivation. These explanations can coexist and need evidence.",
+      "stage": "Explanation",
+      "visual": "c01s03b",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Given a change proposal, specify an observable behaviour and distinguish capability, opportunity and motivation as competing explanations."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "The behaviour change wheel describes COM-B as a framework for intervention design. Its categories help organize an assessment; placing a problem in a category does not establish the cause or the effectiveness of a proposed solution.\n\nA course develops interpretation and design skills. It cannot remove a service’s staffing, transport or funding constraints."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. The framework organizes hypotheses; it does not establish which one is correct."
+          }
+        ],
+        "sources": [
+          {
+            "title": "Michie, van Stralen, West (2011): The behaviour change wheel: A new method for characterising and designing behaviour change interventions",
+            "url": "https://doi.org/10.1186/1748-5908-6-42",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "OECD: Behavioural Insights Toolkit and Ethical Framework (BASIC)",
+            "url": "https://doi.org/10.1787/9ea76a8f-en",
+            "kind": "Public-sector design and ethics guidance; not a trial establishing effectiveness."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c01s04",
+      "kind": "concept",
+      "title": "Understanding a barrier needs more than a label.",
+      "points": [
+        "Behavioural diagnosis: investigation of conditions affecting a specified action",
+        "Qualitative evidence: accounts and observations that describe experience and meaning",
+        "Triangulation: comparing information from different methods or sources"
+      ],
+      "text": "Behavioural diagnosis uses information about the actual process. Qualitative evidence can reveal barriers that a completion count hides. Triangulation compares those accounts with other evidence.\n\nAsk people about the booking route, inspect the form, and compare where attempts end. A survey saying motivation is low does not establish that an encouraging message will improve access.",
+      "stage": "Explanation",
+      "visual": "c01s04",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Given a change proposal, specify an observable behaviour and distinguish capability, opportunity and motivation as competing explanations."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "The behaviour change wheel describes COM-B as a framework for intervention design. Its categories help organize an assessment; placing a problem in a category does not establish the cause or the effectiveness of a proposed solution.\n\nA course develops interpretation and design skills. It cannot remove a service’s staffing, transport or funding constraints."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. The example illustrates an investigation, not a finding about café visitors."
+          }
+        ],
+        "sources": [
+          {
+            "title": "Michie, van Stralen, West (2011): The behaviour change wheel: A new method for characterising and designing behaviour change interventions",
+            "url": "https://doi.org/10.1186/1748-5908-6-42",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "OECD: Behavioural Insights Toolkit and Ethical Framework (BASIC)",
+            "url": "https://doi.org/10.1787/9ea76a8f-en",
+            "kind": "Public-sector design and ethics guidance; not a trial establishing effectiveness."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c01s05",
+      "kind": "evidence",
+      "title": "What does the evidence allow?",
+      "points": [],
+      "text": "The behaviour change wheel describes COM-B as a framework for intervention design. Its categories help organize an assessment; placing a problem in a category does not establish the cause or the effectiveness of a proposed solution.\n\nA course develops interpretation and design skills. It cannot remove a service’s staffing, transport or funding constraints.",
+      "stage": "Evidence check",
+      "visual": "c01s05",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Given a change proposal, specify an observable behaviour and distinguish capability, opportunity and motivation as competing explanations."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "The behaviour change wheel describes COM-B as a framework for intervention design. Its categories help organize an assessment; placing a problem in a category does not establish the cause or the effectiveness of a proposed solution.\n\nA course develops interpretation and design skills. It cannot remove a service’s staffing, transport or funding constraints."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. A framework supports questions rather than replacing an investigation."
+          }
+        ],
+        "sources": [
+          {
+            "title": "Michie, van Stralen, West (2011): The behaviour change wheel: A new method for characterising and designing behaviour change interventions",
+            "url": "https://doi.org/10.1186/1748-5908-6-42",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "OECD: Behavioural Insights Toolkit and Ethical Framework (BASIC)",
+            "url": "https://doi.org/10.1787/9ea76a8f-en",
+            "kind": "Public-sector design and ethics guidance; not a trial establishing effectiveness."
+          }
+        ]
+      }
+    }
+  ],
+  "2": [
+    {
+      "id": "c02s03",
+      "kind": "concept",
+      "title": "Count the work from the participant’s side.",
+      "points": [
+        "Administrative burden: learning, compliance and psychological costs in an interaction with a service",
+        "Learning cost: effort to find and understand what is required",
+        "Compliance cost: time and resources needed to meet requirements"
+      ],
+      "text": "Administrative burden concerns costs experienced in an interaction. Learning cost includes finding a rule; compliance cost includes completing the required steps.\n\nAn instruction that looks brief to its author may require travel, documents and repeated calls. Map the journey from the participant’s position, including failed attempts. The number of screens alone does not measure the total burden.",
+      "stage": "Explanation",
+      "visual": "c02s03",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Given a service journey, identify learning, compliance and psychological costs, and distinguish simplification from changes to material access."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Administrative-burden research distinguishes learning, compliance and psychological costs. These categories help investigate unequal access, but they do not imply that every requirement is unnecessary. Some requirements serve legitimate safety or eligibility purposes.\n\nEvaluate simplification alongside its consequences, service capacity and accessible alternatives. A shorter process is not sufficient evidence of a fairer outcome."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. This fictional journey includes work that a simple click count could miss."
+          }
+        ],
+        "sources": [
+          {
+            "title": "Moynihan, Herd, Harvey (2014): Administrative Burden: Learning, Psychological, and Compliance Costs in Citizen-State Interactions",
+            "url": "https://doi.org/10.1093/jopart/muu009",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "OECD: Behavioural Insights Toolkit and Ethical Framework (BASIC)",
+            "url": "https://doi.org/10.1787/9ea76a8f-en",
+            "kind": "Public-sector design and ethics guidance; not a trial establishing effectiveness."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c02s03b",
+      "kind": "concept",
+      "title": "The same process can impose unequal costs.",
+      "points": [
+        "Psychological cost: stress, stigma or loss of autonomy experienced in an interaction",
+        "Distributional effect: differences in benefits or costs across people",
+        "Accessibility: whether people with varied needs can use a service"
+      ],
+      "text": "Psychological cost includes experiences such as stigma or an intrusive demand. Accessibility concerns whether different people can use the route. A distributional effect describes who carries the costs or receives the benefit.\n\nJo’s printer constraint differs from someone else’s language or mobility needs. Ask about relevant conditions without assuming that everyone in a demographic group has the same experience.",
+      "stage": "Explanation",
+      "visual": "c02s03b",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Given a service journey, identify learning, compliance and psychological costs, and distinguish simplification from changes to material access."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Administrative-burden research distinguishes learning, compliance and psychological costs. These categories help investigate unequal access, but they do not imply that every requirement is unnecessary. Some requirements serve legitimate safety or eligibility purposes.\n\nEvaluate simplification alongside its consequences, service capacity and accessible alternatives. A shorter process is not sufficient evidence of a fairer outcome."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. A process can become easier on average while leaving some people behind."
+          }
+        ],
+        "sources": [
+          {
+            "title": "Moynihan, Herd, Harvey (2014): Administrative Burden: Learning, Psychological, and Compliance Costs in Citizen-State Interactions",
+            "url": "https://doi.org/10.1093/jopart/muu009",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "OECD: Behavioural Insights Toolkit and Ethical Framework (BASIC)",
+            "url": "https://doi.org/10.1787/9ea76a8f-en",
+            "kind": "Public-sector design and ethics guidance; not a trial establishing effectiveness."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c02s04",
+      "kind": "concept",
+      "title": "Simplifying a form does not create appointments.",
+      "points": [
+        "Friction: effort or difficulty encountered when acting",
+        "Service capacity: resources available to provide the service",
+        "Structural constraint: an institutional or material condition limiting options"
+      ],
+      "text": "Friction can come from unnecessary steps. A structural constraint, such as limited evening transport, can require a different response. Service capacity limits how many repairs can actually be offered.\n\nRemoving duplicate questions may help Jo complete the form. It does not add an evening appointment or a bus route. Compare proposed changes with the barrier they are meant to address.",
+      "stage": "Explanation",
+      "visual": "c02s04",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Given a service journey, identify learning, compliance and psychological costs, and distinguish simplification from changes to material access."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Administrative-burden research distinguishes learning, compliance and psychological costs. These categories help investigate unequal access, but they do not imply that every requirement is unnecessary. Some requirements serve legitimate safety or eligibility purposes.\n\nEvaluate simplification alongside its consequences, service capacity and accessible alternatives. A shorter process is not sufficient evidence of a fairer outcome."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. Either change needs evidence about the barrier and the resulting service outcome."
+          }
+        ],
+        "sources": [
+          {
+            "title": "Moynihan, Herd, Harvey (2014): Administrative Burden: Learning, Psychological, and Compliance Costs in Citizen-State Interactions",
+            "url": "https://doi.org/10.1093/jopart/muu009",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "OECD: Behavioural Insights Toolkit and Ethical Framework (BASIC)",
+            "url": "https://doi.org/10.1787/9ea76a8f-en",
+            "kind": "Public-sector design and ethics guidance; not a trial establishing effectiveness."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c02s05",
+      "kind": "evidence",
+      "title": "What does the evidence allow?",
+      "points": [],
+      "text": "Administrative-burden research distinguishes learning, compliance and psychological costs. These categories help investigate unequal access, but they do not imply that every requirement is unnecessary. Some requirements serve legitimate safety or eligibility purposes.\n\nEvaluate simplification alongside its consequences, service capacity and accessible alternatives. A shorter process is not sufficient evidence of a fairer outcome.",
+      "stage": "Evidence check",
+      "visual": "c02s05",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Given a service journey, identify learning, compliance and psychological costs, and distinguish simplification from changes to material access."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Administrative-burden research distinguishes learning, compliance and psychological costs. These categories help investigate unequal access, but they do not imply that every requirement is unnecessary. Some requirements serve legitimate safety or eligibility purposes.\n\nEvaluate simplification alongside its consequences, service capacity and accessible alternatives. A shorter process is not sufficient evidence of a fairer outcome."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. Count consequences beyond the easiest-to-measure step."
+          }
+        ],
+        "sources": [
+          {
+            "title": "Moynihan, Herd, Harvey (2014): Administrative Burden: Learning, Psychological, and Compliance Costs in Citizen-State Interactions",
+            "url": "https://doi.org/10.1093/jopart/muu009",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "OECD: Behavioural Insights Toolkit and Ethical Framework (BASIC)",
+            "url": "https://doi.org/10.1787/9ea76a8f-en",
+            "kind": "Public-sector design and ethics guidance; not a trial establishing effectiveness."
+          }
+        ]
+      }
+    }
+  ],
+  "3": [
+    {
+      "id": "c03s03",
+      "kind": "concept",
+      "title": "A message competes with other demands.",
+      "points": [
+        "Limited attention: finite capacity to notice and process information",
+        "Salience: how much something stands out in a context",
+        "Reminder: a cue intended to bring an action or intention to mind"
+      ],
+      "text": "Limited attention means that relevant information may not come to mind when needed. Salience concerns what stands out; a reminder is a cue intended to bring an action back to mind.\n\nA clear appointment time near the moment of planning may help. A brightly coloured message can also be noticed without making the visit feasible. Distinguish noticing from understanding and acting.",
+      "stage": "Explanation",
+      "visual": "c03s03",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Given a proposed reminder, distinguish an attention hypothesis from lack of access, and specify a meaningful test outcome."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Field experiments have found useful reminder effects in particular savings settings. Those findings do not establish that any reminder, channel or frequency will work for café attendance or another service.\n\nTest the proposed timing and content against a suitable comparison, using a meaningful outcome and respecting communication preferences."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. Failure at one hurdle does not establish failure at all the others."
+          }
+        ],
+        "sources": [
+          {
+            "title": "Karlan, McConnell, Mullainathan (2016): Getting to the Top of Mind: How Reminders Increase Saving",
+            "url": "https://doi.org/10.1287/mnsc.2015.2296",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "OECD: Behavioural Insights Toolkit and Ethical Framework (BASIC)",
+            "url": "https://doi.org/10.1787/9ea76a8f-en",
+            "kind": "Public-sector design and ethics guidance; not a trial establishing effectiveness."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c03s03b",
+      "kind": "concept",
+      "title": "Use the channel and moment that fit the action.",
+      "points": [
+        "Timing: when information is encountered relative to an action",
+        "Actionable information: information that makes a next step clear",
+        "Notification fatigue: reduced engagement associated with repeated or unwanted notifications"
+      ],
+      "text": "Timing matters because a cue can arrive before a person can act. Actionable information specifies the next step, including how to change a booking. Notification fatigue is a possible cost of repeated or unwanted messages.\n\nA visitor may prefer one useful reminder with a rescheduling link over daily messages. Check preferences and access to the channel rather than assuming that more contact is better.",
+      "stage": "Explanation",
+      "visual": "c03s03b",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Given a proposed reminder, distinguish an attention hypothesis from lack of access, and specify a meaningful test outcome."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Field experiments have found useful reminder effects in particular savings settings. Those findings do not establish that any reminder, channel or frequency will work for café attendance or another service.\n\nTest the proposed timing and content against a suitable comparison, using a meaningful outcome and respecting communication preferences."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. More messages can add burden without improving the intended outcome."
+          }
+        ],
+        "sources": [
+          {
+            "title": "Karlan, McConnell, Mullainathan (2016): Getting to the Top of Mind: How Reminders Increase Saving",
+            "url": "https://doi.org/10.1287/mnsc.2015.2296",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "OECD: Behavioural Insights Toolkit and Ethical Framework (BASIC)",
+            "url": "https://doi.org/10.1787/9ea76a8f-en",
+            "kind": "Public-sector design and ethics guidance; not a trial establishing effectiveness."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c03s04",
+      "kind": "concept",
+      "title": "An opened message is not an attended appointment.",
+      "points": [
+        "Process measure: measure of how an intervention is delivered or used",
+        "Behavioural outcome: measure of the specified action",
+        "Mechanism hypothesis: proposed process through which a change affects an outcome"
+      ],
+      "text": "A process measure, such as message delivery, can help explain implementation. A behavioural outcome records the action that matters. A mechanism hypothesis connects the two but still needs evidence.\n\nIf openings rise while attendance is unchanged, the message may attract attention without resolving access. Also check whether the attendance measure is reliable and whether the service had room for more visitors.",
+      "stage": "Explanation",
+      "visual": "c03s04",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Given a proposed reminder, distinguish an attention hypothesis from lack of access, and specify a meaningful test outcome."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Field experiments have found useful reminder effects in particular savings settings. Those findings do not establish that any reminder, channel or frequency will work for café attendance or another service.\n\nTest the proposed timing and content against a suitable comparison, using a meaningful outcome and respecting communication preferences."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. Both can be useful; they answer different questions."
+          }
+        ],
+        "sources": [
+          {
+            "title": "Karlan, McConnell, Mullainathan (2016): Getting to the Top of Mind: How Reminders Increase Saving",
+            "url": "https://doi.org/10.1287/mnsc.2015.2296",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "OECD: Behavioural Insights Toolkit and Ethical Framework (BASIC)",
+            "url": "https://doi.org/10.1787/9ea76a8f-en",
+            "kind": "Public-sector design and ethics guidance; not a trial establishing effectiveness."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c03s05",
+      "kind": "evidence",
+      "title": "What does the evidence allow?",
+      "points": [],
+      "text": "Field experiments have found useful reminder effects in particular savings settings. Those findings do not establish that any reminder, channel or frequency will work for café attendance or another service.\n\nTest the proposed timing and content against a suitable comparison, using a meaningful outcome and respecting communication preferences.",
+      "stage": "Evidence check",
+      "visual": "c03s05",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Given a proposed reminder, distinguish an attention hypothesis from lack of access, and specify a meaningful test outcome."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Field experiments have found useful reminder effects in particular savings settings. Those findings do not establish that any reminder, channel or frequency will work for café attendance or another service.\n\nTest the proposed timing and content against a suitable comparison, using a meaningful outcome and respecting communication preferences."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. The figure is a proposed mechanism, not proof that the reminder will work."
+          }
+        ],
+        "sources": [
+          {
+            "title": "Karlan, McConnell, Mullainathan (2016): Getting to the Top of Mind: How Reminders Increase Saving",
+            "url": "https://doi.org/10.1287/mnsc.2015.2296",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "OECD: Behavioural Insights Toolkit and Ethical Framework (BASIC)",
+            "url": "https://doi.org/10.1787/9ea76a8f-en",
+            "kind": "Public-sector design and ethics guidance; not a trial establishing effectiveness."
+          }
+        ]
+      }
+    }
+  ],
+  "4": [
+    {
+      "id": "c04s03",
+      "kind": "concept",
+      "title": "Equivalent descriptions can guide attention differently.",
+      "points": [
+        "Framing effect: a difference in judgment or choice associated with how a problem is described",
+        "Reference point: a comparison standard used to evaluate an outcome",
+        "Loss aversion: greater weight on losses than comparable gains in some models and settings"
+      ],
+      "text": "A framing effect concerns the description of a choice. A reference point supplies a comparison standard. Loss aversion describes a pattern in some models and settings; it is not a universal rule about every person.\n\nCalling a membership change a gain or a loss can highlight different comparisons. Changing the actual price or eligibility is a different intervention from changing the description.",
+      "stage": "Explanation",
+      "visual": "c04s03",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Given a choice interface, identify a frame or default, distinguish presentation from a changed option, and protect informed choice."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Research documents framing and default effects in specified settings, including retirement-saving decisions. Multiple mechanisms and contextual differences limit simple predictions about a new service.\n\nA model of loss aversion is not a licence to invent threats or obscure a price. Ethical evaluation includes understanding, accessible alternatives and unwanted consequences alongside uptake."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. Keep facts complete when comparing descriptions."
+          }
+        ],
+        "sources": [
+          {
+            "title": "Tversky, Kahneman (1981): The Framing of Decisions and the Psychology of Choice",
+            "url": "https://doi.org/10.1126/science.7455683",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "Madrian, Shea (2001): The Power of Suggestion: Inertia in 401(k) Participation and Savings Behavior",
+            "url": "https://doi.org/10.1162/003355301753265543",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "OECD: Behavioural Insights Toolkit and Ethical Framework (BASIC)",
+            "url": "https://doi.org/10.1787/9ea76a8f-en",
+            "kind": "Public-sector design and ethics guidance; not a trial establishing effectiveness."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c04s03b",
+      "kind": "concept",
+      "title": "A default can have more than one explanation.",
+      "points": [
+        "Default option: the option applied if no active choice is made",
+        "Status quo bias: a tendency to favour the existing state in some decisions",
+        "Active choice: a requirement to select an option explicitly"
+      ],
+      "text": "A default option applies when someone does not actively select otherwise. Status quo bias can contribute to staying with an existing state, but inattention, switching effort and perceived endorsement can also matter. Active choice asks for an explicit decision.\n\nAn automatic renewal could increase retention while leaving some people with an unwanted charge. Its uptake does not show that every retained member preferred it.",
+      "stage": "Explanation",
+      "visual": "c04s03b",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Given a choice interface, identify a frame or default, distinguish presentation from a changed option, and protect informed choice."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Research documents framing and default effects in specified settings, including retirement-saving decisions. Multiple mechanisms and contextual differences limit simple predictions about a new service.\n\nA model of loss aversion is not a licence to invent threats or obscure a price. Ethical evaluation includes understanding, accessible alternatives and unwanted consequences alongside uptake."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. A choice rate does not reveal a unique psychological mechanism."
+          }
+        ],
+        "sources": [
+          {
+            "title": "Tversky, Kahneman (1981): The Framing of Decisions and the Psychology of Choice",
+            "url": "https://doi.org/10.1126/science.7455683",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "Madrian, Shea (2001): The Power of Suggestion: Inertia in 401(k) Participation and Savings Behavior",
+            "url": "https://doi.org/10.1162/003355301753265543",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "OECD: Behavioural Insights Toolkit and Ethical Framework (BASIC)",
+            "url": "https://doi.org/10.1787/9ea76a8f-en",
+            "kind": "Public-sector design and ethics guidance; not a trial establishing effectiveness."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c04s04",
+      "kind": "concept",
+      "title": "A higher uptake rate is not the whole evaluation.",
+      "points": [
+        "Informed choice: a decision made with relevant understandable information",
+        "Switching cost: effort or expense involved in changing an option",
+        "Welfare: effects on people’s interests and wellbeing"
+      ],
+      "text": "Informed choice needs understandable information. A switching cost can make an unwanted option hard to escape. Welfare concerns the consequences for people, not simply the service’s preferred uptake rate.\n\nShow the price and renewal date clearly, offer an accessible cancellation route, and ask about unwanted charges. A default should not be treated as permission to hide information or manufacture agreement.",
+      "stage": "Explanation",
+      "visual": "c04s04",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Given a choice interface, identify a frame or default, distinguish presentation from a changed option, and protect informed choice."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Research documents framing and default effects in specified settings, including retirement-saving decisions. Multiple mechanisms and contextual differences limit simple predictions about a new service.\n\nA model of loss aversion is not a licence to invent threats or obscure a price. Ethical evaluation includes understanding, accessible alternatives and unwanted consequences alongside uptake."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. Assess the process and its consequences together."
+          }
+        ],
+        "sources": [
+          {
+            "title": "Tversky, Kahneman (1981): The Framing of Decisions and the Psychology of Choice",
+            "url": "https://doi.org/10.1126/science.7455683",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "Madrian, Shea (2001): The Power of Suggestion: Inertia in 401(k) Participation and Savings Behavior",
+            "url": "https://doi.org/10.1162/003355301753265543",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "OECD: Behavioural Insights Toolkit and Ethical Framework (BASIC)",
+            "url": "https://doi.org/10.1787/9ea76a8f-en",
+            "kind": "Public-sector design and ethics guidance; not a trial establishing effectiveness."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c04s05",
+      "kind": "evidence",
+      "title": "What does the evidence allow?",
+      "points": [],
+      "text": "Research documents framing and default effects in specified settings, including retirement-saving decisions. Multiple mechanisms and contextual differences limit simple predictions about a new service.\n\nA model of loss aversion is not a licence to invent threats or obscure a price. Ethical evaluation includes understanding, accessible alternatives and unwanted consequences alongside uptake.",
+      "stage": "Evidence check",
+      "visual": "c04s05",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Given a choice interface, identify a frame or default, distinguish presentation from a changed option, and protect informed choice."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Research documents framing and default effects in specified settings, including retirement-saving decisions. Multiple mechanisms and contextual differences limit simple predictions about a new service.\n\nA model of loss aversion is not a licence to invent threats or obscure a price. Ethical evaluation includes understanding, accessible alternatives and unwanted consequences alongside uptake."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. A desirable-looking choice rate is not sufficient evidence of benefit."
+          }
+        ],
+        "sources": [
+          {
+            "title": "Tversky, Kahneman (1981): The Framing of Decisions and the Psychology of Choice",
+            "url": "https://doi.org/10.1126/science.7455683",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "Madrian, Shea (2001): The Power of Suggestion: Inertia in 401(k) Participation and Savings Behavior",
+            "url": "https://doi.org/10.1162/003355301753265543",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "OECD: Behavioural Insights Toolkit and Ethical Framework (BASIC)",
+            "url": "https://doi.org/10.1787/9ea76a8f-en",
+            "kind": "Public-sector design and ethics guidance; not a trial establishing effectiveness."
+          }
+        ]
+      }
+    }
+  ],
+  "5": [
+    {
+      "id": "c05s03",
+      "kind": "concept",
+      "title": "Delay can reflect more than one process.",
+      "points": [
+        "Present bias: disproportionate weight on immediate costs or rewards relative to later ones",
+        "Time inconsistency: a change in preferred plans as the time of a decision approaches",
+        "Constraint: a condition limiting feasible action"
+      ],
+      "text": "Present bias concerns disproportionate emphasis on immediacy; time inconsistency concerns a change in preferred plans as a decision approaches. A constraint can instead make action genuinely unavailable.\n\nSam might value volunteering but avoid today’s form. Jo may be unable to select a shift without a work schedule. Observing delay alone cannot identify either person’s preferences or prove a self-control problem.",
+      "stage": "Explanation",
+      "visual": "c05s03",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Given a missed intention, distinguish present bias from constraints and design a feasible, voluntary planning aid."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Present-biased models explain some patterns of changing choice; they do not diagnose a person from a missed task. Research on implementation intentions examines specified plans, tasks and populations, with effects that depend on those conditions.\n\nA planning aid needs an existing goal, a feasible response and an acceptable burden. It cannot substitute for material resources or predictable access."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. Similar delays do not establish identical causes."
+          }
+        ],
+        "sources": [
+          {
+            "title": "O'Donoghue, Rabin (1999): Doing It Now or Later",
+            "url": "https://doi.org/10.1257/aer.89.1.103",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "Gollwitzer, Sheeran (2006): Implementation Intentions and Goal Achievement: A Meta‐analysis of Effects and Processes",
+            "url": "https://doi.org/10.1016/S0065-2601(06)38002-1",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "OECD: Behavioural Insights Toolkit and Ethical Framework (BASIC)",
+            "url": "https://doi.org/10.1787/9ea76a8f-en",
+            "kind": "Public-sector design and ethics guidance; not a trial establishing effectiveness."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c05s03b",
+      "kind": "concept",
+      "title": "A plan needs a usable cue and a feasible response.",
+      "points": [
+        "Implementation intention: an if-then plan linking a situation to a response",
+        "Cue: a signal associated with an opportunity to act",
+        "Feasibility: whether an action can be carried out under relevant conditions"
+      ],
+      "text": "An implementation intention links a cue to a response: if a situation occurs, then take a specified action. Feasibility still matters.\n\nSam might choose to book after receiving the next work schedule. That cue makes sense only if a suitable shift is available and the booking route works. An if-then sentence cannot supply transport, money or predictable working hours.",
+      "stage": "Explanation",
+      "visual": "c05s03b",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Given a missed intention, distinguish present bias from constraints and design a feasible, voluntary planning aid."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Present-biased models explain some patterns of changing choice; they do not diagnose a person from a missed task. Research on implementation intentions examines specified plans, tasks and populations, with effects that depend on those conditions.\n\nA planning aid needs an existing goal, a feasible response and an acceptable burden. It cannot substitute for material resources or predictable access."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. A planning aid supports an intention; it does not remove every constraint."
+          }
+        ],
+        "sources": [
+          {
+            "title": "O'Donoghue, Rabin (1999): Doing It Now or Later",
+            "url": "https://doi.org/10.1257/aer.89.1.103",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "Gollwitzer, Sheeran (2006): Implementation Intentions and Goal Achievement: A Meta‐analysis of Effects and Processes",
+            "url": "https://doi.org/10.1016/S0065-2601(06)38002-1",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "OECD: Behavioural Insights Toolkit and Ethical Framework (BASIC)",
+            "url": "https://doi.org/10.1787/9ea76a8f-en",
+            "kind": "Public-sector design and ethics guidance; not a trial establishing effectiveness."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c05s04",
+      "kind": "concept",
+      "title": "Commitment can support a goal or impose a cost.",
+      "points": [
+        "Commitment device: an arrangement intended to make following a chosen plan more likely",
+        "Voluntary participation: an informed choice without undue pressure",
+        "Reversibility: the ability to change or leave an arrangement"
+      ],
+      "text": "A commitment device changes the conditions around a future choice. Voluntary participation and reversibility matter because circumstances can change.\n\nSam may want a calendar booking and an easy way to reschedule. A large cancellation penalty could instead punish an unavoidable shift change. Evaluate the aid with the person’s interests in view, including who bears the risk of an unexpected problem.",
+      "stage": "Explanation",
+      "visual": "c05s04",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Given a missed intention, distinguish present bias from constraints and design a feasible, voluntary planning aid."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Present-biased models explain some patterns of changing choice; they do not diagnose a person from a missed task. Research on implementation intentions examines specified plans, tasks and populations, with effects that depend on those conditions.\n\nA planning aid needs an existing goal, a feasible response and an acceptable burden. It cannot substitute for material resources or predictable access."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. Support for follow-through should not become punishment for uncertainty."
+          }
+        ],
+        "sources": [
+          {
+            "title": "O'Donoghue, Rabin (1999): Doing It Now or Later",
+            "url": "https://doi.org/10.1257/aer.89.1.103",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "Gollwitzer, Sheeran (2006): Implementation Intentions and Goal Achievement: A Meta‐analysis of Effects and Processes",
+            "url": "https://doi.org/10.1016/S0065-2601(06)38002-1",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "OECD: Behavioural Insights Toolkit and Ethical Framework (BASIC)",
+            "url": "https://doi.org/10.1787/9ea76a8f-en",
+            "kind": "Public-sector design and ethics guidance; not a trial establishing effectiveness."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c05s05",
+      "kind": "evidence",
+      "title": "What does the evidence allow?",
+      "points": [],
+      "text": "Present-biased models explain some patterns of changing choice; they do not diagnose a person from a missed task. Research on implementation intentions examines specified plans, tasks and populations, with effects that depend on those conditions.\n\nA planning aid needs an existing goal, a feasible response and an acceptable burden. It cannot substitute for material resources or predictable access.",
+      "stage": "Evidence check",
+      "visual": "c05s05",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Given a missed intention, distinguish present bias from constraints and design a feasible, voluntary planning aid."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Present-biased models explain some patterns of changing choice; they do not diagnose a person from a missed task. Research on implementation intentions examines specified plans, tasks and populations, with effects that depend on those conditions.\n\nA planning aid needs an existing goal, a feasible response and an acceptable burden. It cannot substitute for material resources or predictable access."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. A planning aid is conditional support, not proof of a motivational diagnosis."
+          }
+        ],
+        "sources": [
+          {
+            "title": "O'Donoghue, Rabin (1999): Doing It Now or Later",
+            "url": "https://doi.org/10.1257/aer.89.1.103",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "Gollwitzer, Sheeran (2006): Implementation Intentions and Goal Achievement: A Meta‐analysis of Effects and Processes",
+            "url": "https://doi.org/10.1016/S0065-2601(06)38002-1",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "OECD: Behavioural Insights Toolkit and Ethical Framework (BASIC)",
+            "url": "https://doi.org/10.1787/9ea76a8f-en",
+            "kind": "Public-sector design and ethics guidance; not a trial establishing effectiveness."
+          }
+        ]
+      }
+    }
+  ],
+  "6": [
+    {
+      "id": "c06s03",
+      "kind": "concept",
+      "title": "What people do and what they approve are different.",
+      "points": [
+        "Descriptive norm: a perception of what people commonly do in a relevant group",
+        "Injunctive norm: a perception of what people approve or disapprove",
+        "Reference group: the people used as a social comparison"
+      ],
+      "text": "A descriptive norm concerns what people commonly do. An injunctive norm concerns approval. A reference group specifies whose behaviour or approval is relevant.\n\nA sign about other café visitors differs from a statement about national habits. Neither establishes what this visitor values. Before using a norm message, check that its claim is accurate and its comparison group makes sense.",
+      "stage": "Explanation",
+      "visual": "c06s03",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Given a norm message, distinguish descriptive and injunctive claims, identify the relevant comparison group, and assess a possible boomerang effect."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "An energy-use field experiment found that descriptive comparisons could have different effects depending on prior consumption, and that an approval cue changed those results in that setting. This supports attention to baselines and message content, not a universal recipe for every group.\n\nDo not invent a majority claim to obtain compliance. A truthful, relevant message can still require testing and monitoring for uneven or unwanted effects."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. A message can contain either or both claims; truth and relevance still matter."
+          }
+        ],
+        "sources": [
+          {
+            "title": "Schultz, Nolan, Cialdini (2007): The Constructive, Destructive, and Reconstructive Power of Social Norms",
+            "url": "https://doi.org/10.1111/j.1467-9280.2007.01917.x",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "OECD: Behavioural Insights Toolkit and Ethical Framework (BASIC)",
+            "url": "https://doi.org/10.1787/9ea76a8f-en",
+            "kind": "Public-sector design and ethics guidance; not a trial establishing effectiveness."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c06s03b",
+      "kind": "concept",
+      "title": "An average can point people in an unwanted direction.",
+      "points": [
+        "Boomerang effect: a change opposite to the intended direction",
+        "Heterogeneous effect: an effect that differs across people or settings",
+        "Baseline behaviour: behaviour measured before a proposed change"
+      ],
+      "text": "A boomerang effect moves behaviour opposite to the intended direction. A heterogeneous effect varies across people or settings. Baseline behaviour can help identify which comparisons might matter.\n\nA careful tool borrower who sees that the average return rate is lower than their own could infer that doing less is normal. That is a hypothesis to consider, not a prediction that every careful borrower will change.",
+      "stage": "Explanation",
+      "visual": "c06s03b",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Given a norm message, distinguish descriptive and injunctive claims, identify the relevant comparison group, and assess a possible boomerang effect."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "An energy-use field experiment found that descriptive comparisons could have different effects depending on prior consumption, and that an approval cue changed those results in that setting. This supports attention to baselines and message content, not a universal recipe for every group.\n\nDo not invent a majority claim to obtain compliance. A truthful, relevant message can still require testing and monitoring for uneven or unwanted effects."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. A group average can conceal different responses."
+          }
+        ],
+        "sources": [
+          {
+            "title": "Schultz, Nolan, Cialdini (2007): The Constructive, Destructive, and Reconstructive Power of Social Norms",
+            "url": "https://doi.org/10.1111/j.1467-9280.2007.01917.x",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "OECD: Behavioural Insights Toolkit and Ethical Framework (BASIC)",
+            "url": "https://doi.org/10.1787/9ea76a8f-en",
+            "kind": "Public-sector design and ethics guidance; not a trial establishing effectiveness."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c06s04",
+      "kind": "concept",
+      "title": "A truthful sign still needs an accessible action.",
+      "points": [
+        "Social context: relationships and shared conditions around an action",
+        "Mechanism evidence: information bearing on a proposed process",
+        "Unintended consequence: an effect outside the intended benefit"
+      ],
+      "text": "Social context affects which comparisons are meaningful. Mechanism evidence helps distinguish social influence from other explanations. An unintended consequence can include exclusion or an unwanted change among people already doing well.\n\nA sign might work because it clarifies where tools belong rather than because visitors compare themselves with others. Check the shelf design and evaluate the action, not just agreement with the message.",
+      "stage": "Explanation",
+      "visual": "c06s04",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Given a norm message, distinguish descriptive and injunctive claims, identify the relevant comparison group, and assess a possible boomerang effect."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "An energy-use field experiment found that descriptive comparisons could have different effects depending on prior consumption, and that an approval cue changed those results in that setting. This supports attention to baselines and message content, not a universal recipe for every group.\n\nDo not invent a majority claim to obtain compliance. A truthful, relevant message can still require testing and monitoring for uneven or unwanted effects."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. Norm language does not remove the need for practical access or an outcome comparison."
+          }
+        ],
+        "sources": [
+          {
+            "title": "Schultz, Nolan, Cialdini (2007): The Constructive, Destructive, and Reconstructive Power of Social Norms",
+            "url": "https://doi.org/10.1111/j.1467-9280.2007.01917.x",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "OECD: Behavioural Insights Toolkit and Ethical Framework (BASIC)",
+            "url": "https://doi.org/10.1787/9ea76a8f-en",
+            "kind": "Public-sector design and ethics guidance; not a trial establishing effectiveness."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c06s05",
+      "kind": "evidence",
+      "title": "What does the evidence allow?",
+      "points": [],
+      "text": "An energy-use field experiment found that descriptive comparisons could have different effects depending on prior consumption, and that an approval cue changed those results in that setting. This supports attention to baselines and message content, not a universal recipe for every group.\n\nDo not invent a majority claim to obtain compliance. A truthful, relevant message can still require testing and monitoring for uneven or unwanted effects.",
+      "stage": "Evidence check",
+      "visual": "c06s05",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Given a norm message, distinguish descriptive and injunctive claims, identify the relevant comparison group, and assess a possible boomerang effect."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "An energy-use field experiment found that descriptive comparisons could have different effects depending on prior consumption, and that an approval cue changed those results in that setting. This supports attention to baselines and message content, not a universal recipe for every group.\n\nDo not invent a majority claim to obtain compliance. A truthful, relevant message can still require testing and monitoring for uneven or unwanted effects."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. A fictional message illustrates questions to test, not an established intervention effect."
+          }
+        ],
+        "sources": [
+          {
+            "title": "Schultz, Nolan, Cialdini (2007): The Constructive, Destructive, and Reconstructive Power of Social Norms",
+            "url": "https://doi.org/10.1111/j.1467-9280.2007.01917.x",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "OECD: Behavioural Insights Toolkit and Ethical Framework (BASIC)",
+            "url": "https://doi.org/10.1787/9ea76a8f-en",
+            "kind": "Public-sector design and ethics guidance; not a trial establishing effectiveness."
+          }
+        ]
+      }
+    }
+  ],
+  "7": [
+    {
+      "id": "c07s03",
+      "kind": "concept",
+      "title": "Ask exactly what the arrangement rewards.",
+      "points": [
+        "Incentive: a consequence that changes the relative attractiveness of actions",
+        "Reimbursement: repayment of a cost incurred",
+        "Opportunity cost: the value of an alternative forgone"
+      ],
+      "text": "An incentive changes the relative attractiveness of actions. Reimbursement repays a cost; opportunity cost concerns the alternative a person gives up. These can overlap in practice but answer different questions.\n\nTravel reimbursement may make a shift affordable. A payment for repair count rewards a particular result. Neither proposal should be evaluated by a general claim that money either solves motivation or damages it.",
+      "stage": "Explanation",
+      "visual": "c07s03",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Given an incentive proposal, identify the rewarded measure, possible substitution and distributional costs, and specify outcomes beyond the rewarded count."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Research reviews describe varied incentive effects across tasks, populations and arrangements. Effects on other motivation are possible, but they do not justify the blanket claim that payments backfire or that unpaid participation is preferable.\n\nEvaluate the specified arrangement over an appropriate period. Preserve fair compensation and examine quality, access, costs and effects beyond the rewarded measure."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. Identify the purpose and likely costs before choosing an evaluation."
+          }
+        ],
+        "sources": [
+          {
+            "title": "Gneezy, Meier, Rey-Biel (2011): When and Why Incentives (Don't) Work to Modify Behavior",
+            "url": "https://doi.org/10.1257/jep.25.4.191",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "OECD: Behavioural Insights Toolkit and Ethical Framework (BASIC)",
+            "url": "https://doi.org/10.1787/9ea76a8f-en",
+            "kind": "Public-sector design and ethics guidance; not a trial establishing effectiveness."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c07s03b",
+      "kind": "concept",
+      "title": "The rewarded measure can displace the intended outcome.",
+      "points": [
+        "Proxy measure: an indirect indicator used for something that matters",
+        "Substitution effect: a shift toward an action made relatively more attractive",
+        "Gaming: improving a measured result without the intended underlying benefit"
+      ],
+      "text": "A proxy measure stands in for something harder to observe. A substitution effect can shift activity toward the rewarded action. Gaming improves the measured result without the intended benefit.\n\nCounting completed repairs may encourage quick cases, or change how a completion is recorded. Measure quality, difficult-case access and unintended costs alongside throughput. Not every rise in the count is gaming, so investigate rather than presume misconduct.",
+      "stage": "Explanation",
+      "visual": "c07s03b",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Given an incentive proposal, identify the rewarded measure, possible substitution and distributional costs, and specify outcomes beyond the rewarded count."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Research reviews describe varied incentive effects across tasks, populations and arrangements. Effects on other motivation are possible, but they do not justify the blanket claim that payments backfire or that unpaid participation is preferable.\n\nEvaluate the specified arrangement over an appropriate period. Preserve fair compensation and examine quality, access, costs and effects beyond the rewarded measure."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. The figure shows competing hypotheses, not a claim about volunteers’ motives."
+          }
+        ],
+        "sources": [
+          {
+            "title": "Gneezy, Meier, Rey-Biel (2011): When and Why Incentives (Don't) Work to Modify Behavior",
+            "url": "https://doi.org/10.1257/jep.25.4.191",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "OECD: Behavioural Insights Toolkit and Ethical Framework (BASIC)",
+            "url": "https://doi.org/10.1787/9ea76a8f-en",
+            "kind": "Public-sector design and ethics guidance; not a trial establishing effectiveness."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c07s04",
+      "kind": "concept",
+      "title": "Meaning and fairness can affect a response.",
+      "points": [
+        "Motivational crowding: a change in other motivation associated with an external intervention",
+        "Acceptability: whether an arrangement is considered appropriate by affected people",
+        "Distribution: how benefits and burdens are shared"
+      ],
+      "text": "Motivational crowding describes a possible change in other motivation. Acceptability concerns how people judge an arrangement, while distribution concerns who gains and who pays its costs.\n\nA payment can communicate recognition, control or a commercial expectation depending on the setting. Ask affected people, compare meaningful outcomes, and examine who can meet the rewarded target. Do not turn a possible crowding effect into a rule against paying people fairly.",
+      "stage": "Explanation",
+      "visual": "c07s04",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Given an incentive proposal, identify the rewarded measure, possible substitution and distributional costs, and specify outcomes beyond the rewarded count."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Research reviews describe varied incentive effects across tasks, populations and arrangements. Effects on other motivation are possible, but they do not justify the blanket claim that payments backfire or that unpaid participation is preferable.\n\nEvaluate the specified arrangement over an appropriate period. Preserve fair compensation and examine quality, access, costs and effects beyond the rewarded measure."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. Fair compensation and a poorly designed performance target are different questions."
+          }
+        ],
+        "sources": [
+          {
+            "title": "Gneezy, Meier, Rey-Biel (2011): When and Why Incentives (Don't) Work to Modify Behavior",
+            "url": "https://doi.org/10.1257/jep.25.4.191",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "OECD: Behavioural Insights Toolkit and Ethical Framework (BASIC)",
+            "url": "https://doi.org/10.1787/9ea76a8f-en",
+            "kind": "Public-sector design and ethics guidance; not a trial establishing effectiveness."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c07s05",
+      "kind": "evidence",
+      "title": "What does the evidence allow?",
+      "points": [],
+      "text": "Research reviews describe varied incentive effects across tasks, populations and arrangements. Effects on other motivation are possible, but they do not justify the blanket claim that payments backfire or that unpaid participation is preferable.\n\nEvaluate the specified arrangement over an appropriate period. Preserve fair compensation and examine quality, access, costs and effects beyond the rewarded measure.",
+      "stage": "Evidence check",
+      "visual": "c07s05",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Given an incentive proposal, identify the rewarded measure, possible substitution and distributional costs, and specify outcomes beyond the rewarded count."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Research reviews describe varied incentive effects across tasks, populations and arrangements. Effects on other motivation are possible, but they do not justify the blanket claim that payments backfire or that unpaid participation is preferable.\n\nEvaluate the specified arrangement over an appropriate period. Preserve fair compensation and examine quality, access, costs and effects beyond the rewarded measure."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. Measure what matters beyond the easiest count."
+          }
+        ],
+        "sources": [
+          {
+            "title": "Gneezy, Meier, Rey-Biel (2011): When and Why Incentives (Don't) Work to Modify Behavior",
+            "url": "https://doi.org/10.1257/jep.25.4.191",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "OECD: Behavioural Insights Toolkit and Ethical Framework (BASIC)",
+            "url": "https://doi.org/10.1787/9ea76a8f-en",
+            "kind": "Public-sector design and ethics guidance; not a trial establishing effectiveness."
+          }
+        ]
+      }
+    }
+  ],
+  "8": [
+    {
+      "id": "c08s03",
+      "kind": "concept",
+      "title": "A theory of change makes the links inspectable.",
+      "points": [
+        "Theory of change: an account linking actions, proposed mechanisms and intended outcomes",
+        "Assumption: a condition a proposal relies on",
+        "Counterfactual: what would happen under an alternative condition"
+      ],
+      "text": "A theory of change links a change to a proposed process and outcome. An assumption states a condition that link relies on. A counterfactual asks what would happen under an alternative condition.\n\nA reminder assumes that forgetting is relevant, the message is understood, and a feasible appointment exists. Compare it with the current approach and with a material response such as suitable opening hours.",
+      "stage": "Explanation",
+      "visual": "c08s03",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Given a diagnosed barrier, construct a theory of change, compare behavioural and material responses, and explain what evidence would challenge the proposal."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Choice-architecture reviews reach different conclusions depending on included studies and assumptions about publication bias. Large operational trials also show that published academic effects should not be transferred mechanically to a new service.\n\nA design framework or the word nudge does not establish a benefit. State the mechanism, alternatives, uncertainty and ethical conditions of the specific proposal."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. Assumptions include access, understanding and available service capacity."
+          }
+        ],
+        "sources": [
+          {
+            "title": "Michie, van Stralen, West (2011): The behaviour change wheel: A new method for characterising and designing behaviour change interventions",
+            "url": "https://doi.org/10.1186/1748-5908-6-42",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "Hertwig, Grüne-Yanoff (2017): Nudging and Boosting: Steering or Empowering Good Decisions",
+            "url": "https://doi.org/10.1177/1745691617702496",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "Mertens, Herberz, Hahnel (2021): The effectiveness of nudging: A meta-analysis of choice architecture interventions across behavioral domains",
+            "url": "https://doi.org/10.1073/pnas.2107346118",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "Maier, Bartoš, Stanley (2022): No evidence for nudging after adjusting for publication bias",
+            "url": "https://doi.org/10.1073/pnas.2200300119",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "DellaVigna, Linos (2022): RCTs to Scale: Comprehensive Evidence From Two Nudge Units",
+            "url": "https://doi.org/10.3982/ECTA18709",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "OECD: Behavioural Insights Toolkit and Ethical Framework (BASIC)",
+            "url": "https://doi.org/10.1787/9ea76a8f-en",
+            "kind": "Public-sector design and ethics guidance; not a trial establishing effectiveness."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c08s03b",
+      "kind": "concept",
+      "title": "Design tools have different purposes.",
+      "points": [
+        "Choice architecture: the arrangement of the environment in which choices are made",
+        "Nudge: a choice-environment change preserving options without substantially changing economic incentives",
+        "Boost: an intervention intended to develop decision-making competence"
+      ],
+      "text": "Choice architecture concerns how options are arranged. A nudge changes that environment while preserving options and avoiding a substantial change in economic incentives. A boost aims to develop decision-making competence. These are useful distinctions with debated boundaries.\n\nA clear comparison display may help a choice now; teaching a reusable comparison skill has a different purpose. Neither replaces a needed repair slot, and neither label guarantees effectiveness.",
+      "stage": "Explanation",
+      "visual": "c08s03b",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Given a diagnosed barrier, construct a theory of change, compare behavioural and material responses, and explain what evidence would challenge the proposal."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Choice-architecture reviews reach different conclusions depending on included studies and assumptions about publication bias. Large operational trials also show that published academic effects should not be transferred mechanically to a new service.\n\nA design framework or the word nudge does not establish a benefit. State the mechanism, alternatives, uncertainty and ethical conditions of the specific proposal."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. Material provision may also be needed; these are not the only intervention categories."
+          }
+        ],
+        "sources": [
+          {
+            "title": "Michie, van Stralen, West (2011): The behaviour change wheel: A new method for characterising and designing behaviour change interventions",
+            "url": "https://doi.org/10.1186/1748-5908-6-42",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "Hertwig, Grüne-Yanoff (2017): Nudging and Boosting: Steering or Empowering Good Decisions",
+            "url": "https://doi.org/10.1177/1745691617702496",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "Mertens, Herberz, Hahnel (2021): The effectiveness of nudging: A meta-analysis of choice architecture interventions across behavioral domains",
+            "url": "https://doi.org/10.1073/pnas.2107346118",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "Maier, Bartoš, Stanley (2022): No evidence for nudging after adjusting for publication bias",
+            "url": "https://doi.org/10.1073/pnas.2200300119",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "DellaVigna, Linos (2022): RCTs to Scale: Comprehensive Evidence From Two Nudge Units",
+            "url": "https://doi.org/10.3982/ECTA18709",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "OECD: Behavioural Insights Toolkit and Ethical Framework (BASIC)",
+            "url": "https://doi.org/10.1787/9ea76a8f-en",
+            "kind": "Public-sector design and ethics guidance; not a trial establishing effectiveness."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c08s04",
+      "kind": "concept",
+      "title": "A memorable checklist is not evidence of impact.",
+      "points": [
+        "Design framework: a structure for generating and reviewing proposals",
+        "Pilot: a small implementation used to examine feasibility or other specified questions",
+        "Feasibility study: investigation of whether a proposed implementation or evaluation can be carried out"
+      ],
+      "text": "A design framework can help generate ideas. A pilot or feasibility study addresses specified practical questions; a small positive result does not automatically establish effectiveness.\n\nCheck whether staff can deliver the change, visitors can use it, and outcomes can be measured. Then use an appropriate evaluation. Keep a record of rejected alternatives so a convenient message does not crowd out a better response to the diagnosed barrier.",
+      "stage": "Explanation",
+      "visual": "c08s04",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Given a diagnosed barrier, construct a theory of change, compare behavioural and material responses, and explain what evidence would challenge the proposal."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Choice-architecture reviews reach different conclusions depending on included studies and assumptions about publication bias. Large operational trials also show that published academic effects should not be transferred mechanically to a new service.\n\nA design framework or the word nudge does not establish a benefit. State the mechanism, alternatives, uncertainty and ethical conditions of the specific proposal."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. A good-looking prototype is not a causal result."
+          }
+        ],
+        "sources": [
+          {
+            "title": "Michie, van Stralen, West (2011): The behaviour change wheel: A new method for characterising and designing behaviour change interventions",
+            "url": "https://doi.org/10.1186/1748-5908-6-42",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "Hertwig, Grüne-Yanoff (2017): Nudging and Boosting: Steering or Empowering Good Decisions",
+            "url": "https://doi.org/10.1177/1745691617702496",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "Mertens, Herberz, Hahnel (2021): The effectiveness of nudging: A meta-analysis of choice architecture interventions across behavioral domains",
+            "url": "https://doi.org/10.1073/pnas.2107346118",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "Maier, Bartoš, Stanley (2022): No evidence for nudging after adjusting for publication bias",
+            "url": "https://doi.org/10.1073/pnas.2200300119",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "DellaVigna, Linos (2022): RCTs to Scale: Comprehensive Evidence From Two Nudge Units",
+            "url": "https://doi.org/10.3982/ECTA18709",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "OECD: Behavioural Insights Toolkit and Ethical Framework (BASIC)",
+            "url": "https://doi.org/10.1787/9ea76a8f-en",
+            "kind": "Public-sector design and ethics guidance; not a trial establishing effectiveness."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c08s05",
+      "kind": "evidence",
+      "title": "What does the evidence allow?",
+      "points": [],
+      "text": "Choice-architecture reviews reach different conclusions depending on included studies and assumptions about publication bias. Large operational trials also show that published academic effects should not be transferred mechanically to a new service.\n\nA design framework or the word nudge does not establish a benefit. State the mechanism, alternatives, uncertainty and ethical conditions of the specific proposal.",
+      "stage": "Evidence check",
+      "visual": "c08s05",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Given a diagnosed barrier, construct a theory of change, compare behavioural and material responses, and explain what evidence would challenge the proposal."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Choice-architecture reviews reach different conclusions depending on included studies and assumptions about publication bias. Large operational trials also show that published academic effects should not be transferred mechanically to a new service.\n\nA design framework or the word nudge does not establish a benefit. State the mechanism, alternatives, uncertainty and ethical conditions of the specific proposal."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. Useful design includes the possibility that a behavioural message is not the best response."
+          }
+        ],
+        "sources": [
+          {
+            "title": "Michie, van Stralen, West (2011): The behaviour change wheel: A new method for characterising and designing behaviour change interventions",
+            "url": "https://doi.org/10.1186/1748-5908-6-42",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "Hertwig, Grüne-Yanoff (2017): Nudging and Boosting: Steering or Empowering Good Decisions",
+            "url": "https://doi.org/10.1177/1745691617702496",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "Mertens, Herberz, Hahnel (2021): The effectiveness of nudging: A meta-analysis of choice architecture interventions across behavioral domains",
+            "url": "https://doi.org/10.1073/pnas.2107346118",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "Maier, Bartoš, Stanley (2022): No evidence for nudging after adjusting for publication bias",
+            "url": "https://doi.org/10.1073/pnas.2200300119",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "DellaVigna, Linos (2022): RCTs to Scale: Comprehensive Evidence From Two Nudge Units",
+            "url": "https://doi.org/10.3982/ECTA18709",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "OECD: Behavioural Insights Toolkit and Ethical Framework (BASIC)",
+            "url": "https://doi.org/10.1787/9ea76a8f-en",
+            "kind": "Public-sector design and ethics guidance; not a trial establishing effectiveness."
+          }
+        ]
+      }
+    }
+  ],
+  "9": [
+    {
+      "id": "c09s03",
+      "kind": "concept",
+      "title": "Before-and-after is not the only possible comparison.",
+      "points": [
+        "Causal effect: a difference attributable to an intervention relative to a specified alternative",
+        "Random assignment: allocation to conditions using a chance process",
+        "Assignment unit: the person or group allocated to a condition"
+      ],
+      "text": "A causal effect compares an intervention with a specified alternative. Random assignment uses chance to allocate an assignment unit, such as a person or a workshop.\n\nA simultaneous comparison can help distinguish the reminder from changes in weather or available slots. If people share messages within a workshop, consider whether assigning workshops is more appropriate. Random assignment and random sampling are different procedures.",
+      "stage": "Explanation",
+      "visual": "c09s03",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Given a fictional evaluation, identify the comparison and assignment unit, interpret an intention-to-treat difference, and state important sources of uncertainty."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Randomized evaluations can support causal inference when assignment, measurement and analysis are appropriate. They do not automatically solve interference, missing outcomes, selective reporting or limited applicability to other settings.\n\nThese fictional exercises teach interpretation. Real field research needs suitable expertise, permissions, participant protections and governance; an educational course does not provide that authorization."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. Design and implementation still matter; random assignment is not a guarantee of perfect evidence."
+          }
+        ],
+        "sources": [
+          {
+            "title": "J-PAL: Introduction to randomized evaluations",
+            "url": "https://www.povertyactionlab.org/resource/introduction-randomized-evaluations",
+            "kind": "Open methods guidance; further context and examples."
+          },
+          {
+            "title": "HM Treasury: The Magenta Book — guidance for evaluation",
+            "url": "https://www.gov.uk/government/publications/the-magenta-book",
+            "kind": "Professional guidance on designing and interpreting evaluations."
+          },
+          {
+            "title": "DellaVigna, Linos (2022): RCTs to Scale: Comprehensive Evidence From Two Nudge Units",
+            "url": "https://doi.org/10.3982/ECTA18709",
+            "kind": "Scholarly source; publisher access may vary."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c09s03b",
+      "kind": "concept",
+      "title": "Keep the denominator that matches the question.",
+      "points": [
+        "Intention-to-treat analysis: comparison using assigned conditions regardless of subsequent uptake",
+        "Percentage point: the arithmetic difference between percentages",
+        "Attrition: loss of observations needed for an analysis"
+      ],
+      "text": "Intention-to-treat analysis compares people in their assigned conditions, including those who did not open a message. A percentage point is a difference between percentages. Attrition concerns missing outcome observations.\n\nIn an illustrative comparison, attendance of sixty percent versus fifty percent is ten percentage points higher. Comparing only people who opened the message can select different people and break the original comparison.",
+      "stage": "Explanation",
+      "visual": "c09s03b",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Given a fictional evaluation, identify the comparison and assignment unit, interpret an intention-to-treat difference, and state important sources of uncertainty."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Randomized evaluations can support causal inference when assignment, measurement and analysis are appropriate. They do not automatically solve interference, missing outcomes, selective reporting or limited applicability to other settings.\n\nThese fictional exercises teach interpretation. Real field research needs suitable expertise, permissions, participant protections and governance; an educational course does not provide that authorization."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. Invented teaching numbers, not a research finding; they do not show uncertainty or transferability."
+          }
+        ],
+        "sources": [
+          {
+            "title": "J-PAL: Introduction to randomized evaluations",
+            "url": "https://www.povertyactionlab.org/resource/introduction-randomized-evaluations",
+            "kind": "Open methods guidance; further context and examples."
+          },
+          {
+            "title": "HM Treasury: The Magenta Book — guidance for evaluation",
+            "url": "https://www.gov.uk/government/publications/the-magenta-book",
+            "kind": "Professional guidance on designing and interpreting evaluations."
+          },
+          {
+            "title": "DellaVigna, Linos (2022): RCTs to Scale: Comprehensive Evidence From Two Nudge Units",
+            "url": "https://doi.org/10.3982/ECTA18709",
+            "kind": "Scholarly source; publisher access may vary."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c09s04",
+      "kind": "concept",
+      "title": "A point estimate is not the whole result.",
+      "points": [
+        "Confidence interval: an interval produced by a procedure with specified long-run coverage under its assumptions",
+        "Preregistration: a record of questions and analysis plans made before inspecting relevant results",
+        "Interference: one unit’s treatment affecting another unit’s outcome"
+      ],
+      "text": "A confidence interval describes uncertainty under statistical assumptions. A wide interval may leave both little benefit and a substantial average benefit compatible with the data. It is not a guarantee about a specific individual. Preregistration records important decisions before results are inspected. Interference occurs when one unit’s treatment affects another’s outcome.\n\nSpecify the outcome, comparison, timing, missing-data approach and analysis before testing many versions. Check implementation, spillovers and uncertainty. A favourable estimate alone does not establish a reliable or transferable benefit.",
+      "stage": "Explanation",
+      "visual": "c09s04",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Given a fictional evaluation, identify the comparison and assignment unit, interpret an intention-to-treat difference, and state important sources of uncertainty."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Randomized evaluations can support causal inference when assignment, measurement and analysis are appropriate. They do not automatically solve interference, missing outcomes, selective reporting or limited applicability to other settings.\n\nThese fictional exercises teach interpretation. Real field research needs suitable expertise, permissions, participant protections and governance; an educational course does not provide that authorization."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. An experiment is an argument supported by design and measurement, not just a positive number."
+          }
+        ],
+        "sources": [
+          {
+            "title": "J-PAL: Introduction to randomized evaluations",
+            "url": "https://www.povertyactionlab.org/resource/introduction-randomized-evaluations",
+            "kind": "Open methods guidance; further context and examples."
+          },
+          {
+            "title": "HM Treasury: The Magenta Book — guidance for evaluation",
+            "url": "https://www.gov.uk/government/publications/the-magenta-book",
+            "kind": "Professional guidance on designing and interpreting evaluations."
+          },
+          {
+            "title": "DellaVigna, Linos (2022): RCTs to Scale: Comprehensive Evidence From Two Nudge Units",
+            "url": "https://doi.org/10.3982/ECTA18709",
+            "kind": "Scholarly source; publisher access may vary."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c09s05",
+      "kind": "evidence",
+      "title": "What does the evidence allow?",
+      "points": [],
+      "text": "Randomized evaluations can support causal inference when assignment, measurement and analysis are appropriate. They do not automatically solve interference, missing outcomes, selective reporting or limited applicability to other settings.\n\nThese fictional exercises teach interpretation. Real field research needs suitable expertise, permissions, participant protections and governance; an educational course does not provide that authorization.",
+      "stage": "Evidence check",
+      "visual": "c09s05",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Given a fictional evaluation, identify the comparison and assignment unit, interpret an intention-to-treat difference, and state important sources of uncertainty."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Randomized evaluations can support causal inference when assignment, measurement and analysis are appropriate. They do not automatically solve interference, missing outcomes, selective reporting or limited applicability to other settings.\n\nThese fictional exercises teach interpretation. Real field research needs suitable expertise, permissions, participant protections and governance; an educational course does not provide that authorization."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. A positive difference needs a defensible design and a bounded interpretation."
+          }
+        ],
+        "sources": [
+          {
+            "title": "J-PAL: Introduction to randomized evaluations",
+            "url": "https://www.povertyactionlab.org/resource/introduction-randomized-evaluations",
+            "kind": "Open methods guidance; further context and examples."
+          },
+          {
+            "title": "HM Treasury: The Magenta Book — guidance for evaluation",
+            "url": "https://www.gov.uk/government/publications/the-magenta-book",
+            "kind": "Professional guidance on designing and interpreting evaluations."
+          },
+          {
+            "title": "DellaVigna, Linos (2022): RCTs to Scale: Comprehensive Evidence From Two Nudge Units",
+            "url": "https://doi.org/10.3982/ECTA18709",
+            "kind": "Scholarly source; publisher access may vary."
+          }
+        ]
+      }
+    }
+  ],
+  "10": [
+    {
+      "id": "c10s03",
+      "kind": "concept",
+      "title": "An average can hide different consequences.",
+      "points": [
+        "Average treatment effect: an average difference attributable to an intervention in a defined population under the study conditions",
+        "Equity: attention to the fairness of opportunities, benefits and burdens",
+        "Opportunity cost: the value of an alternative forgone"
+      ],
+      "text": "An average treatment effect summarizes a defined comparison, not a benefit for every person. Equity asks about fair opportunities and distribution. Opportunity cost concerns what another use of the resources could achieve.\n\nAn attendance gain could coexist with unwanted contacts or exclusion of people needing a phone route. Examine these consequences and compare feasible alternatives, including a service-capacity change. A dashboard average cannot make the value judgment on its own.",
+      "stage": "Explanation",
+      "visual": "c10s03",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Given a positive evaluation, judge whether to adapt, expand, investigate or stop using evidence on benefit, distribution, autonomy, implementation and uncertainty."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Large operational trials show that effects and their interpretation depend on setting, implementation and the evidence available for comparison. Debate about choice-architecture meta-analysis also highlights how publication and analytic assumptions can affect broad claims.\n\nNeither a positive average nor a behavioural label settles welfare, fairness or consent. State the decision criteria, relevant uncertainty, alternatives and conditions for further review."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. A result informs a decision; it does not remove the need for a fairness judgment."
+          }
+        ],
+        "sources": [
+          {
+            "title": "DellaVigna, Linos (2022): RCTs to Scale: Comprehensive Evidence From Two Nudge Units",
+            "url": "https://doi.org/10.3982/ECTA18709",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "Mertens, Herberz, Hahnel (2021): The effectiveness of nudging: A meta-analysis of choice architecture interventions across behavioral domains",
+            "url": "https://doi.org/10.1073/pnas.2107346118",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "Maier, Bartoš, Stanley (2022): No evidence for nudging after adjusting for publication bias",
+            "url": "https://doi.org/10.1073/pnas.2200300119",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "OECD: Behavioural Insights Toolkit and Ethical Framework (BASIC)",
+            "url": "https://doi.org/10.1787/9ea76a8f-en",
+            "kind": "Public-sector design and ethics guidance; not a trial establishing effectiveness."
+          },
+          {
+            "title": "HM Treasury: The Magenta Book — guidance for evaluation",
+            "url": "https://www.gov.uk/government/publications/the-magenta-book",
+            "kind": "Professional guidance on designing and interpreting evaluations."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c10s03b",
+      "kind": "concept",
+      "title": "Protect choice throughout the process.",
+      "points": [
+        "Autonomy: a person’s ability to direct choices in line with their interests and values",
+        "Transparency: making relevant purposes and conditions understandable",
+        "Data minimization: collecting only information needed for a justified purpose"
+      ],
+      "text": "Autonomy concerns meaningful control over choices. Transparency makes relevant purposes and conditions understandable. Data minimization limits collection to a justified need.\n\nUse an accessible way to stop reminders and avoid collecting detailed personal information just because a system permits it. Where consent or review is required, obtain it before implementation. A benign goal does not excuse misleading claims or an obstructive exit.",
+      "stage": "Explanation",
+      "visual": "c10s03b",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Given a positive evaluation, judge whether to adapt, expand, investigate or stop using evidence on benefit, distribution, autonomy, implementation and uncertainty."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Large operational trials show that effects and their interpretation depend on setting, implementation and the evidence available for comparison. Debate about choice-architecture meta-analysis also highlights how publication and analytic assumptions can affect broad claims.\n\nNeither a positive average nor a behavioural label settles welfare, fairness or consent. State the decision criteria, relevant uncertainty, alternatives and conditions for further review."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. The specific legal and ethical requirements depend on the setting and need appropriate review."
+          }
+        ],
+        "sources": [
+          {
+            "title": "DellaVigna, Linos (2022): RCTs to Scale: Comprehensive Evidence From Two Nudge Units",
+            "url": "https://doi.org/10.3982/ECTA18709",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "Mertens, Herberz, Hahnel (2021): The effectiveness of nudging: A meta-analysis of choice architecture interventions across behavioral domains",
+            "url": "https://doi.org/10.1073/pnas.2107346118",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "Maier, Bartoš, Stanley (2022): No evidence for nudging after adjusting for publication bias",
+            "url": "https://doi.org/10.1073/pnas.2200300119",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "OECD: Behavioural Insights Toolkit and Ethical Framework (BASIC)",
+            "url": "https://doi.org/10.1787/9ea76a8f-en",
+            "kind": "Public-sector design and ethics guidance; not a trial establishing effectiveness."
+          },
+          {
+            "title": "HM Treasury: The Magenta Book — guidance for evaluation",
+            "url": "https://www.gov.uk/government/publications/the-magenta-book",
+            "kind": "Professional guidance on designing and interpreting evaluations."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c10s04",
+      "kind": "concept",
+      "title": "Scaling is another claim to investigate.",
+      "points": [
+        "External validity: applicability beyond the studied conditions",
+        "Implementation fidelity: the extent to which a change is delivered as intended",
+        "Monitoring: ongoing observation of specified outcomes and harms"
+      ],
+      "text": "External validity concerns applicability beyond the studied conditions. Implementation fidelity concerns how a change is delivered. Monitoring tracks specified benefits and harms over time.\n\nA new site may differ in staffing, language, trust or available services. Plan adaptation and a suitable further evaluation, with criteria for pausing or stopping. Keep null and unwanted results visible so later decisions are not based only on success stories.",
+      "stage": "Explanation",
+      "visual": "c10s04",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Given a positive evaluation, judge whether to adapt, expand, investigate or stop using evidence on benefit, distribution, autonomy, implementation and uncertainty."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Large operational trials show that effects and their interpretation depend on setting, implementation and the evidence available for comparison. Debate about choice-architecture meta-analysis also highlights how publication and analytic assumptions can affect broad claims.\n\nNeither a positive average nor a behavioural label settles welfare, fairness or consent. State the decision criteria, relevant uncertainty, alternatives and conditions for further review."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. A pilot result is a starting point for a bounded expansion decision, not a universal promise."
+          }
+        ],
+        "sources": [
+          {
+            "title": "DellaVigna, Linos (2022): RCTs to Scale: Comprehensive Evidence From Two Nudge Units",
+            "url": "https://doi.org/10.3982/ECTA18709",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "Mertens, Herberz, Hahnel (2021): The effectiveness of nudging: A meta-analysis of choice architecture interventions across behavioral domains",
+            "url": "https://doi.org/10.1073/pnas.2107346118",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "Maier, Bartoš, Stanley (2022): No evidence for nudging after adjusting for publication bias",
+            "url": "https://doi.org/10.1073/pnas.2200300119",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "OECD: Behavioural Insights Toolkit and Ethical Framework (BASIC)",
+            "url": "https://doi.org/10.1787/9ea76a8f-en",
+            "kind": "Public-sector design and ethics guidance; not a trial establishing effectiveness."
+          },
+          {
+            "title": "HM Treasury: The Magenta Book — guidance for evaluation",
+            "url": "https://www.gov.uk/government/publications/the-magenta-book",
+            "kind": "Professional guidance on designing and interpreting evaluations."
+          }
+        ]
+      }
+    },
+    {
+      "id": "c10s05",
+      "kind": "evidence",
+      "title": "What does the evidence allow?",
+      "points": [],
+      "text": "Large operational trials show that effects and their interpretation depend on setting, implementation and the evidence available for comparison. Debate about choice-architecture meta-analysis also highlights how publication and analytic assumptions can affect broad claims.\n\nNeither a positive average nor a behavioural label settles welfare, fairness or consent. State the decision criteria, relevant uncertainty, alternatives and conditions for further review.",
+      "stage": "Evidence check",
+      "visual": "c10s05",
+      "research": {
+        "sections": [
+          {
+            "heading": "The research question",
+            "text": "Given a positive evaluation, judge whether to adapt, expand, investigate or stop using evidence on benefit, distribution, autonomy, implementation and uncertainty."
+          },
+          {
+            "heading": "What the sources support",
+            "text": "Large operational trials show that effects and their interpretation depend on setting, implementation and the evidence available for comparison. Debate about choice-architecture meta-analysis also highlights how publication and analytic assumptions can affect broad claims.\n\nNeither a positive average nor a behavioural label settles welfare, fairness or consent. State the decision criteria, relevant uncertainty, alternatives and conditions for further review."
+          },
+          {
+            "heading": "The example and its limits",
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. The result and the ethical judgment belong in the same decision."
+          }
+        ],
+        "sources": [
+          {
+            "title": "DellaVigna, Linos (2022): RCTs to Scale: Comprehensive Evidence From Two Nudge Units",
+            "url": "https://doi.org/10.3982/ECTA18709",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "Mertens, Herberz, Hahnel (2021): The effectiveness of nudging: A meta-analysis of choice architecture interventions across behavioral domains",
+            "url": "https://doi.org/10.1073/pnas.2107346118",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "Maier, Bartoš, Stanley (2022): No evidence for nudging after adjusting for publication bias",
+            "url": "https://doi.org/10.1073/pnas.2200300119",
+            "kind": "Scholarly source; publisher access may vary."
+          },
+          {
+            "title": "OECD: Behavioural Insights Toolkit and Ethical Framework (BASIC)",
+            "url": "https://doi.org/10.1787/9ea76a8f-en",
+            "kind": "Public-sector design and ethics guidance; not a trial establishing effectiveness."
+          },
+          {
+            "title": "HM Treasury: The Magenta Book — guidance for evaluation",
+            "url": "https://www.gov.uk/government/publications/the-magenta-book",
+            "kind": "Professional guidance on designing and interpreting evaluations."
+          }
+        ]
+      }
+    }
+  ]
+}

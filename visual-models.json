@@ -1,0 +1,726 @@
+{
+  "c01s03": {
+    "type": "flow",
+    "title": "From ambition to an observable action",
+    "items": [
+      [
+        "Purpose",
+        "Useful access to repairs"
+      ],
+      [
+        "Action",
+        "Complete a suitable booking"
+      ],
+      [
+        "Conditions",
+        "Who, when and through which route?"
+      ]
+    ],
+    "caption": "A fictional service example; a click is not the whole public benefit."
+  },
+  "c01s03b": {
+    "type": "rows",
+    "title": "Three questions before a message",
+    "items": [
+      [
+        "Capability",
+        "Can the person understand and perform the action?"
+      ],
+      [
+        "Opportunity",
+        "Do time, resources and access permit it?"
+      ],
+      [
+        "Motivation",
+        "What priorities and expectations matter?"
+      ]
+    ],
+    "caption": "The framework organizes hypotheses; it does not establish which one is correct."
+  },
+  "c01s04": {
+    "type": "compare",
+    "title": "Two possible investigations",
+    "left": [
+      "Label first",
+      "People lack motivation",
+      "Send inspiration"
+    ],
+    "right": [
+      "Investigate first",
+      "Where does booking become difficult?",
+      "Compare accounts and process data"
+    ],
+    "caption": "The example illustrates an investigation, not a finding about café visitors."
+  },
+  "c01s05": {
+    "type": "flow",
+    "title": "A diagnosis before a solution",
+    "items": [
+      [
+        "Specify",
+        "The action and meaningful outcome"
+      ],
+      [
+        "Investigate",
+        "Competing barriers and people’s accounts"
+      ],
+      [
+        "Compare",
+        "Evidence that could distinguish explanations"
+      ]
+    ],
+    "caption": "A framework supports questions rather than replacing an investigation."
+  },
+  "c02s03": {
+    "type": "flow",
+    "title": "The work behind a booking",
+    "items": [
+      [
+        "Find out",
+        "Which repairs qualify?"
+      ],
+      [
+        "Prepare",
+        "Documents, devices and time"
+      ],
+      [
+        "Complete",
+        "Submit and confirm a suitable appointment"
+      ]
+    ],
+    "caption": "This fictional journey includes work that a simple click count could miss."
+  },
+  "c02s03b": {
+    "type": "rows",
+    "title": "Ask whose effort is counted",
+    "items": [
+      [
+        "Requirements",
+        "What must someone find or provide?"
+      ],
+      [
+        "Routes",
+        "Which accessible alternatives exist?"
+      ],
+      [
+        "Costs",
+        "Who bears time, stress and expense?"
+      ]
+    ],
+    "caption": "A process can become easier on average while leaving some people behind."
+  },
+  "c02s04": {
+    "type": "compare",
+    "title": "Different changes, different barriers",
+    "left": [
+      "Simplification",
+      "Remove duplicate questions",
+      "Less effort in the booking route"
+    ],
+    "right": [
+      "Material access",
+      "Offer suitable opening times",
+      "A feasible appointment"
+    ],
+    "caption": "Either change needs evidence about the barrier and the resulting service outcome."
+  },
+  "c02s05": {
+    "type": "rows",
+    "title": "Assess a proposed simplification",
+    "items": [
+      [
+        "Purpose",
+        "Which requirement is justified?"
+      ],
+      [
+        "Burden",
+        "Which costs change, and for whom?"
+      ],
+      [
+        "Outcome",
+        "Can people obtain a useful service?"
+      ]
+    ],
+    "caption": "Count consequences beyond the easiest-to-measure step."
+  },
+  "c03s03": {
+    "type": "flow",
+    "title": "A message has several hurdles",
+    "items": [
+      [
+        "Notice",
+        "Does it reach attention?"
+      ],
+      [
+        "Understand",
+        "Is the action clear?"
+      ],
+      [
+        "Act",
+        "Can the person do it now?"
+      ]
+    ],
+    "caption": "Failure at one hurdle does not establish failure at all the others."
+  },
+  "c03s03b": {
+    "type": "rows",
+    "title": "Design a useful reminder",
+    "items": [
+      [
+        "Moment",
+        "When can the recipient act?"
+      ],
+      [
+        "Content",
+        "What exact step is available?"
+      ],
+      [
+        "Control",
+        "Can they change or stop messages?"
+      ]
+    ],
+    "caption": "More messages can add burden without improving the intended outcome."
+  },
+  "c03s04": {
+    "type": "compare",
+    "title": "Two measures with different jobs",
+    "left": [
+      "Delivery and openings",
+      "Did the message reach people?",
+      "A process question"
+    ],
+    "right": [
+      "Attendance and useful access",
+      "Did the intended action occur?",
+      "An outcome question"
+    ],
+    "caption": "Both can be useful; they answer different questions."
+  },
+  "c03s05": {
+    "type": "flow",
+    "title": "A reminder hypothesis",
+    "items": [
+      [
+        "Change",
+        "One useful cue at a feasible moment"
+      ],
+      [
+        "Proposed process",
+        "The intention comes to mind"
+      ],
+      [
+        "Test",
+        "Compare meaningful action and unwanted costs"
+      ]
+    ],
+    "caption": "The figure is a proposed mechanism, not proof that the reminder will work."
+  },
+  "c04s03": {
+    "type": "compare",
+    "title": "Presentation or a different offer?",
+    "left": [
+      "Frame",
+      "Describe the same contribution differently",
+      "Information emphasis changes"
+    ],
+    "right": [
+      "Offer",
+      "Change the contribution itself",
+      "The available terms change"
+    ],
+    "caption": "Keep facts complete when comparing descriptions."
+  },
+  "c04s03b": {
+    "type": "flow",
+    "title": "Interpreting default uptake",
+    "items": [
+      [
+        "Observed",
+        "More people keep the default"
+      ],
+      [
+        "Possible processes",
+        "Preference, effort, attention or endorsement"
+      ],
+      [
+        "Further evidence",
+        "Understanding, switching and consequences"
+      ]
+    ],
+    "caption": "A choice rate does not reveal a unique psychological mechanism."
+  },
+  "c04s04": {
+    "type": "rows",
+    "title": "Review a default",
+    "items": [
+      [
+        "Understanding",
+        "Are terms clear before the choice?"
+      ],
+      [
+        "Control",
+        "Can people choose and change easily?"
+      ],
+      [
+        "Consequences",
+        "Who benefits or bears an unwanted cost?"
+      ]
+    ],
+    "caption": "Assess the process and its consequences together."
+  },
+  "c04s05": {
+    "type": "rows",
+    "title": "Judge a choice design",
+    "items": [
+      [
+        "Comparison",
+        "Are the underlying terms equivalent?"
+      ],
+      [
+        "Mechanism",
+        "What explanations could produce uptake?"
+      ],
+      [
+        "Ethics",
+        "Are understanding and control protected?"
+      ]
+    ],
+    "caption": "A desirable-looking choice rate is not sufficient evidence of benefit."
+  },
+  "c05s03": {
+    "type": "compare",
+    "title": "Two possible reasons for delay",
+    "left": [
+      "Immediate effort",
+      "The form costs time now",
+      "A planning aid might help"
+    ],
+    "right": [
+      "Unavailable information",
+      "The work schedule is unknown",
+      "Flexible booking may be needed"
+    ],
+    "caption": "Similar delays do not establish identical causes."
+  },
+  "c05s03b": {
+    "type": "flow",
+    "title": "A feasible if-then plan",
+    "items": [
+      [
+        "Cue",
+        "When my schedule arrives"
+      ],
+      [
+        "Response",
+        "Check a suitable available shift"
+      ],
+      [
+        "Check",
+        "Can I actually carry out this step?"
+      ]
+    ],
+    "caption": "A planning aid supports an intention; it does not remove every constraint."
+  },
+  "c05s04": {
+    "type": "rows",
+    "title": "Review a planning aid",
+    "items": [
+      [
+        "Chosen goal",
+        "Whose intention is being supported?"
+      ],
+      [
+        "Changing circumstances",
+        "What could make the plan infeasible?"
+      ],
+      [
+        "Exit",
+        "Can the arrangement be revised fairly?"
+      ]
+    ],
+    "caption": "Support for follow-through should not become punishment for uncertainty."
+  },
+  "c05s05": {
+    "type": "flow",
+    "title": "From intention to an acceptable aid",
+    "items": [
+      [
+        "Understand",
+        "The person’s chosen goal and barrier"
+      ],
+      [
+        "Design",
+        "A cue linked to a feasible response"
+      ],
+      [
+        "Protect",
+        "Choice, revision and proportionate costs"
+      ]
+    ],
+    "caption": "A planning aid is conditional support, not proof of a motivational diagnosis."
+  },
+  "c06s03": {
+    "type": "compare",
+    "title": "Two different norm claims",
+    "left": [
+      "Descriptive",
+      "What is commonly done?",
+      "Requires evidence about behaviour"
+    ],
+    "right": [
+      "Injunctive",
+      "What is approved?",
+      "Concerns perceived approval"
+    ],
+    "caption": "A message can contain either or both claims; truth and relevance still matter."
+  },
+  "c06s03b": {
+    "type": "flow",
+    "title": "An average can have different meanings",
+    "items": [
+      [
+        "Baseline",
+        "How did people act before?"
+      ],
+      [
+        "Comparison",
+        "What does the message imply?"
+      ],
+      [
+        "Outcome",
+        "Who changes, and in which direction?"
+      ]
+    ],
+    "caption": "A group average can conceal different responses."
+  },
+  "c06s04": {
+    "type": "rows",
+    "title": "Before publishing a norm claim",
+    "items": [
+      [
+        "Truth",
+        "What observation supports the statement?"
+      ],
+      [
+        "Relevance",
+        "Which group and circumstances are meant?"
+      ],
+      [
+        "Consequences",
+        "Who might respond differently?"
+      ]
+    ],
+    "caption": "Norm language does not remove the need for practical access or an outcome comparison."
+  },
+  "c06s05": {
+    "type": "rows",
+    "title": "Evaluate the whole norm proposal",
+    "items": [
+      [
+        "Evidence",
+        "Is the social claim accurate?"
+      ],
+      [
+        "Comparison",
+        "Is the group relevant?"
+      ],
+      [
+        "Variation",
+        "Who benefits or changes in an unwanted direction?"
+      ]
+    ],
+    "caption": "A fictional message illustrates questions to test, not an established intervention effect."
+  },
+  "c07s03": {
+    "type": "compare",
+    "title": "Two proposals with different purposes",
+    "left": [
+      "Repay travel costs",
+      "Reduce an expense of participating",
+      "Access may improve"
+    ],
+    "right": [
+      "Pay for completed repairs",
+      "Reward a measured result",
+      "Effort may shift toward that result"
+    ],
+    "caption": "Identify the purpose and likely costs before choosing an evaluation."
+  },
+  "c07s03b": {
+    "type": "flow",
+    "title": "Follow the incentive beyond the count",
+    "items": [
+      [
+        "Reward",
+        "Completed repairs"
+      ],
+      [
+        "Possible response",
+        "More effort or different case selection"
+      ],
+      [
+        "Check",
+        "Quality, access and meaningful benefit"
+      ]
+    ],
+    "caption": "The figure shows competing hypotheses, not a claim about volunteers’ motives."
+  },
+  "c07s04": {
+    "type": "rows",
+    "title": "Review an incentive",
+    "items": [
+      [
+        "Behaviour",
+        "Which action becomes attractive?"
+      ],
+      [
+        "Meaning",
+        "How is the arrangement understood?"
+      ],
+      [
+        "Fairness",
+        "Who can participate and who bears costs?"
+      ]
+    ],
+    "caption": "Fair compensation and a poorly designed performance target are different questions."
+  },
+  "c07s05": {
+    "type": "rows",
+    "title": "An incentive evaluation",
+    "items": [
+      [
+        "Purpose",
+        "Access, effort or a specified result?"
+      ],
+      [
+        "Mechanisms",
+        "Effort, selection, meaning or recording?"
+      ],
+      [
+        "Outcomes",
+        "Benefit, quality, cost and fair access"
+      ]
+    ],
+    "caption": "Measure what matters beyond the easiest count."
+  },
+  "c08s03": {
+    "type": "flow",
+    "title": "A reminder theory of change",
+    "items": [
+      [
+        "Action",
+        "A clear cue before the appointment"
+      ],
+      [
+        "Mechanism",
+        "The intention comes to mind"
+      ],
+      [
+        "Outcome",
+        "More feasible appointments are attended"
+      ]
+    ],
+    "caption": "Assumptions include access, understanding and available service capacity."
+  },
+  "c08s03b": {
+    "type": "compare",
+    "title": "Support a decision in different ways",
+    "left": [
+      "Choice environment",
+      "Make options easier to compare",
+      "Changes the current decision setting"
+    ],
+    "right": [
+      "Competence support",
+      "Teach a reusable comparison skill",
+      "Aims to develop a capability"
+    ],
+    "caption": "Material provision may also be needed; these are not the only intervention categories."
+  },
+  "c08s04": {
+    "type": "rows",
+    "title": "Questions before a pilot",
+    "items": [
+      [
+        "Fit",
+        "Does the proposal address the investigated barrier?"
+      ],
+      [
+        "Delivery",
+        "Can people implement and use it?"
+      ],
+      [
+        "Evaluation",
+        "What comparison and outcomes are needed?"
+      ]
+    ],
+    "caption": "A good-looking prototype is not a causal result."
+  },
+  "c08s05": {
+    "type": "flow",
+    "title": "From diagnosis to an evaluable proposal",
+    "items": [
+      [
+        "Barrier",
+        "What evidence identifies the difficulty?"
+      ],
+      [
+        "Alternatives",
+        "Which responses address it?"
+      ],
+      [
+        "Test",
+        "Which outcomes and comparisons distinguish proposals?"
+      ]
+    ],
+    "caption": "Useful design includes the possibility that a behavioural message is not the best response."
+  },
+  "c09s03": {
+    "type": "compare",
+    "title": "Two comparisons",
+    "left": [
+      "Before and after",
+      "Message and circumstances both change",
+      "Other changes may explain attendance"
+    ],
+    "right": [
+      "Randomly assigned conditions",
+      "Compare approaches in the same period",
+      "Chance supports a fair comparison"
+    ],
+    "caption": "Design and implementation still matter; random assignment is not a guarantee of perfect evidence."
+  },
+  "c09s03b": {
+    "type": "rows",
+    "title": "Illustrative attendance data",
+    "items": [
+      [
+        "New approach",
+        "60 of 100 assigned attend"
+      ],
+      [
+        "Existing approach",
+        "50 of 100 assigned attend"
+      ],
+      [
+        "Difference",
+        "10 percentage points"
+      ]
+    ],
+    "caption": "Invented teaching numbers, not a research finding; they do not show uncertainty or transferability."
+  },
+  "c09s04": {
+    "type": "flow",
+    "title": "Before interpreting a difference",
+    "items": [
+      [
+        "Plan",
+        "Outcome, assignment and analysis"
+      ],
+      [
+        "Check",
+        "Delivery, missing observations and spillovers"
+      ],
+      [
+        "Interpret",
+        "Estimate, uncertainty and practical meaning"
+      ]
+    ],
+    "caption": "An experiment is an argument supported by design and measurement, not just a positive number."
+  },
+  "c09s05": {
+    "type": "flow",
+    "title": "A credible field comparison",
+    "items": [
+      [
+        "Question",
+        "Change compared with which alternative?"
+      ],
+      [
+        "Design",
+        "Assignment, measurement and a recorded plan"
+      ],
+      [
+        "Interpretation",
+        "Estimate, uncertainty, costs and scope"
+      ]
+    ],
+    "caption": "A positive difference needs a defensible design and a bounded interpretation."
+  },
+  "c10s03": {
+    "type": "rows",
+    "title": "Beyond the overall average",
+    "items": [
+      [
+        "Benefit",
+        "Which meaningful outcome improved?"
+      ],
+      [
+        "Distribution",
+        "Who gained or remained excluded?"
+      ],
+      [
+        "Alternative",
+        "What else could these resources support?"
+      ]
+    ],
+    "caption": "A result informs a decision; it does not remove the need for a fairness judgment."
+  },
+  "c10s03b": {
+    "type": "flow",
+    "title": "Rights are part of the design",
+    "items": [
+      [
+        "Explain",
+        "Purpose, options and relevant consequences"
+      ],
+      [
+        "Respect",
+        "Accessible choice and appropriate agreement"
+      ],
+      [
+        "Limit",
+        "Data, burden and unwanted contact"
+      ]
+    ],
+    "caption": "The specific legal and ethical requirements depend on the setting and need appropriate review."
+  },
+  "c10s04": {
+    "type": "flow",
+    "title": "An expansion decision",
+    "items": [
+      [
+        "Evidence",
+        "What worked, for whom and under which conditions?"
+      ],
+      [
+        "Adaptation",
+        "What differs in the new service?"
+      ],
+      [
+        "Review",
+        "Monitor, evaluate and stop if needed"
+      ]
+    ],
+    "caption": "A pilot result is a starting point for a bounded expansion decision, not a universal promise."
+  },
+  "c10s05": {
+    "type": "rows",
+    "title": "A responsible decision",
+    "items": [
+      [
+        "Evidence",
+        "Benefit, uncertainty and alternatives"
+      ],
+      [
+        "People",
+        "Fair access, autonomy and acceptable burdens"
+      ],
+      [
+        "Future",
+        "Adaptation, monitoring and stopping criteria"
+      ]
+    ],
+    "caption": "The result and the ethical judgment belong in the same decision."
+  }
+}

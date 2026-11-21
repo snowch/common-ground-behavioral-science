@@ -1,0 +1,113 @@
+{
+  "1": {
+    "Behavioural science": "Interdisciplinary study of behaviour and its conditions.",
+    "Target behaviour": "A specified action by specified people in a context.",
+    "Outcome": "A result used to judge a proposed change.",
+    "Capability": "Physical and psychological capacity to act.",
+    "Opportunity": "External conditions that make an action possible.",
+    "Motivation": "Processes that energize and direct action.",
+    "COM-B": "Framework relating capability, opportunity, motivation and behaviour.",
+    "Behavioural diagnosis": "Investigation of conditions affecting a specified action.",
+    "Qualitative evidence": "Accounts and observations that describe experience and meaning.",
+    "Triangulation": "Comparing information from different methods or sources."
+  },
+  "2": {
+    "Administrative burden": "Learning, compliance and psychological costs in an interaction with a service.",
+    "Learning cost": "Effort to find and understand what is required.",
+    "Compliance cost": "Time and resources needed to meet requirements.",
+    "Psychological cost": "Stress, stigma or loss of autonomy experienced in an interaction.",
+    "Distributional effect": "Differences in benefits or costs across people.",
+    "Accessibility": "Whether people with varied needs can use a service.",
+    "Friction": "Effort or difficulty encountered when acting.",
+    "Service capacity": "Resources available to provide the service.",
+    "Structural constraint": "An institutional or material condition limiting options."
+  },
+  "3": {
+    "Limited attention": "Finite capacity to notice and process information.",
+    "Salience": "How much something stands out in a context.",
+    "Reminder": "A cue intended to bring an action or intention to mind.",
+    "Timing": "When information is encountered relative to an action.",
+    "Actionable information": "Information that makes a next step clear.",
+    "Notification fatigue": "Reduced engagement associated with repeated or unwanted notifications.",
+    "Process measure": "Measure of how an intervention is delivered or used.",
+    "Behavioural outcome": "Measure of the specified action.",
+    "Mechanism hypothesis": "Proposed process through which a change affects an outcome."
+  },
+  "4": {
+    "Framing effect": "A difference in judgment or choice associated with how a problem is described.",
+    "Reference point": "A comparison standard used to evaluate an outcome.",
+    "Loss aversion": "Greater weight on losses than comparable gains in some models and settings.",
+    "Default option": "The option applied if no active choice is made.",
+    "Status quo bias": "A tendency to favour the existing state in some decisions.",
+    "Active choice": "A requirement to select an option explicitly.",
+    "Informed choice": "A decision made with relevant understandable information.",
+    "Switching cost": "Effort or expense involved in changing an option.",
+    "Welfare": "Effects on people’s interests and wellbeing."
+  },
+  "5": {
+    "Present bias": "Disproportionate weight on immediate costs or rewards relative to later ones.",
+    "Time inconsistency": "A change in preferred plans as the time of a decision approaches.",
+    "Constraint": "A condition limiting feasible action.",
+    "Implementation intention": "An if-then plan linking a situation to a response.",
+    "Cue": "A signal associated with an opportunity to act.",
+    "Feasibility": "Whether an action can be carried out under relevant conditions.",
+    "Commitment device": "An arrangement intended to make following a chosen plan more likely.",
+    "Voluntary participation": "An informed choice without undue pressure.",
+    "Reversibility": "The ability to change or leave an arrangement."
+  },
+  "6": {
+    "Descriptive norm": "A perception of what people commonly do in a relevant group.",
+    "Injunctive norm": "A perception of what people approve or disapprove.",
+    "Reference group": "The people used as a social comparison.",
+    "Boomerang effect": "A change opposite to the intended direction.",
+    "Heterogeneous effect": "An effect that differs across people or settings.",
+    "Baseline behaviour": "Behaviour measured before a proposed change.",
+    "Social context": "Relationships and shared conditions around an action.",
+    "Mechanism evidence": "Information bearing on a proposed process.",
+    "Unintended consequence": "An effect outside the intended benefit."
+  },
+  "7": {
+    "Incentive": "A consequence that changes the relative attractiveness of actions.",
+    "Reimbursement": "Repayment of a cost incurred.",
+    "Opportunity cost": "The value of an alternative forgone.",
+    "Proxy measure": "An indirect indicator used for something that matters.",
+    "Substitution effect": "A shift toward an action made relatively more attractive.",
+    "Gaming": "Improving a measured result without the intended underlying benefit.",
+    "Motivational crowding": "A change in other motivation associated with an external intervention.",
+    "Acceptability": "Whether an arrangement is considered appropriate by affected people.",
+    "Distribution": "How benefits and burdens are shared."
+  },
+  "8": {
+    "Theory of change": "An account linking actions, proposed mechanisms and intended outcomes.",
+    "Assumption": "A condition a proposal relies on.",
+    "Counterfactual": "What would happen under an alternative condition.",
+    "Choice architecture": "The arrangement of the environment in which choices are made.",
+    "Nudge": "A choice-environment change preserving options without substantially changing economic incentives.",
+    "Boost": "An intervention intended to develop decision-making competence.",
+    "Design framework": "A structure for generating and reviewing proposals.",
+    "Pilot": "A small implementation used to examine feasibility or other specified questions.",
+    "Feasibility study": "Investigation of whether a proposed implementation or evaluation can be carried out."
+  },
+  "9": {
+    "Causal effect": "A difference attributable to an intervention relative to a specified alternative.",
+    "Random assignment": "Allocation to conditions using a chance process.",
+    "Assignment unit": "The person or group allocated to a condition.",
+    "Intention-to-treat analysis": "Comparison using assigned conditions regardless of subsequent uptake.",
+    "Percentage point": "The arithmetic difference between percentages.",
+    "Attrition": "Loss of observations needed for an analysis.",
+    "Confidence interval": "An interval produced by a procedure with specified long-run coverage under its assumptions.",
+    "Preregistration": "A record of questions and analysis plans made before inspecting relevant results.",
+    "Interference": "One unit’s treatment affecting another unit’s outcome."
+  },
+  "10": {
+    "Average treatment effect": "An average difference attributable to an intervention in a defined population under the study conditions.",
+    "Equity": "Attention to the fairness of opportunities, benefits and burdens.",
+    "Opportunity cost": "The value of an alternative forgone.",
+    "Autonomy": "A person’s ability to direct choices in line with their interests and values.",
+    "Transparency": "Making relevant purposes and conditions understandable.",
+    "Data minimization": "Collecting only information needed for a justified purpose.",
+    "External validity": "Applicability beyond the studied conditions.",
+    "Implementation fidelity": "The extent to which a change is delivered as intended.",
+    "Monitoring": "Ongoing observation of specified outcomes and harms."
+  }
+}

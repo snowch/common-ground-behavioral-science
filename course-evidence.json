@@ -1,0 +1,232 @@
+{
+  "1": {
+    "claims": [
+      "Given a change proposal, specify an observable behaviour and distinguish capability, opportunity and motivation as competing explanations."
+    ],
+    "note": "The behaviour change wheel describes COM-B as a framework for intervention design. Its categories help organize an assessment; placing a problem in a category does not establish the cause or the effectiveness of a proposed solution.\n\nA course develops interpretation and design skills. It cannot remove a service’s staffing, transport or funding constraints.",
+    "sources": [
+      {
+        "title": "Michie, van Stralen, West (2011): The behaviour change wheel: A new method for characterising and designing behaviour change interventions",
+        "url": "https://doi.org/10.1186/1748-5908-6-42",
+        "kind": "Scholarly source; publisher access may vary."
+      },
+      {
+        "title": "OECD: Behavioural Insights Toolkit and Ethical Framework (BASIC)",
+        "url": "https://doi.org/10.1787/9ea76a8f-en",
+        "kind": "Public-sector design and ethics guidance; not a trial establishing effectiveness."
+      }
+    ]
+  },
+  "2": {
+    "claims": [
+      "Given a service journey, identify learning, compliance and psychological costs, and distinguish simplification from changes to material access."
+    ],
+    "note": "Administrative-burden research distinguishes learning, compliance and psychological costs. These categories help investigate unequal access, but they do not imply that every requirement is unnecessary. Some requirements serve legitimate safety or eligibility purposes.\n\nEvaluate simplification alongside its consequences, service capacity and accessible alternatives. A shorter process is not sufficient evidence of a fairer outcome.",
+    "sources": [
+      {
+        "title": "Moynihan, Herd, Harvey (2014): Administrative Burden: Learning, Psychological, and Compliance Costs in Citizen-State Interactions",
+        "url": "https://doi.org/10.1093/jopart/muu009",
+        "kind": "Scholarly source; publisher access may vary."
+      },
+      {
+        "title": "OECD: Behavioural Insights Toolkit and Ethical Framework (BASIC)",
+        "url": "https://doi.org/10.1787/9ea76a8f-en",
+        "kind": "Public-sector design and ethics guidance; not a trial establishing effectiveness."
+      }
+    ]
+  },
+  "3": {
+    "claims": [
+      "Given a proposed reminder, distinguish an attention hypothesis from lack of access, and specify a meaningful test outcome."
+    ],
+    "note": "Field experiments have found useful reminder effects in particular savings settings. Those findings do not establish that any reminder, channel or frequency will work for café attendance or another service.\n\nTest the proposed timing and content against a suitable comparison, using a meaningful outcome and respecting communication preferences.",
+    "sources": [
+      {
+        "title": "Karlan, McConnell, Mullainathan (2016): Getting to the Top of Mind: How Reminders Increase Saving",
+        "url": "https://doi.org/10.1287/mnsc.2015.2296",
+        "kind": "Scholarly source; publisher access may vary."
+      },
+      {
+        "title": "OECD: Behavioural Insights Toolkit and Ethical Framework (BASIC)",
+        "url": "https://doi.org/10.1787/9ea76a8f-en",
+        "kind": "Public-sector design and ethics guidance; not a trial establishing effectiveness."
+      }
+    ]
+  },
+  "4": {
+    "claims": [
+      "Given a choice interface, identify a frame or default, distinguish presentation from a changed option, and protect informed choice."
+    ],
+    "note": "Research documents framing and default effects in specified settings, including retirement-saving decisions. Multiple mechanisms and contextual differences limit simple predictions about a new service.\n\nA model of loss aversion is not a licence to invent threats or obscure a price. Ethical evaluation includes understanding, accessible alternatives and unwanted consequences alongside uptake.",
+    "sources": [
+      {
+        "title": "Tversky, Kahneman (1981): The Framing of Decisions and the Psychology of Choice",
+        "url": "https://doi.org/10.1126/science.7455683",
+        "kind": "Scholarly source; publisher access may vary."
+      },
+      {
+        "title": "Madrian, Shea (2001): The Power of Suggestion: Inertia in 401(k) Participation and Savings Behavior",
+        "url": "https://doi.org/10.1162/003355301753265543",
+        "kind": "Scholarly source; publisher access may vary."
+      },
+      {
+        "title": "OECD: Behavioural Insights Toolkit and Ethical Framework (BASIC)",
+        "url": "https://doi.org/10.1787/9ea76a8f-en",
+        "kind": "Public-sector design and ethics guidance; not a trial establishing effectiveness."
+      }
+    ]
+  },
+  "5": {
+    "claims": [
+      "Given a missed intention, distinguish present bias from constraints and design a feasible, voluntary planning aid."
+    ],
+    "note": "Present-biased models explain some patterns of changing choice; they do not diagnose a person from a missed task. Research on implementation intentions examines specified plans, tasks and populations, with effects that depend on those conditions.\n\nA planning aid needs an existing goal, a feasible response and an acceptable burden. It cannot substitute for material resources or predictable access.",
+    "sources": [
+      {
+        "title": "O'Donoghue, Rabin (1999): Doing It Now or Later",
+        "url": "https://doi.org/10.1257/aer.89.1.103",
+        "kind": "Scholarly source; publisher access may vary."
+      },
+      {
+        "title": "Gollwitzer, Sheeran (2006): Implementation Intentions and Goal Achievement: A Meta‐analysis of Effects and Processes",
+        "url": "https://doi.org/10.1016/S0065-2601(06)38002-1",
+        "kind": "Scholarly source; publisher access may vary."
+      },
+      {
+        "title": "OECD: Behavioural Insights Toolkit and Ethical Framework (BASIC)",
+        "url": "https://doi.org/10.1787/9ea76a8f-en",
+        "kind": "Public-sector design and ethics guidance; not a trial establishing effectiveness."
+      }
+    ]
+  },
+  "6": {
+    "claims": [
+      "Given a norm message, distinguish descriptive and injunctive claims, identify the relevant comparison group, and assess a possible boomerang effect."
+    ],
+    "note": "An energy-use field experiment found that descriptive comparisons could have different effects depending on prior consumption, and that an approval cue changed those results in that setting. This supports attention to baselines and message content, not a universal recipe for every group.\n\nDo not invent a majority claim to obtain compliance. A truthful, relevant message can still require testing and monitoring for uneven or unwanted effects.",
+    "sources": [
+      {
+        "title": "Schultz, Nolan, Cialdini (2007): The Constructive, Destructive, and Reconstructive Power of Social Norms",
+        "url": "https://doi.org/10.1111/j.1467-9280.2007.01917.x",
+        "kind": "Scholarly source; publisher access may vary."
+      },
+      {
+        "title": "OECD: Behavioural Insights Toolkit and Ethical Framework (BASIC)",
+        "url": "https://doi.org/10.1787/9ea76a8f-en",
+        "kind": "Public-sector design and ethics guidance; not a trial establishing effectiveness."
+      }
+    ]
+  },
+  "7": {
+    "claims": [
+      "Given an incentive proposal, identify the rewarded measure, possible substitution and distributional costs, and specify outcomes beyond the rewarded count."
+    ],
+    "note": "Research reviews describe varied incentive effects across tasks, populations and arrangements. Effects on other motivation are possible, but they do not justify the blanket claim that payments backfire or that unpaid participation is preferable.\n\nEvaluate the specified arrangement over an appropriate period. Preserve fair compensation and examine quality, access, costs and effects beyond the rewarded measure.",
+    "sources": [
+      {
+        "title": "Gneezy, Meier, Rey-Biel (2011): When and Why Incentives (Don't) Work to Modify Behavior",
+        "url": "https://doi.org/10.1257/jep.25.4.191",
+        "kind": "Scholarly source; publisher access may vary."
+      },
+      {
+        "title": "OECD: Behavioural Insights Toolkit and Ethical Framework (BASIC)",
+        "url": "https://doi.org/10.1787/9ea76a8f-en",
+        "kind": "Public-sector design and ethics guidance; not a trial establishing effectiveness."
+      }
+    ]
+  },
+  "8": {
+    "claims": [
+      "Given a diagnosed barrier, construct a theory of change, compare behavioural and material responses, and explain what evidence would challenge the proposal."
+    ],
+    "note": "Choice-architecture reviews reach different conclusions depending on included studies and assumptions about publication bias. Large operational trials also show that published academic effects should not be transferred mechanically to a new service.\n\nA design framework or the word nudge does not establish a benefit. State the mechanism, alternatives, uncertainty and ethical conditions of the specific proposal.",
+    "sources": [
+      {
+        "title": "Michie, van Stralen, West (2011): The behaviour change wheel: A new method for characterising and designing behaviour change interventions",
+        "url": "https://doi.org/10.1186/1748-5908-6-42",
+        "kind": "Scholarly source; publisher access may vary."
+      },
+      {
+        "title": "Hertwig, Grüne-Yanoff (2017): Nudging and Boosting: Steering or Empowering Good Decisions",
+        "url": "https://doi.org/10.1177/1745691617702496",
+        "kind": "Scholarly source; publisher access may vary."
+      },
+      {
+        "title": "Mertens, Herberz, Hahnel (2021): The effectiveness of nudging: A meta-analysis of choice architecture interventions across behavioral domains",
+        "url": "https://doi.org/10.1073/pnas.2107346118",
+        "kind": "Scholarly source; publisher access may vary."
+      },
+      {
+        "title": "Maier, Bartoš, Stanley (2022): No evidence for nudging after adjusting for publication bias",
+        "url": "https://doi.org/10.1073/pnas.2200300119",
+        "kind": "Scholarly source; publisher access may vary."
+      },
+      {
+        "title": "DellaVigna, Linos (2022): RCTs to Scale: Comprehensive Evidence From Two Nudge Units",
+        "url": "https://doi.org/10.3982/ECTA18709",
+        "kind": "Scholarly source; publisher access may vary."
+      },
+      {
+        "title": "OECD: Behavioural Insights Toolkit and Ethical Framework (BASIC)",
+        "url": "https://doi.org/10.1787/9ea76a8f-en",
+        "kind": "Public-sector design and ethics guidance; not a trial establishing effectiveness."
+      }
+    ]
+  },
+  "9": {
+    "claims": [
+      "Given a fictional evaluation, identify the comparison and assignment unit, interpret an intention-to-treat difference, and state important sources of uncertainty."
+    ],
+    "note": "Randomized evaluations can support causal inference when assignment, measurement and analysis are appropriate. They do not automatically solve interference, missing outcomes, selective reporting or limited applicability to other settings.\n\nThese fictional exercises teach interpretation. Real field research needs suitable expertise, permissions, participant protections and governance; an educational course does not provide that authorization.",
+    "sources": [
+      {
+        "title": "J-PAL: Introduction to randomized evaluations",
+        "url": "https://www.povertyactionlab.org/resource/introduction-randomized-evaluations",
+        "kind": "Open methods guidance; further context and examples."
+      },
+      {
+        "title": "HM Treasury: The Magenta Book — guidance for evaluation",
+        "url": "https://www.gov.uk/government/publications/the-magenta-book",
+        "kind": "Professional guidance on designing and interpreting evaluations."
+      },
+      {
+        "title": "DellaVigna, Linos (2022): RCTs to Scale: Comprehensive Evidence From Two Nudge Units",
+        "url": "https://doi.org/10.3982/ECTA18709",
+        "kind": "Scholarly source; publisher access may vary."
+      }
+    ]
+  },
+  "10": {
+    "claims": [
+      "Given a positive evaluation, judge whether to adapt, expand, investigate or stop using evidence on benefit, distribution, autonomy, implementation and uncertainty."
+    ],
+    "note": "Large operational trials show that effects and their interpretation depend on setting, implementation and the evidence available for comparison. Debate about choice-architecture meta-analysis also highlights how publication and analytic assumptions can affect broad claims.\n\nNeither a positive average nor a behavioural label settles welfare, fairness or consent. State the decision criteria, relevant uncertainty, alternatives and conditions for further review.",
+    "sources": [
+      {
+        "title": "DellaVigna, Linos (2022): RCTs to Scale: Comprehensive Evidence From Two Nudge Units",
+        "url": "https://doi.org/10.3982/ECTA18709",
+        "kind": "Scholarly source; publisher access may vary."
+      },
+      {
+        "title": "Mertens, Herberz, Hahnel (2021): The effectiveness of nudging: A meta-analysis of choice architecture interventions across behavioral domains",
+        "url": "https://doi.org/10.1073/pnas.2107346118",
+        "kind": "Scholarly source; publisher access may vary."
+      },
+      {
+        "title": "Maier, Bartoš, Stanley (2022): No evidence for nudging after adjusting for publication bias",
+        "url": "https://doi.org/10.1073/pnas.2200300119",
+        "kind": "Scholarly source; publisher access may vary."
+      },
+      {
+        "title": "OECD: Behavioural Insights Toolkit and Ethical Framework (BASIC)",
+        "url": "https://doi.org/10.1787/9ea76a8f-en",
+        "kind": "Public-sector design and ethics guidance; not a trial establishing effectiveness."
+      },
+      {
+        "title": "HM Treasury: The Magenta Book — guidance for evaluation",
+        "url": "https://www.gov.uk/government/publications/the-magenta-book",
+        "kind": "Professional guidance on designing and interpreting evaluations."
+      }
+    ]
+  }
+}
