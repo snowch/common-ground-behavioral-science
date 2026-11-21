@@ -1,0 +1,13 @@
+{
+  "recap_pages": 2,
+  "widths": [
+    320,
+    390,
+    768,
+    1024,
+    1440
+  ],
+  "new_figure_text_bounds": "passed",
+  "new_terms_keyboard_definitions": "passed",
+  "js_errors": []
+}

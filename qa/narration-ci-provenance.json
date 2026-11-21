@@ -1,0 +1,21 @@
+{
+  "commit": "a15d1b66c07d67a2d5858c70088f51bb077927f8",
+  "run_id": "44903886077",
+  "inputs": {
+    "course.json": "c6a416b532da31758b1f4aa2698dd86f193f4fc8af45ad83cda7223e74e0e0ed",
+    "production/af-heart/scenes.json": "24d39adb4d0dee38607843dd67a4d73c7d46726aa26cc9747712a30ddd64629b"
+  },
+  "voice": "af_heart",
+  "speed": 1.0,
+  "render_workers_per_job": 4,
+  "production_jobs": 4,
+  "scope": "Baseline production. Two standalone recaps are regenerated locally with the same pinned backend, voice and speed; current screening and manifest bind the final audio.",
+  "local_recap_changes": [
+    "c08s04",
+    "c09s03"
+  ],
+  "local_speech_clarifications": [
+    "c04s02-feedback-1",
+    "c04s04"
+  ]
+}

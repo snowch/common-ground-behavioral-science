@@ -1,0 +1,247 @@
+{
+  "method": "Additional independent transcription of flagged clips and chapter explanation samples; not listening approval.",
+  "clips": [
+    {
+      "id": "c01s03",
+      "expected": "Behavioural science brings psychology into conversation with economics, sociology and other fields. A target behaviour names an action and its circumstances. An outcome states why that action matters.\n\nFor the café, completing a booking is an action; receiving a useful repair is a wider outcome. More clicks could leave that outcome unchanged if no appointments are available.",
+      "heard": "Behavioral science brings psychology into conversation with economics, sociology, and other fields. A target behavior names an action and its circumstances. An outcome states why that action matters. For the cafe, completing a booking is an action. Receiving a useful repair is a wider outcome. More clicks could leave that outcome unchanged if no appointments are available.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 25.098,
+      "wpm": 139.9,
+      "peak": 0.580780029296875,
+      "flags": [],
+      "raw_sha256": "c42f3e0135e301fd43219cb66f5b751af3c27a106d5837c482486e5483ce08bd"
+    },
+    {
+      "id": "c02s03",
+      "expected": "Administrative burden concerns costs experienced in an interaction. Learning cost includes finding a rule; compliance cost includes completing the required steps.\n\nAn instruction that looks brief to its author may require travel, documents and repeated calls. Map the journey from the participant’s position, including failed attempts. The number of screens alone does not measure the total burden.",
+      "heard": "Administrative burden concerns costs experienced in an interaction. Learning cost includes finding a rule. Compliance cost includes completing the required steps. An instruction that looks brief to its author may require travel, documents, and repeated calls. Map the journey from the participant's position, including failed attempts. The number of screens alone does not measure the total burden.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 25.119,
+      "wpm": 139.8,
+      "peak": 0.509307861328125,
+      "flags": [],
+      "raw_sha256": "d39a95b3aa97de3f82e660ecf785563e8adc0c8c950bc663e9da5e8ea9e79020"
+    },
+    {
+      "id": "c02s05",
+      "expected": "Administrative-burden research distinguishes learning, compliance and psychological costs. These categories help investigate unequal access, but they do not imply that every requirement is unnecessary. Some requirements serve legitimate safety or eligibility purposes.\n\nEvaluate simplification alongside its consequences, service capacity and accessible alternatives. A shorter process is not sufficient evidence of a fairer outcome.",
+      "heard": "Administrative burden research distinguishes learning, compliance, and psychological costs. These categories help investigate unequal access, but they do not imply that every requirement is unnecessary. Some requirements serve legitimate safety or eligibility purposes. Evaluate simplification alongside its consequences, service capacity, and accessible alternatives. A shorter process is not sufficient evidence of a fairer outcome.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 29.13,
+      "wpm": 113.8,
+      "peak": 0.5509033203125,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "865c8a7429f28e8952bc884cc5192033524894fcb3e90347b49c0bda47d75a3d"
+    },
+    {
+      "id": "c02s07-answers",
+      "expected": "Learning costs concern understanding requirements; compliance costs concern meeting them; psychological costs include stress, stigma and loss of autonomy.\n\nPeople face different resources, needs and constraints. Capacity and accessible alternatives can remain unequal.",
+      "heard": "Learning costs concern understanding requirements. Compliance costs concern meeting them. Psychological costs include stress, stigma, and loss of autonomy. People face different resources, needs, and constraints. Capacity and accessible alternatives can remain unequal.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 18.951,
+      "wpm": 114.4,
+      "peak": 0.4417724609375,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "be3e2457d9f22b78a14b614f3aa790a1a32c605f9f113fc6b4a0cde8b9770fe9"
+    },
+    {
+      "id": "c03s02-feedback-2",
+      "expected": "This tests a specific proposal while keeping attention and attendance distinct.",
+      "heard": "This tests a specific proposal while keeping attention and attendance distinct.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 4.629,
+      "wpm": 142.6,
+      "peak": 0.58306884765625,
+      "flags": [],
+      "raw_sha256": "1243a287cbc69b9d325656ed20f3ef9e6d88172da75a907ef2a9ec3c75277261"
+    },
+    {
+      "id": "c03s03",
+      "expected": "Limited attention means that relevant information may not come to mind when needed. Salience concerns what stands out; a reminder is a cue intended to bring an action back to mind.\n\nA clear appointment time near the moment of planning may help. A brightly coloured message can also be noticed without making the visit feasible. Distinguish noticing from understanding and acting.",
+      "heard": "Limited attention means that relevant information may not come to mind when needed. Salience concerns what stands out. A reminder is a cue intended to bring an action back to mind. A clear appointment time near the moment of planning may help. A brightly colored message can also be noticed without making the visit feasible. Distinguish noticing from understanding and acting.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 24.394,
+      "wpm": 154.1,
+      "peak": 0.49407958984375,
+      "flags": [],
+      "raw_sha256": "f3e74ddf9bff24079a63d45c892fcb7f2ae1aea14f4b67ba765e3b4fb5e59ccf"
+    },
+    {
+      "id": "c04s03",
+      "expected": "A framing effect concerns the description of a choice. A reference point supplies a comparison standard. Loss aversion describes a pattern in some models and settings; it is not a universal rule about every person.\n\nCalling a membership change a gain or a loss can highlight different comparisons. Changing the actual price or eligibility is a different intervention from changing the description.",
+      "heard": "a framing effect concerns the description of a choice. A reference point supplies a comparison standard. Loss aversion describes a pattern in some models and settings. It is not a universal rule about every person. Calling a membership change a gain or a loss can highlight different comparisons. Changing the actual price or eligibility is a different intervention from changing the description.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 25.162,
+      "wpm": 151.8,
+      "peak": 0.519622802734375,
+      "flags": [],
+      "raw_sha256": "4d292fba51fbe6cdc129e99534686b68db999e6c2b896282bc30ca961319668e"
+    },
+    {
+      "id": "c04s05",
+      "expected": "Research documents framing and default effects in specified settings, including retirement-saving decisions. Multiple mechanisms and contextual differences limit simple predictions about a new service.\n\nA model of loss aversion is not a licence to invent threats or obscure a price. Ethical evaluation includes understanding, accessible alternatives and unwanted consequences alongside uptake.",
+      "heard": "Research documents framing and default effects in specified settings, including retirement saving decisions. Multiple mechanisms and contextual differences limit simple predictions about a new service. A model of loss aversion is not a license to invent threats or obscure a price. Ethical evaluation includes understanding, accessible alternatives, and unwanted consequences alongside uptake.",
+      "ratio": 0.9808,
+      "model": "small.en",
+      "duration": 26.911,
+      "wpm": 118.8,
+      "peak": 0.473297119140625,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "d46d4f70372b9a9fe9a186d9fb70dd3b448f3819bb15b1c4d2d85bd9007535d3"
+    },
+    {
+      "id": "c04s06-feedback-0",
+      "expected": "Changing price and wording together prevents attribution to wording alone.",
+      "heard": "Changing price and wording together prevents attribution to wording alone.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 5.395,
+      "wpm": 136.5,
+      "peak": 0.4395751953125,
+      "flags": [],
+      "raw_sha256": "4eca0e8a1fc70d41a6325540649b7d8027c1ef52dc679c50babf9d5631f3d99d"
+    },
+    {
+      "id": "c05s03",
+      "expected": "Present bias concerns disproportionate emphasis on immediacy; time inconsistency concerns a change in preferred plans as a decision approaches. A constraint can instead make action genuinely unavailable.\n\nSam might value volunteering but avoid today’s form. Jo may be unable to select a shift without a work schedule. Observing delay alone cannot identify either person’s preferences or prove a self-control problem.",
+      "heard": "Present bias concerns disproportionate emphasis on immediacy. Time inconsistency concerns a change in preferred plans as a decision approaches. A constraint can instead make action genuinely unavailable. SAM might value volunteering, but avoid today's form. Joe may be unable to select a shift without a work schedule. Observing delay alone cannot identify either person's preferences or prove a self-control problem.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 29.279,
+      "wpm": 127.8,
+      "peak": 0.473968505859375,
+      "flags": [],
+      "raw_sha256": "6ed5e9a7f507a8984bc2852617b3d4f9b70ac15d0e2d23ae5122ef763a6dbc56"
+    },
+    {
+      "id": "c06s03",
+      "expected": "A descriptive norm concerns what people commonly do. An injunctive norm concerns approval. A reference group specifies whose behaviour or approval is relevant.\n\nA sign about other café visitors differs from a statement about national habits. Neither establishes what this visitor values. Before using a norm message, check that its claim is accurate and its comparison group makes sense.",
+      "heard": "A descriptive norm concerns what people commonly do. An injunctive norm concerns approval. A reference group specifies whose behavior or approval is relevant. A sign about other cafe visitors differs from a statement about national habits. Neither establishes what this visitor values. Before using a norm message, check that its claim is accurate and its comparison group makes sense.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 24.821,
+      "wpm": 146.5,
+      "peak": 0.555084228515625,
+      "flags": [],
+      "raw_sha256": "94ab4510ff569352792ae453ba2fa9c87f86ea5116233be80dc058ce2a96a8f9"
+    },
+    {
+      "id": "c07s03",
+      "expected": "An incentive changes the relative attractiveness of actions. Reimbursement repays a cost; opportunity cost concerns the alternative a person gives up. These can overlap in practice but answer different questions.\n\nTravel reimbursement may make a shift affordable. A payment for repair count rewards a particular result. Neither proposal should be evaluated by a general claim that money either solves motivation or damages it.",
+      "heard": "An incentive changes the relative attractiveness of actions. Reimbursement repays a cost. Opportunity cost concerns the alternative a person gives up. These can overlap in practice, but answer different questions. Travel reimbursement may make a shift affordable. A payment for repair count rewards a particular result. Neither proposal should be evaluated by a general claim that money either solves motivation or damages it. You",
+      "ratio": 0.9921,
+      "model": "small.en",
+      "duration": 28.49,
+      "wpm": 135.8,
+      "peak": 0.47357177734375,
+      "flags": [],
+      "raw_sha256": "298b587f24c7efb6eb0dcbab968454337096569ba49d9cae693f325a0f799906"
+    },
+    {
+      "id": "c07s06-feedback-2",
+      "expected": "A possible distortion needs evidence; it is not established by a count alone.",
+      "heard": "A possible distortion needs evidence. It is not established by account alone.",
+      "ratio": 0.88,
+      "model": "small.en",
+      "duration": 5.629,
+      "wpm": 168.5,
+      "peak": 0.44757080078125,
+      "flags": [
+        "words"
+      ],
+      "raw_sha256": "750e833fb6ef4d13662fda06f340cc7ab0f5da3d43f27139f7f516ae153176fb"
+    },
+    {
+      "id": "c08s03",
+      "expected": "A theory of change links a change to a proposed process and outcome. An assumption states a condition that link relies on. A counterfactual asks what would happen under an alternative condition.\n\nA reminder assumes that forgetting is relevant, the message is understood, and a feasible appointment exists. Compare it with the current approach and with a material response such as suitable opening hours.",
+      "heard": "A theory of change links a change to a proposed process and outcome. An assumption states a condition that link relies on. A counterfactual asks what would happen under an alternative condition. A reminder assumes that forgetting is relevant, the message is understood, and a feasible appointment exists. Compare it with the current approach and with a material response such as suitable opening hours.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 25.546,
+      "wpm": 154.2,
+      "peak": 0.4139404296875,
+      "flags": [],
+      "raw_sha256": "6aca1d6f30d77cd6423369981dda2692172aa32bc386c26222b04f96aa407f05"
+    },
+    {
+      "id": "c08s06-feedback-0",
+      "expected": "The pilot’s design supports practical learning without automatically establishing impact.",
+      "heard": "The pilot's design supports practical learning without automatically establishing impact.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 6.269,
+      "wpm": 113.9,
+      "peak": 0.359222412109375,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "57f72ac32170e53841855cdf1b6c7c9077618bf533efdf7b292ef4b178bf68b8"
+    },
+    {
+      "id": "c09s03",
+      "expected": "A causal effect compares an intervention with a specified alternative. Random assignment uses chance to allocate an assignment unit, such as a person or a workshop.\n\nA simultaneous comparison can help distinguish the reminder from changes in weather or available slots. If people share messages within a workshop, consider whether assigning workshops is more appropriate. Random assignment allocates units to conditions; random sampling selects units from a population using chance. These procedures answer different questions.",
+      "heard": "A causal effect compares an intervention with a specified alternative. Random assignment uses chance to allocate an assignment unit, such as a person or a workshop. A simultaneous comparison can help distinguish the reminder from changes in weather or available slots. If people share messages within a workshop, consider whether assigning workshops is more appropriate. Random assignment allocates units to conditions. sampling selects units from a population using chance. These procedures answer different questions.",
+      "ratio": 0.9933,
+      "model": "small.en",
+      "duration": 33.525,
+      "wpm": 136.9,
+      "peak": 0.46539306640625,
+      "flags": [],
+      "raw_sha256": "24265c68a99d2b8b39b71c88425ea2bc66b4aa6c9bb81771fcdf0e84818b621b"
+    },
+    {
+      "id": "c09s05",
+      "expected": "Randomized evaluations can support causal inference when assignment, measurement and analysis are appropriate. They do not automatically solve interference, missing outcomes, selective reporting or limited applicability to other settings.\n\nThese fictional exercises teach interpretation. Real field research needs suitable expertise, permissions, participant protections and governance; an educational course does not provide that authorization.",
+      "heard": "Randomized evaluations can support causal inference when assignment, measurement, and analysis are appropriate. They do not automatically solve interference, missing outcomes, selective reporting, or limited applicability to other settings. These fictional exercises teach interpretation. Real field research needs suitable expertise, permissions, participant protections, and governance. An educational course does not provide that authorization.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 29.429,
+      "wpm": 110.5,
+      "peak": 0.5552978515625,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "42796207b73792fb235d09e5f760409d0549bc0c76228948347c093f9bcc9432"
+    },
+    {
+      "id": "c10s03",
+      "expected": "An average treatment effect summarizes a defined comparison, not a benefit for every person. Equity asks about fair opportunities and distribution. Opportunity cost concerns what another use of the resources could achieve.\n\nAn attendance gain could coexist with unwanted contacts or exclusion of people needing a phone route. Examine these consequences and compare feasible alternatives, including a service-capacity change. A dashboard average cannot make the value judgment on its own.",
+      "heard": "An average treatment effect summarizes a defined comparison, not a benefit for every person. Equity asks about fair opportunities and distribution. Opportunity cost concerns what another use of the resources could achieve. An attendance gain could coexist with unwanted contacts or exclusion of people needing a phone route. Examine these consequences and compare feasible alternatives, including a service capacity change. A dashboard average cannot make the value judgment on its own.",
+      "ratio": 1.0,
+      "model": "small.en",
+      "duration": 32.501,
+      "wpm": 133.7,
+      "peak": 0.628143310546875,
+      "flags": [],
+      "raw_sha256": "7eed71f84b77eafeb7af39ed160a360264f9ebf3e5fd2ac0b5e89c435660a733"
+    },
+    {
+      "id": "c10s05",
+      "expected": "Large operational trials show that effects and their interpretation depend on setting, implementation and the evidence available for comparison. Debate about choice-architecture meta-analysis also highlights how publication and analytic assumptions can affect broad claims.\n\nNeither a positive average nor a behavioural label settles welfare, fairness or consent. State the decision criteria, relevant uncertainty, alternatives and conditions for further review.",
+      "heard": "Large operational trials show that effects and their interpretation depend on setting, implementation, and the evidence available for comparison. Debate about choice architecture meta-analysis also highlights how publication and analytic assumptions can affect broad claims. Neither a positive average nor a behavioral label settles welfare, fairness, or consent. the decision criteria, relevant uncertainty, alternatives and conditions for further review.",
+      "ratio": 0.9917,
+      "model": "small.en",
+      "duration": 31.583,
+      "wpm": 118.3,
+      "peak": 0.495819091796875,
+      "flags": [
+        "pace"
+      ],
+      "raw_sha256": "2dcd03df26bf15285e05e4980c0a202b5b9427a78d332b3f35c2d25c9915ba36"
+    }
+  ]
+}

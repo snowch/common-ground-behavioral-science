@@ -282,7 +282,7 @@ c04s02-feedback-0 Chapter 4: feedback 1
 This evaluates informed choice and consequences as well as the service’s retention goal.
 
 c04s02-feedback-1 Chapter 4: feedback 2
-Retention can reflect inattention or effort as well as a positive preference.
+People may keep a membership because they did not notice an option, found switching difficult, or preferred to stay.
 
 c04s02-feedback-2 Chapter 4: feedback 3
 Wording does not remove the need for meaningful control over a charge.
@@ -298,7 +298,7 @@ A default option applies when someone does not actively select otherwise. Status
 An automatic renewal could increase retention while leaving some people with an unwanted charge. Its uptake does not show that every retained member preferred it.
 
 c04s04 Chapter 4: A higher uptake rate is not the whole evaluation.
-Informed choice needs understandable information. A switching cost can make an unwanted option hard to escape. Welfare concerns the consequences for people, not simply the service’s preferred uptake rate.
+Informed choice needs understandable information. A switching cost can make an unwanted option hard to escape. Welfare concerns the consequences for people, not simply how many memberships the service retains.
 
 Show the price and renewal date clearly, offer an accessible cancellation route, and ask about unwanted charges. A default should not be treated as permission to hide information or manufacture agreement.
 
@@ -654,6 +654,8 @@ A design framework can help generate ideas. A pilot or feasibility study address
 
 Check whether staff can deliver the change, visitors can use it, and outcomes can be measured. Then use an appropriate evaluation. Keep a record of rejected alternatives so a convenient message does not crowd out a better response to the diagnosed barrier.
 
+Publication bias means that the published record can depend on which results are obtained. Reports of attractive successes may omit null or unwanted results. Seek a fuller record when assessing broad claims.
+
 c08s05 Chapter 8: What does the evidence allow?
 Choice-architecture reviews reach different conclusions depending on included studies and assumptions about publication bias. Large operational trials also show that published academic effects should not be transferred mechanically to a new service.
 
@@ -730,7 +732,7 @@ Receiving the message does not reveal what attendance would otherwise have been.
 c09s03 Chapter 9: Before-and-after is not the only possible comparison.
 A causal effect compares an intervention with a specified alternative. Random assignment uses chance to allocate an assignment unit, such as a person or a workshop.
 
-A simultaneous comparison can help distinguish the reminder from changes in weather or available slots. If people share messages within a workshop, consider whether assigning workshops is more appropriate. Random assignment and random sampling are different procedures.
+A simultaneous comparison can help distinguish the reminder from changes in weather or available slots. If people share messages within a workshop, consider whether assigning workshops is more appropriate. Random assignment allocates units to conditions; random sampling selects units from a population using chance. These procedures answer different questions.
 
 c09s03b Chapter 9: Keep the denominator that matches the question.
 Intention-to-treat analysis compares people in their assigned conditions, including those who did not open a message. A percentage point is a difference between percentages. Attrition concerns missing outcome observations.

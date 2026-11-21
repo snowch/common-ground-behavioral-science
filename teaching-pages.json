@@ -588,7 +588,7 @@
         "Switching cost: effort or expense involved in changing an option",
         "Welfare: effects on people’s interests and wellbeing"
       ],
-      "text": "Informed choice needs understandable information. A switching cost can make an unwanted option hard to escape. Welfare concerns the consequences for people, not simply the service’s preferred uptake rate.\n\nShow the price and renewal date clearly, offer an accessible cancellation route, and ask about unwanted charges. A default should not be treated as permission to hide information or manufacture agreement.",
+      "text": "Informed choice needs understandable information. A switching cost can make an unwanted option hard to escape. Welfare concerns the consequences for people, not simply how many memberships the service retains.\n\nShow the price and renewal date clearly, offer an accessible cancellation route, and ask about unwanted charges. A default should not be treated as permission to hide information or manufacture agreement.",
       "stage": "Explanation",
       "visual": "c04s04",
       "research": {
@@ -1304,9 +1304,10 @@
       "points": [
         "Design framework: a structure for generating and reviewing proposals",
         "Pilot: a small implementation used to examine feasibility or other specified questions",
-        "Feasibility study: investigation of whether a proposed implementation or evaluation can be carried out"
+        "Feasibility study: investigation of whether a proposed implementation or evaluation can be carried out",
+        "Publication bias: dependence of publication on research results"
       ],
-      "text": "A design framework can help generate ideas. A pilot or feasibility study addresses specified practical questions; a small positive result does not automatically establish effectiveness.\n\nCheck whether staff can deliver the change, visitors can use it, and outcomes can be measured. Then use an appropriate evaluation. Keep a record of rejected alternatives so a convenient message does not crowd out a better response to the diagnosed barrier.",
+      "text": "A design framework can help generate ideas. A pilot or feasibility study addresses specified practical questions; a small positive result does not automatically establish effectiveness.\n\nCheck whether staff can deliver the change, visitors can use it, and outcomes can be measured. Then use an appropriate evaluation. Keep a record of rejected alternatives so a convenient message does not crowd out a better response to the diagnosed barrier.\n\nPublication bias means that the published record can depend on which results are obtained. Reports of attractive successes may omit null or unwanted results. Seek a fuller record when assessing broad claims.",
       "stage": "Explanation",
       "visual": "c08s04",
       "research": {
@@ -1424,9 +1425,10 @@
       "points": [
         "Causal effect: a difference attributable to an intervention relative to a specified alternative",
         "Random assignment: allocation to conditions using a chance process",
-        "Assignment unit: the person or group allocated to a condition"
+        "Assignment unit: the person or group allocated to a condition",
+        "Random sampling: selection of units from a population using a chance process"
       ],
-      "text": "A causal effect compares an intervention with a specified alternative. Random assignment uses chance to allocate an assignment unit, such as a person or a workshop.\n\nA simultaneous comparison can help distinguish the reminder from changes in weather or available slots. If people share messages within a workshop, consider whether assigning workshops is more appropriate. Random assignment and random sampling are different procedures.",
+      "text": "A causal effect compares an intervention with a specified alternative. Random assignment uses chance to allocate an assignment unit, such as a person or a workshop.\n\nA simultaneous comparison can help distinguish the reminder from changes in weather or available slots. If people share messages within a workshop, consider whether assigning workshops is more appropriate. Random assignment allocates units to conditions; random sampling selects units from a population using chance. These procedures answer different questions.",
       "stage": "Explanation",
       "visual": "c09s03",
       "research": {
@@ -1441,7 +1443,7 @@
           },
           {
             "heading": "The example and its limits",
-            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. Design and implementation still matter; random assignment is not a guarantee of perfect evidence."
+            "text": "The café and transfer cases are original fictional examples, not participants or results from the cited studies. Chance serves different roles; design, measurement and coverage still matter."
           }
         ],
         "sources": [

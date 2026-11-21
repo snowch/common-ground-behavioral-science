@@ -1,0 +1,25 @@
+{
+  "c04s05": {
+    "raw_sha256": "d46d4f70372b9a9fe9a186d9fb70dd3b448f3819bb15b1c4d2d85bd9007535d3",
+    "accept": true,
+    "reason": "Licence/license is British/American spelling of the same spoken word; the remaining additional transcript agrees. The current bounded waveform and phoneme trace were checked. Automated evidence, not human listening approval."
+  },
+  "c07s06-feedback-2": {
+    "raw_sha256": "750e833fb6ef4d13662fda06f340cc7ab0f5da3d43f27139f7f516ae153176fb",
+    "accept": true,
+    "reason": "The additional decoder joins a count as account. These share the spoken sequence /ə kaʊnt/; the pinned phoneme trace specifies the article followed by count, in a passage about a measured count. There is no change in the spoken sequence. The current bounded waveform and phoneme trace were checked. Automated evidence, not human listening approval."
+  },
+  "c10s05": {
+    "raw_sha256": "2dcd03df26bf15285e05e4980c0a202b5b9427a78d332b3f35c2d25c9915ba36",
+    "accept": true,
+    "reason": "The full decoder omits State, but the independent final-twelve-second transcription of this exact WAV recovers State the decision criteria, relevant uncertainty, alternatives and conditions for further review. All other words agree. The current bounded waveform and phoneme trace were checked. Automated evidence, not human listening approval.",
+    "crop_check": {
+      "id": "c10s05",
+      "window": "end",
+      "method": "Additional small.en check with voice activity filtering; final twelve seconds where indicated.",
+      "expected": "Large operational trials show that effects and their interpretation depend on setting, implementation and the evidence available for comparison. Debate about choice-architecture meta-analysis also highlights how publication and analytic assumptions can affect broad claims.\n\nNeither a positive average nor a behavioural label settles welfare, fairness or consent. State the decision criteria, relevant uncertainty, alternatives and conditions for further review.",
+      "heard": "positive average nor a behavioral label settles welfare, fairness, or consent. State the decision criteria, relevant uncertainty, alternatives, and conditions for further review.",
+      "raw_sha256": "2dcd03df26bf15285e05e4980c0a202b5b9427a78d332b3f35c2d25c9915ba36"
+    }
+  }
+}

@@ -308,8 +308,8 @@
   {
     "id": "c04s02-feedback-1",
     "step": "Chapter 4: feedback 2",
-    "text": "Retention can reflect inattention or effort as well as a positive preference.",
-    "say": "Retention can reflect inattention or effort as well as a positive preference."
+    "text": "People may keep a membership because they did not notice an option, found switching difficult, or preferred to stay.",
+    "say": "People may keep a membership because they did not notice an option, found switching difficult, or preferred to stay."
   },
   {
     "id": "c04s02-feedback-2",
@@ -332,8 +332,8 @@
   {
     "id": "c04s04",
     "step": "Chapter 4: A higher uptake rate is not the whole evaluation.",
-    "text": "Informed choice needs understandable information. A switching cost can make an unwanted option hard to escape. Welfare concerns the consequences for people, not simply the service’s preferred uptake rate.\n\nShow the price and renewal date clearly, offer an accessible cancellation route, and ask about unwanted charges. A default should not be treated as permission to hide information or manufacture agreement.",
-    "say": "Informed choice needs understandable information. A switching cost can make an unwanted option hard to escape. Welfare concerns the consequences for people, not simply the service’s preferred uptake rate. [pause 0.65] Show the price and renewal date clearly, offer an accessible cancellation route, and ask about unwanted charges. A default should not be treated as permission to hide information or manufacture agreement."
+    "text": "Informed choice needs understandable information. A switching cost can make an unwanted option hard to escape. Welfare concerns the consequences for people, not simply how many memberships the service retains.\n\nShow the price and renewal date clearly, offer an accessible cancellation route, and ask about unwanted charges. A default should not be treated as permission to hide information or manufacture agreement.",
+    "say": "Informed choice needs understandable information. A switching cost can make an unwanted option hard to escape. Welfare concerns the consequences for people, not simply how many memberships the service retains. [pause 0.65] Show the price and renewal date clearly, offer an accessible cancellation route, and ask about unwanted charges. A default should not be treated as permission to hide information or manufacture agreement."
   },
   {
     "id": "c04s05",
@@ -716,8 +716,8 @@
   {
     "id": "c08s04",
     "step": "Chapter 8: A memorable checklist is not evidence of impact.",
-    "text": "A design framework can help generate ideas. A pilot or feasibility study addresses specified practical questions; a small positive result does not automatically establish effectiveness.\n\nCheck whether staff can deliver the change, visitors can use it, and outcomes can be measured. Then use an appropriate evaluation. Keep a record of rejected alternatives so a convenient message does not crowd out a better response to the diagnosed barrier.",
-    "say": "A design framework can help generate ideas. A pilot or feasibility study addresses specified practical questions; a small positive result does not automatically establish effectiveness. [pause 0.65] Check whether staff can deliver the change, visitors can use it, and outcomes can be measured. Then use an appropriate evaluation. Keep a record of rejected alternatives so a convenient message does not crowd out a better response to the diagnosed barrier."
+    "text": "A design framework can help generate ideas. A pilot or feasibility study addresses specified practical questions; a small positive result does not automatically establish effectiveness.\n\nCheck whether staff can deliver the change, visitors can use it, and outcomes can be measured. Then use an appropriate evaluation. Keep a record of rejected alternatives so a convenient message does not crowd out a better response to the diagnosed barrier.\n\nPublication bias means that the published record can depend on which results are obtained. Reports of attractive successes may omit null or unwanted results. Seek a fuller record when assessing broad claims.",
+    "say": "A design framework can help generate ideas. A pilot or feasibility study addresses specified practical questions; a small positive result does not automatically establish effectiveness. [pause 0.65] Check whether staff can deliver the change, visitors can use it, and outcomes can be measured. Then use an appropriate evaluation. Keep a record of rejected alternatives so a convenient message does not crowd out a better response to the diagnosed barrier. [pause 0.65] Publication bias means that the published record can depend on which results are obtained. Reports of attractive successes may omit null or unwanted results. Seek a fuller record when assessing broad claims."
   },
   {
     "id": "c08s05",
@@ -800,8 +800,8 @@
   {
     "id": "c09s03",
     "step": "Chapter 9: Before-and-after is not the only possible comparison.",
-    "text": "A causal effect compares an intervention with a specified alternative. Random assignment uses chance to allocate an assignment unit, such as a person or a workshop.\n\nA simultaneous comparison can help distinguish the reminder from changes in weather or available slots. If people share messages within a workshop, consider whether assigning workshops is more appropriate. Random assignment and random sampling are different procedures.",
-    "say": "A causal effect compares an intervention with a specified alternative. Random assignment uses chance to allocate an assignment unit, such as a person or a workshop. [pause 0.65] A simultaneous comparison can help distinguish the reminder from changes in weather or available slots. If people share messages within a workshop, consider whether assigning workshops is more appropriate. Random assignment and random sampling are different procedures."
+    "text": "A causal effect compares an intervention with a specified alternative. Random assignment uses chance to allocate an assignment unit, such as a person or a workshop.\n\nA simultaneous comparison can help distinguish the reminder from changes in weather or available slots. If people share messages within a workshop, consider whether assigning workshops is more appropriate. Random assignment allocates units to conditions; random sampling selects units from a population using chance. These procedures answer different questions.",
+    "say": "A causal effect compares an intervention with a specified alternative. Random assignment uses chance to allocate an assignment unit, such as a person or a workshop. [pause 0.65] A simultaneous comparison can help distinguish the reminder from changes in weather or available slots. If people share messages within a workshop, consider whether assigning workshops is more appropriate. Random assignment allocates units to conditions; random sampling selects units from a population using chance. These procedures answer different questions."
   },
   {
     "id": "c09s03b",

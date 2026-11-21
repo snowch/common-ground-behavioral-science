@@ -1,0 +1,96 @@
+[
+  {
+    "id": "c04s02-feedback-1",
+    "window": "full",
+    "method": "Additional small.en check with voice activity filtering; final twelve seconds where indicated.",
+    "expected": "Retention can reflect inattention or effort as well as a positive preference.",
+    "heard": "Retention can reflect an attention or effort, as well as a positive preference.",
+    "raw_sha256": "84a50ae6d2fdefed25ed6a043f280327d832a46e2935595f74381129e536dc1b",
+    "scope": "Diagnostic before the final wording clarification."
+  },
+  {
+    "id": "c04s04",
+    "window": "full",
+    "method": "Additional small.en check with voice activity filtering; final twelve seconds where indicated.",
+    "expected": "Informed choice needs understandable information. A switching cost can make an unwanted option hard to escape. Welfare concerns the consequences for people, not simply the service’s preferred uptake rate.\n\nShow the price and renewal date clearly, offer an accessible cancellation route, and ask about unwanted charges. A default should not be treated as permission to hide information or manufacture agreement.",
+    "heard": "Informed choice needs understandable information. A switching cost can make an unwanted option hard to escape. Welfare concerns the consequences for people, not simply the service's preferred update rate. Show the price and renewal date clearly, offer an accessible cancellation route, and ask about unwanted charges. A default should not be treated as permission to hide information or manufacture agreement.",
+    "raw_sha256": "09c2b2f72d7d67b8583245f841af883c247308b052bb2d56c30038e21fe9d80b",
+    "scope": "Diagnostic before the final wording clarification."
+  },
+  {
+    "id": "c05s07",
+    "window": "full",
+    "method": "Additional small.en check with voice activity filtering; final twelve seconds where indicated.",
+    "expected": "Try these questions without your notes.\n\nWhy is delay insufficient evidence of present bias?\n\nWhat makes an implementation intention more than a general aspiration?\n\nReveal the suggested answers after trying.",
+    "heard": "Try these questions without your notes. Why is delay insufficient evidence of present bias? What makes an implementation intention more than a general aspiration? Reveal the suggested answers after trying.",
+    "raw_sha256": "ec499f9fb1b2834623b734994beb9b6d5fb9deffae91c4d0aef36f81eee73f75"
+  },
+  {
+    "id": "c07s03",
+    "window": "full",
+    "method": "Additional small.en check with voice activity filtering; final twelve seconds where indicated.",
+    "expected": "An incentive changes the relative attractiveness of actions. Reimbursement repays a cost; opportunity cost concerns the alternative a person gives up. These can overlap in practice but answer different questions.\n\nTravel reimbursement may make a shift affordable. A payment for repair count rewards a particular result. Neither proposal should be evaluated by a general claim that money either solves motivation or damages it.",
+    "heard": "An incentive changes the relative attractiveness of actions. Reimbursement repays a cost. Opportunity cost concerns the alternative a person gives up. These can overlap in practice but answer different questions. Travel reimbursement may make a shift affordable. A payment for repair count rewards a particular result. Neither proposal should be evaluated by a general claim that money either solves motivation or damages it.",
+    "raw_sha256": "298b587f24c7efb6eb0dcbab968454337096569ba49d9cae693f325a0f799906"
+  },
+  {
+    "id": "c07s03",
+    "window": "end",
+    "method": "Additional small.en check with voice activity filtering; final twelve seconds where indicated.",
+    "expected": "An incentive changes the relative attractiveness of actions. Reimbursement repays a cost; opportunity cost concerns the alternative a person gives up. These can overlap in practice but answer different questions.\n\nTravel reimbursement may make a shift affordable. A payment for repair count rewards a particular result. Neither proposal should be evaluated by a general claim that money either solves motivation or damages it.",
+    "heard": "affordable. A payment for repair count rewards a particular result. Neither proposal should be evaluated by a general claim that money either solves motivation or damages it.",
+    "raw_sha256": "298b587f24c7efb6eb0dcbab968454337096569ba49d9cae693f325a0f799906"
+  },
+  {
+    "id": "c10s05",
+    "window": "full",
+    "method": "Additional small.en check with voice activity filtering; final twelve seconds where indicated.",
+    "expected": "Large operational trials show that effects and their interpretation depend on setting, implementation and the evidence available for comparison. Debate about choice-architecture meta-analysis also highlights how publication and analytic assumptions can affect broad claims.\n\nNeither a positive average nor a behavioural label settles welfare, fairness or consent. State the decision criteria, relevant uncertainty, alternatives and conditions for further review.",
+    "heard": "Large operational trials show that effects and their interpretation depend on setting, implementation, and the evidence available for comparison. Debate about choice architecture meta-analysis also highlights how publication and analytic assumptions can affect broad claims. Neither a positive average nor a behavioral label settles welfare, fairness, or consent. the decision criteria, relevant uncertainty, alternatives, and conditions for further review.",
+    "raw_sha256": "2dcd03df26bf15285e05e4980c0a202b5b9427a78d332b3f35c2d25c9915ba36"
+  },
+  {
+    "id": "c10s05",
+    "window": "end",
+    "method": "Additional small.en check with voice activity filtering; final twelve seconds where indicated.",
+    "expected": "Large operational trials show that effects and their interpretation depend on setting, implementation and the evidence available for comparison. Debate about choice-architecture meta-analysis also highlights how publication and analytic assumptions can affect broad claims.\n\nNeither a positive average nor a behavioural label settles welfare, fairness or consent. State the decision criteria, relevant uncertainty, alternatives and conditions for further review.",
+    "heard": "positive average nor a behavioral label settles welfare, fairness, or consent. State the decision criteria, relevant uncertainty, alternatives, and conditions for further review.",
+    "raw_sha256": "2dcd03df26bf15285e05e4980c0a202b5b9427a78d332b3f35c2d25c9915ba36"
+  },
+  {
+    "id": "c04s02-feedback-1",
+    "window": "full",
+    "method": "Additional small.en check with voice activity filtering; final fourteen seconds where indicated.",
+    "scope": "Final current recording.",
+    "expected": "People may keep a membership because they did not notice an option, found switching difficult, or preferred to stay.",
+    "heard": "People may keep a membership because they did not notice an option, found switching difficult or preferred to stay.",
+    "raw_sha256": "207bedd2b9fc326ab02c035c6edc52312dbd73d0c83153f3ccd830b6c80b0825"
+  },
+  {
+    "id": "c04s04",
+    "window": "full",
+    "method": "Additional small.en check with voice activity filtering; final fourteen seconds where indicated.",
+    "scope": "Final current recording.",
+    "expected": "Informed choice needs understandable information. A switching cost can make an unwanted option hard to escape. Welfare concerns the consequences for people, not simply how many memberships the service retains.\n\nShow the price and renewal date clearly, offer an accessible cancellation route, and ask about unwanted charges. A default should not be treated as permission to hide information or manufacture agreement.",
+    "heard": "Informed choice needs understandable information. A switching cost can make an unwanted option hard to escape. Welfare concerns the consequences for people, not simply how many memberships the service retains. Show the price and renewal date clearly, offer an accessible cancellation route, and ask about unwanted charges. A default should not be treated as permission to hide information or manufacture agreement.",
+    "raw_sha256": "bf381a1ac431c7f8a317ecf74f53f3ff31c154c9251b2d87f60999619891fc26"
+  },
+  {
+    "id": "c08s04",
+    "window": "end",
+    "method": "Additional small.en check with voice activity filtering; final fourteen seconds where indicated.",
+    "scope": "Final current recording.",
+    "expected": "A design framework can help generate ideas. A pilot or feasibility study addresses specified practical questions; a small positive result does not automatically establish effectiveness.\n\nCheck whether staff can deliver the change, visitors can use it, and outcomes can be measured. Then use an appropriate evaluation. Keep a record of rejected alternatives so a convenient message does not crowd out a better response to the diagnosed barrier.\n\nPublication bias means that the published record can depend on which results are obtained. Reports of attractive successes may omit null or unwanted results. Seek a fuller record when assessing broad claims.",
+    "heard": "Publication bias means that the published record can depend on which results are obtained. Reports of attractive successes may omit null or unwanted results. Seek a fuller record when assessing broad claims.",
+    "raw_sha256": "80309f97a25b04b0647fd5ec9eab6255096ed3e4a20272512bf762d86e7f1bf4"
+  },
+  {
+    "id": "c09s03",
+    "window": "end",
+    "method": "Additional small.en check with voice activity filtering; final fourteen seconds where indicated.",
+    "scope": "Final current recording.",
+    "expected": "A causal effect compares an intervention with a specified alternative. Random assignment uses chance to allocate an assignment unit, such as a person or a workshop.\n\nA simultaneous comparison can help distinguish the reminder from changes in weather or available slots. If people share messages within a workshop, consider whether assigning workshops is more appropriate. Random assignment allocates units to conditions; random sampling selects units from a population using chance. These procedures answer different questions.",
+    "heard": "Consider whether assigning workshops is more appropriate. Random assignment allocates units to conditions. Random sampling selects units from a population using chance. These procedures answer different questions.",
+    "raw_sha256": "24265c68a99d2b8b39b71c88425ea2bc66b4aa6c9bb81771fcdf0e84818b621b"
+  }
+]

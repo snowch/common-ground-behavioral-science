@@ -577,18 +577,18 @@
   },
   "c09s03": {
     "type": "compare",
-    "title": "Two comparisons",
+    "title": "Two uses of chance",
     "left": [
-      "Before and after",
-      "Message and circumstances both change",
-      "Other changes may explain attendance"
+      "Random assignment",
+      "Allocate to conditions",
+      "Supports a causal comparison"
     ],
     "right": [
-      "Randomly assigned conditions",
-      "Compare approaches in the same period",
-      "Chance supports a fair comparison"
+      "Random sampling",
+      "Select from a population",
+      "Supports population estimation"
     ],
-    "caption": "Design and implementation still matter; random assignment is not a guarantee of perfect evidence."
+    "caption": "Chance serves different roles; design, measurement and coverage still matter."
   },
   "c09s03b": {
     "type": "rows",

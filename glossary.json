@@ -86,7 +86,8 @@
     "Boost": "An intervention intended to develop decision-making competence.",
     "Design framework": "A structure for generating and reviewing proposals.",
     "Pilot": "A small implementation used to examine feasibility or other specified questions.",
-    "Feasibility study": "Investigation of whether a proposed implementation or evaluation can be carried out."
+    "Feasibility study": "Investigation of whether a proposed implementation or evaluation can be carried out.",
+    "Publication bias": "Dependence of publication on research results."
   },
   "9": {
     "Causal effect": "A difference attributable to an intervention relative to a specified alternative.",
@@ -97,7 +98,8 @@
     "Attrition": "Loss of observations needed for an analysis.",
     "Confidence interval": "An interval produced by a procedure with specified long-run coverage under its assumptions.",
     "Preregistration": "A record of questions and analysis plans made before inspecting relevant results.",
-    "Interference": "One unit’s treatment affecting another unit’s outcome."
+    "Interference": "One unit’s treatment affecting another unit’s outcome.",
+    "Random sampling": "Selection of units from a population using a chance process."
   },
   "10": {
     "Average treatment effect": "An average difference attributable to an intervention in a defined population under the study conditions.",
